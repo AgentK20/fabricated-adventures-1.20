@@ -1,0 +1,13 @@
+name = "MapFrontiers"
+filename = "MapFrontiers-1.20.1-2.6.0p5-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a225655c229047fd1b8aaedf393b0f108c889eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5675515
+project-id = 366783

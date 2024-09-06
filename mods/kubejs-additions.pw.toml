@@ -1,0 +1,13 @@
+name = "KubeJS Additions"
+filename = "kubejsadditions-fabric-4.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df20097741a01b4390b642697e5c0272cc31f552"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5426657
+project-id = 594387

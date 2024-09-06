@@ -1,0 +1,13 @@
+name = "Completionist's Index [Forge & Fabric]"
+filename = "CompletionistsIndex-v8.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bbb4d6f15c2d79a70283301b96c5bdc0f01a712"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4613444
+project-id = 852667

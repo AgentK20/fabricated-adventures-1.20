@@ -1,0 +1,27 @@
+{
+	"addedSplashes": [
+		"How long until Boat?",
+		"<ends in -er>, I hardly know her!",
+		"Concrete, f*** yeah!",
+		"Nonbeeeeeeeeeeeeeeanary",
+		"Still Alive!",
+		"Haogy Haogy Haogy Haogy",
+		"Hypixel 2.0",
+		"Block games in 2024!",
+		"Wait...This isn't Factorio!",
+		"Now with 100% less Botany Pots",
+		"Ribbit!",
+		"Swiftie tested, Swiftie approved!",
+		"Now with §k90§r% less bugs!",
+		"RSVP",
+		"I was crazy once...",
+		"TRACTOR!",
+		"Orb is watching",
+		"Pwincesssssssss",
+		"Think of the bees!"
+	],
+	"removedSplashes": [],
+	"splashColor": 16776960,
+	// Removes all vanilla splashes.
+	"removeVanilla": true
+}

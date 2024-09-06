@@ -1,0 +1,13 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "main": {
+    "villagerInventory": true
+  },
+  "game": {
+    "chance": 3,
+    "breakAfterUse": true,
+    "available": true
+  }
+}

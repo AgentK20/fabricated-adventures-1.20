@@ -1,0 +1,13 @@
+name = "Simple Armor Hud"
+filename = "simple-armor-hud-1.20.2-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f8c56c07ba6592d7658ba18d14ca65d3bb8f2e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4801353
+project-id = 517757

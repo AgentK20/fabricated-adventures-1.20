@@ -1,0 +1,11 @@
+{
+  "bootstrap": {
+    "enabled": true
+  },
+  "main": {
+    "seedPouch": true,
+    "flowerPouch": true,
+    "saplingPouch": true,
+    "specialPouch": false
+  }
+}

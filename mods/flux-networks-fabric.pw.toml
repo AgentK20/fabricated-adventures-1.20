@@ -1,0 +1,13 @@
+name = "Flux Networks [Fabric]"
+filename = "FluxNetworks-Fabric-1.20.1-7.2.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b816ab764d938f18d130aaeb0815954f41935dbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5348881
+project-id = 962362

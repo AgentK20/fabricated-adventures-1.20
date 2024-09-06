@@ -1,0 +1,13 @@
+name = "JourneyMap Teams"
+filename = "JourneyMap-Teams-fabric-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ae67fd6809f98cbfdbfc980b416e5e1661d2f97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4805075
+project-id = 923833

@@ -1,0 +1,10 @@
+{
+  "bootstrap": {
+    "enabled": true
+  },
+  "game": {
+    "explodeOnDeath": true,
+    "explosionPower": 4.0,
+    "available": true
+  }
+}

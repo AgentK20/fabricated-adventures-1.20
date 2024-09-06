@@ -1,0 +1,13 @@
+name = "Game Menu Remove GFARB"
+filename = "gamemenuremovegfarb-fabric-mc1.19.4-2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34832dcf3cb85993c066a53a2d4a2190f191c10e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4664629
+project-id = 420519

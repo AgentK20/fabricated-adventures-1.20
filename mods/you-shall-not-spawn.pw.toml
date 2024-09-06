@@ -1,0 +1,13 @@
+name = "You Shall Not Spawn! [Forge/Fabric]"
+filename = "YouShallNotSpawn-fabric-1.20.x-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb5be5ef36a7c709719503a6b75c9f8a98c9d74a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5594652
+project-id = 628744
