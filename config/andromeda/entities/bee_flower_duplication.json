@@ -1,0 +1,9 @@
+{
+  "bootstrap": {
+    "enabled": true
+  },
+  "game": {
+    "tallFlowers": true,
+    "available": true
+  }
+}

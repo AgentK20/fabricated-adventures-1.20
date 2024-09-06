@@ -1,0 +1,11 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "main": {
+    "isAnvilMinecartOn": false,
+    "isNoteBlockMinecartOn": false,
+    "isJukeboxMinecartOn": false,
+    "isSpawnerMinecartOn": false
+  }
+}

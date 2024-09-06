@@ -1,0 +1,12 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "canZombiesThrowItems": true,
+    "zombieThrowInterval": 40.0
+  },
+  "client": {
+    "tooltip": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "main": {
+    "isFurnaceBoatOn": false,
+    "isTNTBoatOn": false,
+    "isJukeboxBoatOn": false,
+    "isHopperBoatOn": false
+  }
+}

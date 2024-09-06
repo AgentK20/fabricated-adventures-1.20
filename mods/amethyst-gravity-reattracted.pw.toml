@@ -1,0 +1,13 @@
+name = "Amethyst Gravity: Reattracted"
+filename = "amethyst-gravity-reattracted-2.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "299454249488024f6c3c91dabb788eca773fe6d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4976171
+project-id = 953013

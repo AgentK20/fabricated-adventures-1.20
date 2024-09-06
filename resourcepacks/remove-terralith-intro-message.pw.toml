@@ -1,0 +1,13 @@
+name = "Remove Terralith Intro Message"
+filename = "Remove_Terralith_Intro_Message.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f537f697c60bc051fb8db8681b39f1dc051acb83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3865745
+project-id = 641604

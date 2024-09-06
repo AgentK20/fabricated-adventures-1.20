@@ -1,0 +1,72 @@
+# Default config file that will be copied to world's serverconfig/ftbessentials.snbt location
+# Copy values you wish to override in here
+# Example:
+# 
+# {
+# 	misc: {
+# 		enderchest: {
+# 			enabled: false
+# 		}
+# 	}
+# }
+
+{
+  misc: {
+		# Allows users to access an Anvil GUI without needing an Anvil.
+		anvil: {
+			enabled: false
+		}
+		# Allows users to access a Crafting Table GUI without needing a Crafting Table.
+		crafting: {
+			enabled: false
+		}
+		# Allows users to access their ender chest, as well as admins to manage other players' ender chests.
+		enderchest: {
+			enabled: false
+		}
+		
+		# Allows users to set a custom hat as their head item by using a command
+		hat: {
+			# Default: true
+			enabled: false
+		}
+
+		# Allows users to access a Smithing Table GUI without needing a Smithing Table.
+		smithing: {
+			# Default: true
+			enabled: false
+		}
+		
+		# Allows users to access a Stonecutter GUI without needing a Stonecutter.
+		stonecutter: {
+			# Default: true
+			enabled: false
+		}
+	}
+	teleportation: {
+		# Allows users to return to their previous location after teleporting (or dying)
+		back: {
+			enabled: false
+		}
+		home: {
+			enabled: false
+		}
+		rtp: {
+			cooldown: 900
+			dimension_blacklist: ["ae2:spatial_storage"]
+			max_distance: 1000000
+			min_distance: 500000
+			warmup: 10
+		}
+		spawn: {
+			enabled: false
+		}
+		tpa: {
+			cooldown: 604800
+			warmup: 10
+		}
+		warp: {
+			enabled: false
+		}
+	}
+}

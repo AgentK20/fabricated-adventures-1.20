@@ -1,0 +1,13 @@
+name = "Silent's Delight"
+filename = "silentsdelight-fabric-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6ca37b24e0bba849cb31a32ea75b34f670e4ea4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5620365
+project-id = 1018647

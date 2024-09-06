@@ -1,0 +1,13 @@
+name = "Zephyr (Zenith - RPG Series compat)"
+filename = "zephyr-0.5.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2192685899d45e3db2029f7f58d3995e620e536"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5517992
+project-id = 924809

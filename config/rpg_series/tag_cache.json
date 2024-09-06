@@ -1,0 +1,30 @@
+{
+  "cache": {
+    "rpg_series:tier_4_weapons": [],
+    "rpg_series:tier_1_armors": [],
+    "rpg_series:tier_2_armors": [],
+    "rpg_series:tier_3_armors": [],
+    "rpg_series:tier_0_accessories": [],
+    "rpg_series:tier_1_accessories": [],
+    "rpg_series:tier_3_weapons": [],
+    "rpg_series:tier_2_accessories": [],
+    "rpg_series:tier_3_accessories": [],
+    "rpg_series:tier_1_weapons": [
+      "spellbladenext:fire_blade",
+      "spellbladenext:arcane_blade",
+      "spellbladenext:frost_blade"
+    ],
+    "rpg_series:golden_weapons": [],
+    "rpg_series:tier_2_weapons": [
+      "spellbladenext:flaming_falchion",
+      "spellbladenext:crystal_cutlass",
+      "spellbladenext:glacial_gladius",
+      "spellbladenext:frost_claymore",
+      "spellbladenext:arcane_claymore",
+      "spellbladenext:fire_claymore",
+      "spellbladenext:monkeystaff"
+    ],
+    "rpg_series:tier_4_accessories": [],
+    "rpg_series:tier_0_weapons": []
+  }
+}

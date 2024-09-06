@@ -1,0 +1,9 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "spawnerPicking": false,
+    "available": true
+  }
+}

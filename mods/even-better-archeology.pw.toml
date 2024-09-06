@@ -1,0 +1,13 @@
+name = "Even Better Archeology"
+filename = "evenbetterarcheology-2.0.0-beta.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LWRxA5tQ/versions/Wr9zjG0p/evenbetterarcheology-2.0.0-beta.6.jar"
+hash-format = "sha512"
+hash = "7e584decc7080a3125a86f0f5d97f95556afe1d0a0e158d1cbd9a2ce0e07d215826e2245544f9258df9c64a34f475f3270ef91be4301a1c469c0f0814a184371"
+
+[update]
+[update.modrinth]
+mod-id = "LWRxA5tQ"
+version = "Wr9zjG0p"

@@ -1,0 +1,13 @@
+name = "Keep That Music"
+filename = "keep-that-music-0.0.5 mc(1.16+).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "450715ed3aeb131c6c2e8953878a4b34d12de452"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5064751
+project-id = 621022

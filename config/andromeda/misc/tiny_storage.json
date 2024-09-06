@@ -1,0 +1,8 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "main": {
+    "transferMode": "FOLLOW_GAMERULE"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "affectsPassive": true,
+    "effectsRange": 5.0,
+    "effectList": [
+      {
+        "identifier": "minecraft:regeneration",
+        "amplifier": 0
+      }
+    ],
+    "available": true
+  }
+}

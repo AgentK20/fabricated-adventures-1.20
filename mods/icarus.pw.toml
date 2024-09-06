@@ -1,0 +1,13 @@
+name = "Icarus"
+filename = "Icarus-Fabric-2.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff6b3f1ee74abcb553040d1fe50b4ad75b5bc956"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5530923
+project-id = 428151

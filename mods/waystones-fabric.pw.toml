@@ -1,0 +1,13 @@
+name = "Waystones (Fabric Edition)"
+filename = "waystones-fabric-1.20-14.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4cd9faa6285e3ee11b2bba113ff205438c605495"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5661123
+project-id = 500087

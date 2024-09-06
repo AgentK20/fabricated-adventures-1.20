@@ -1,0 +1,13 @@
+name = "RightClickHarvest Supplementaries Compat"
+filename = "rch-supplementaries-compat-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b16351c170e04fa936f912b6b13a32f9e56d92c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5436018
+project-id = 1038427

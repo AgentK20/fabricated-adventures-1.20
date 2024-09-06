@@ -1,0 +1,13 @@
+name = "Modern UI"
+filename = "ModernUI-Fabric-1.20.1-3.10.1.4-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38631763676f97ac0ea377f7e1967385d3710a27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5229571
+project-id = 352491

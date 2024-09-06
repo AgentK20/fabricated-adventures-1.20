@@ -1,0 +1,7 @@
+name = "warden-with-loot"
+filename = "Warden With Loot 1.21-1.21.1.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/T2Z3j2pD/versions/epwGBqma/Warden%20With%20Loot%201.21-1.21.1.zip"
+hash-format = "sha256"
+hash = "83a30a6d4d81a420527727bc27c51c9d259ff5b2c500c64f95706688b8db90e7"

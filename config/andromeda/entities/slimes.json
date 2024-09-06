@@ -1,0 +1,12 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "flee": true,
+    "merge": true,
+    "maxMerge": 4,
+    "slowness": true,
+    "available": true
+  }
+}

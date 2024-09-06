@@ -1,0 +1,9 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "main": {
+    "maxFuel": 45000,
+    "takeFuelWhenLow": true
+  }
+}
