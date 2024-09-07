@@ -3512,6 +3512,11 @@ hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
 metafile = true
 
 [[files]]
+file = "mods/sleeping-overhaul-2.pw.toml"
+hash = "cb15b636bb022ac244687794bf737db1a6bba5d2e817135ad2a019fab1265bfc"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic-fabric.pw.toml"
 hash = "1574e5c3b0a69fdd0da15f1bef65e51a6c4fb68e0af94d73d707641a274eac51"
 metafile = true
