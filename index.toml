@@ -2517,6 +2517,11 @@ hash = "9f3daccd678da70ac2df008e41541a963d95617a2e37025db070fe722a6dd77c"
 metafile = true
 
 [[files]]
+file = "mods/decorative-gaming-consoles.pw.toml"
+hash = "da5771e6ce16a4876e966c0ec1c79520943e3166268d9b510bdb2ce73c5ee23f"
+metafile = true
+
+[[files]]
 file = "mods/deep-mob-learning-refabricated.pw.toml"
 hash = "20ac3d055333a0610ffdc7154bd7bfb9e846d98afda475bddfb24eb43e60783a"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Decorative Gaming Consoles"
+filename = "decorative-gaming-consoles-fabric-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43ac4d1e2a71d0889ebac86ffd39660fcdd09062"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4853532
+project-id = 421315
