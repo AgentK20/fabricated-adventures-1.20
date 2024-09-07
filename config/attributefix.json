@@ -66,6 +66,17 @@
         "value": 2048
       }
     },
+    "doggytalents:generic.crit_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "additionalentityattributes:player.collection_range": {
       "enabled": false,
       "min": {
@@ -319,6 +330,17 @@
         "value": 1000000
       }
     },
+    "doggytalents:generic.crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "additionalentityattributes:player.bonus_loot_count_rolls": {
       "enabled": false,
       "min": {
@@ -383,6 +405,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "doggytalents:forge_entity_gravity": {
+      "enabled": false,
+      "min": {
+        "default": -8,
+        "value": -8
+      },
+      "max": {
+        "default": 8,
+        "value": 8
       }
     },
     "zenith_attributes:current_hp_damage": {
@@ -460,6 +493,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "doggytalents:generic.jump_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "extraspellattributes:convertfromfrost": {
@@ -867,6 +911,17 @@
       "max": {
         "default": 9999,
         "value": 9999
+      }
+    },
+    "doggytalents:forge_swim_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "minecraft:generic.attack_knockback": {
