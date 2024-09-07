@@ -2162,6 +2162,11 @@ hash = "f4d08209f6a43c738fa0b8c542e9cc77d1a0a29123f8bdd50b7e24e6f1b5cd1a"
 metafile = true
 
 [[files]]
+file = "mods/better-mcdonalds-mod.pw.toml"
+hash = "9dc0fc4f670e562c8b9a4b7b6c32c337979722c3d6fffcef9d737b7b81fd9356"
+metafile = true
+
+[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "3ec39275606ec3fa45f7681ebac003c5cab962e77de1cf60d8a241639c736df2"
 metafile = true
