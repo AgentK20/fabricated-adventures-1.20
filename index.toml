@@ -2601,6 +2601,11 @@ hash = "a9a1cab9799d53f3166d46f5cb4471772fd412208c3695e2d58dded70c4447b7"
 metafile = true
 
 [[files]]
+file = "mods/better-dogs-x-doggy-talents-next.pw.toml"
+hash = "108643e45dc14056b6063ff97a379f5fc18447d5c330f267ddf8c7aae1923b3c"
+metafile = true
+
+[[files]]
 file = "mods/better-furnaces-reforged.pw.toml"
 hash = "2665e4a74f9ae1c7e8887557d0e19194058c7bcc408656448e4a202aab515687"
 metafile = true
@@ -3068,6 +3073,16 @@ metafile = true
 [[files]]
 file = "mods/enhanced-mob-spawners.pw.toml"
 hash = "37e97c838f536838165f95712ab5e285c92a9597094502199fb3d91ce17b7dff"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "63a45d36a0a0049375a52fc27d328f1c7e46ceaca7a22b0857d90d590f24b51c"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "ae38a5a7943133ce7329d48f75a6894606f6e71820bd1dac1dbd360042cdce2c"
 metafile = true
 
 [[files]]
@@ -4312,6 +4327,11 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "33ba64749cfa82cfd0841e9447bf7982ccde6ca2fb66311d54df7b8483b2d505"
+
+[[files]]
+file = "resourcepacks/better-dogs.pw.toml"
+hash = "58c0d0181131d3131774429d3da5ebe1af1f738f95c1f319e12399b24e450967"
+metafile = true
 
 [[files]]
 file = "resourcepacks/ctov-chefs-delight-compat.pw.toml"
