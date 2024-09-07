@@ -2621,11 +2621,6 @@ hash = "44e94d4ef6299403961d0e9b96b9ee38c55cfcf448193f1194c90b5a3e75f229"
 metafile = true
 
 [[files]]
-file = "mods/betterend.pw.toml"
-hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "b5602c093db5864177d5d1810d52ee2dc5d9fef829242d9734593ef7986be45b"
 metafile = true
@@ -3696,11 +3691,6 @@ hash = "92420a8464f7da1f0b558bff33b1a0e7924acd0a4b72735c6ec6fd7a5495c0d0"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "e75703f02c61dc12d85d23ad2e3aa7a435e377190a90ffcdb9af0eb1e2927210"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "4c60ae1dc1abdba75087d0d723f939b3e2634d14c32a09af99369605daf943c7"
 metafile = true
@@ -4031,6 +4021,11 @@ hash = "bcd20f96626401ce2deaa104187952027372203cce06ce02cb830318efc37eeb"
 metafile = true
 
 [[files]]
+file = "mods/stellarity.pw.toml"
+hash = "2e3f6c018b00e4308cd0a7febccbf67d70781472234501bcf8d1139d59d59e35"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight-fabric.pw.toml"
 hash = "96a28f4fafca4cb60c5a7e7fcd7d0942291b71baac3ba61b8c1e3f68a98b56c3"
 metafile = true
@@ -4237,11 +4232,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons-fabric.pw.toml"
 hash = "e20fd212ab36de5e8e10adc05087ccb28861d05afeab8f7ab5a22b4c1197ceea"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-end-island-fabric.pw.toml"
-hash = "a24a457628010726f99089cf342eceebab5d0d76168af2705686b79f92b80964"
 metafile = true
 
 [[files]]
