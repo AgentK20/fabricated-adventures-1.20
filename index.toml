@@ -4215,6 +4215,11 @@ hash = "acd55735f9afdce738488f79a359c799438447d13803929c74d45921f85f09a2"
 metafile = true
 
 [[files]]
+file = "mods/ydms-red-panda.pw.toml"
+hash = "ff37d2cc5d50ddbebe3ac6fb5fa0f851683ef1162317a9a03a7d34d7d75dec65"
+metafile = true
+
+[[files]]
 file = "mods/you-shall-not-spawn.pw.toml"
 hash = "d04c4b7d87e27d17db54c002892c37e3e556104c38062f330cf232ea4854749a"
 metafile = true
