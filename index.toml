@@ -2566,11 +2566,6 @@ hash = "5da2a2d5dd3afade71b5211892a4ceda00c5f561558416147ce4eed8efec9b4c"
 metafile = true
 
 [[files]]
-file = "mods/backrooms.pw.toml"
-hash = "0e87753107fb9afcec12fd6a3f0a62cc8fbdea8cfa6b8b6f1bf8c63c57d2d409"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "9d08648ed0147eab36f0f02f4ab6812150ef3fb3f1f2658a9c3c6ecd11da974e"
 metafile = true
@@ -3581,11 +3576,6 @@ hash = "bedc185732e8142cc94e42cbce04d5fdbed662231b432fa76fd963767e581078"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-transit-railway.pw.toml"
-hash = "a74ad232ab6018208af6c6cd1460fdbf1e870d1f31403ecbb938206b01b4e62f"
-metafile = true
-
-[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
@@ -3921,11 +3911,6 @@ hash = "f11e3bd8c6306880f826cddd7b772dc889efb53179e710ac67f01e6f400055c9"
 metafile = true
 
 [[files]]
-file = "mods/sihywtcamd.pw.toml"
-hash = "b93b048955812c81cf3baad109638ca124da0964064c72a104b3e3a505096f00"
-metafile = true
-
-[[files]]
 file = "mods/silents-delight.pw.toml"
 hash = "1010b05ba50566d75bbfdf9635feb9482431cabdd453edea7eac2e26ad193525"
 metafile = true
@@ -4043,11 +4028,6 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "bcd20f96626401ce2deaa104187952027372203cce06ce02cb830318efc37eeb"
-metafile = true
-
-[[files]]
-file = "mods/stellarity.pw.toml"
-hash = "2e3f6c018b00e4308cd0a7febccbf67d70781472234501bcf8d1139d59d59e35"
 metafile = true
 
 [[files]]
