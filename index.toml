@@ -2691,6 +2691,11 @@ hash = "62eee72c3a020fa7e20ddb186d6831b2a8561ab8f1345b0e3bf1d3fa5322ce90"
 metafile = true
 
 [[files]]
+file = "mods/branded-logs.pw.toml"
+hash = "20f929006bc3a4803e9f2d8d7fdd8fa7cf2131074d566cb4c7735cfa251ed01d"
+metafile = true
+
+[[files]]
 file = "mods/brazier.pw.toml"
 hash = "daa6f7d1aeb9376be194758e12d062edffd18bc7bad287cc62dab4da1e56709f"
 metafile = true
