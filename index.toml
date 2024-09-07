@@ -3626,6 +3626,11 @@ hash = "a7fb04811148797e2e9ab5cdfe50e4ed73c843dd5447c1099291dae3c778ae62"
 metafile = true
 
 [[files]]
+file = "mods/multibeds-fabric.pw.toml"
+hash = "b27af126c10a49b3c56502dd947e795f47af7fd67453d60bbb0043ad9e0a44e7"
+metafile = true
+
+[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "b350cc83e24f5927ff800af0c21f70713aaff9458f1fb70bac4d13c3e670cf09"
 metafile = true
