@@ -1,6 +1,6 @@
 {
   "bootstrap": {
-    "enabled": true
+    "enabled": false
   },
   "game": {
     "explodeOnDeath": true,
