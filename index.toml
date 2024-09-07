@@ -3191,11 +3191,6 @@ hash = "4b6e750998339114bf081528a710bf1f0090b52b9c83b971a727dd55157b67f7"
 metafile = true
 
 [[files]]
-file = "mods/ftb-ultimine-fabric.pw.toml"
-hash = "dfa3b6fcff71eda68630dbadf8e23d28713e8ee45fd26a4b1df53a98c804575c"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "dc59c6208d7b2e6c2609e0a2d0aadbe4c24a2090abf9afaad1fd21f33b521a2d"
 metafile = true
