@@ -1,0 +1,13 @@
+name = "Invisible Armor"
+filename = "invisible_armor-1.0.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a80565f9bb63697141acbcb2595b2c332173a0ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5526306
+project-id = 1062486
