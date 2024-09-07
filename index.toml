@@ -2127,6 +2127,11 @@ hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
 metafile = true
 
 [[files]]
+file = "mods/beautified-chat-server.pw.toml"
+hash = "54c18f7e86261bf4972b76d9da5a040f9a634f07bc8a9ff3364877b8acdec00a"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "2f0c572f52bd5508491258b40a1d18e3b5c93dfba89848d09ca68d43e0d3a8ee"
 metafile = true
