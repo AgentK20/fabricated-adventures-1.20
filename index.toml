@@ -2566,6 +2566,11 @@ hash = "5da2a2d5dd3afade71b5211892a4ceda00c5f561558416147ce4eed8efec9b4c"
 metafile = true
 
 [[files]]
+file = "mods/backrooms.pw.toml"
+hash = "0e87753107fb9afcec12fd6a3f0a62cc8fbdea8cfa6b8b6f1bf8c63c57d2d409"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "9d08648ed0147eab36f0f02f4ab6812150ef3fb3f1f2658a9c3c6ecd11da974e"
 metafile = true
