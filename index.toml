@@ -2282,6 +2282,11 @@ hash = "326119808f5ac4cee0b838c7b1eb321984b26e48fb5aef9c151452d14d8b0e05"
 metafile = true
 
 [[files]]
+file = "mods/cerbons-better-beacons.pw.toml"
+hash = "fb3932d86ee19662e71364d63969902ab906b2422de96773ca9da948993843c9"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "41cbd529d0a8373a536f9b4550f96e5574c94d66029567b31d60cec32bf2604e"
 metafile = true
