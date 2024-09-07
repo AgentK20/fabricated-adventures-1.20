@@ -1,0 +1,13 @@
+name = "Water Balloon"
+filename = "waterballoon-fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "569006b804602733b6ba30f56b1d2525de883393"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5433711
+project-id = 1037173

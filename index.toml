@@ -3761,6 +3761,11 @@ hash = "d07633020f47c59a70cebb55a0fbe620905382bb5fa2546a4167cb60cd19066b"
 metafile = true
 
 [[files]]
+file = "mods/water-balloon.pw.toml"
+hash = "109265840aa07f2ca98112d431abc0dbd77583e71a85d38cfe7a59648b26f3b1"
+metafile = true
+
+[[files]]
 file = "mods/waystones-fabric.pw.toml"
 hash = "1c42b95feca985b3426a29a5afd64b5a1e4db6031462f38acdc2e0215b66e89a"
 metafile = true
