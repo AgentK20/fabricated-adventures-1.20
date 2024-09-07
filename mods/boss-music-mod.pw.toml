@@ -1,0 +1,13 @@
+name = "♪ Boss Music Mod ♪"
+filename = "Boss Music Mod 1.20-1.20.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a728a6147784f28f4d31a6c31fd48e187298d218"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5579424
+project-id = 501159
