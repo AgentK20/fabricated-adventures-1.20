@@ -1,0 +1,13 @@
+name = "Minecraft Transit Railway (Automated trains, planes, and more!)"
+filename = "MTR-fabric-1.20-3.2.2-hotfix-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6ffd86b001b8bcd1cf307d5638b7af4b2c7841f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4575135
+project-id = 266707
