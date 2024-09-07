@@ -3342,6 +3342,11 @@ hash = "9ec44a681db11935030a29f7ea0f0b7138a7b4d331f2681553ac63f62cf5b0d8"
 metafile = true
 
 [[files]]
+file = "mods/perplayerwanderingtraders.pw.toml"
+hash = "00729f5911a33e8f34ca3253b1e3cbb73f4af9651b19f05b476a9cdaae7a5e48"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "7aa88c3736f441c44c44457e337d0c45eaa4302efd807f5023757ddd44d6de20"
 metafile = true
