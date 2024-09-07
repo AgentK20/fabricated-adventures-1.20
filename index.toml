@@ -3017,6 +3017,11 @@ hash = "a73defaa93f5622ec5efbbcb9f8dd71f9ed4d0d27c8376fe14cc1ac41d0ff3f9"
 metafile = true
 
 [[files]]
+file = "mods/lava-java.pw.toml"
+hash = "bf6cd41390734b8017b8f240d8c5a57823d59991c0ae5f821bacb96e644aa684"
+metafile = true
+
+[[files]]
 file = "mods/lavender-api.pw.toml"
 hash = "505b2a92d050a7debdf7d72938d673fb8ab4c3ebfdb1714573a03ae02b5a0897"
 metafile = true
