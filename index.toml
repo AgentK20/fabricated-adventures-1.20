@@ -2117,6 +2117,11 @@ hash = "bceff7e83d9d98492029e904437aca82b7fd5039cada99314c7cbcf2cdc1da8d"
 metafile = true
 
 [[files]]
+file = "mods/barista.pw.toml"
+hash = "1688fda90624a8ed035c1465231d091b7d7a725beaca7f593e728eeb915ec73b"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
 metafile = true
