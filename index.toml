@@ -3502,6 +3502,11 @@ hash = "66839768d218f26b1890aee950ae69658bcdd3a754d5ddad593454410d989918"
 metafile = true
 
 [[files]]
+file = "mods/shetiphiancore-fabric.pw.toml"
+hash = "215023d51a4785a2dd40f8a40c351df5a98bcf74dcfe3cd3ab518f508a618496"
+metafile = true
+
+[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "baf6966f04cac626678b4ebe59029795f9c83a05ccc85496dffd1b8ba225fee9"
 metafile = true
