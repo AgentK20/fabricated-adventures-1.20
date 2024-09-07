@@ -2522,6 +2522,11 @@ hash = "9923b5b80ca725f838e3298d412376cfef3646ad88666c4d1402aa1181673cd5"
 metafile = true
 
 [[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "c10b810dc360765845c84415b378e549f004b9402d26e3b382cc0f0e31169984"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "3e11c7210511f5bc23c19c650a38c27be236031b4d969d71d91e6fbc3d6f936b"
 metafile = true
@@ -3434,6 +3439,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "ad8855018f63bff0d9f91955fbf455f444a3f6e6f64feec7ae01a6f6bfc07a4e"
+metafile = true
+
+[[files]]
+file = "mods/shader-toggle.pw.toml"
+hash = "66839768d218f26b1890aee950ae69658bcdd3a754d5ddad593454410d989918"
 metafile = true
 
 [[files]]
