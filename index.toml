@@ -398,7 +398,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "be349928da5e0bbdc97a325f3743dfb542824c80a6fc2a4166d8a9af5db802b8"
+hash = "1258294f8540dda34d6da2be2ba844cc82bf8c03eab8f495346832351c8c94fc"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -3755,11 +3755,6 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
-metafile = true
-
-[[files]]
-file = "mods/sleeping-overhaul-2.pw.toml"
-hash = "cb15b636bb022ac244687794bf737db1a6bba5d2e817135ad2a019fab1265bfc"
 metafile = true
 
 [[files]]
