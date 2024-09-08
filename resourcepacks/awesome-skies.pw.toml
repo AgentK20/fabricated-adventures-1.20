@@ -1,0 +1,13 @@
+name = "Awesome Skies"
+filename = "Awesome-Skies-v1.5-0.6.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "317bb4e02948432cc26406754a102121c1d75463"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4070955
+project-id = 457783

@@ -4135,6 +4135,11 @@ hash = "d5be306b16aac248c3d5084dfb0ab53be3ec9ca783d7a9eb6da31531145c55be"
 metafile = true
 
 [[files]]
+file = "resourcepacks/awesome-skies.pw.toml"
+hash = "ded1e0fc60ae4c419ec8248a2b0c95750441ae8e6cc400b08f62b0288329df7c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-dogs.pw.toml"
 hash = "58c0d0181131d3131774429d3da5ebe1af1f738f95c1f319e12399b24e450967"
 metafile = true
