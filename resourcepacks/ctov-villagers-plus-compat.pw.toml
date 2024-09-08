@@ -1,6 +1,6 @@
 name = "CTOV - Villagers Plus Compat"
 filename = "ctov-villager-plus-add-on-v2-0.zip"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

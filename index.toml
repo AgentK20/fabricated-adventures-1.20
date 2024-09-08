@@ -4146,12 +4146,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ctov-chefs-delight-compat.pw.toml"
-hash = "d5944137129e12e00bd13b5fefb8b49a6ec188d07984b5de3fe35ab9df1610ef"
+hash = "7f4a55a133c4f2e7d1b7f4265c2897603a89a21aa513a229eda154827c8108ab"
 metafile = true
 
 [[files]]
 file = "resourcepacks/ctov-villagers-plus-compat.pw.toml"
-hash = "3fa62cac984c8e59dabdd5bc9ea6df52d507028ac76e115093466d1a3e02ef03"
+hash = "f609e706d54de809d655ae7c4faa8cfb8d079ec075962a27581ea894ee7d00b2"
 metafile = true
 
 [[files]]
