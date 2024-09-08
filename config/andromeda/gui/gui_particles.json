@@ -1,0 +1,14 @@
+{
+  "bootstrap": {
+    "enabled": false
+  },
+  "client": {
+    "anvilScreenParticles": true,
+    "enchantmentScreenParticles": true,
+    "furnaceScreenParticles": true,
+    "creativeScreenParticles": true,
+    "creativeScreenParticlesVelX": 0.7,
+    "gameModeSwitcherParticles": true,
+    "bundleInputParticles": true
+  }
+}

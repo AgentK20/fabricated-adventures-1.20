@@ -1,0 +1,14 @@
+{
+  "moduleList": [
+    {
+      "name": "icon",
+      "display": true,
+      "context": "icon.png"
+    },
+    {
+      "name": "text",
+      "display": true,
+      "context": "Fabricated Adventures 1.20.1"
+    }
+  ]
+}

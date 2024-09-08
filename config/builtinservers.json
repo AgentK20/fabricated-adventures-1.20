@@ -1,0 +1,20 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "The Mines",
+      "address": "99.56.12.73:25595",
+      "forced": true
+    },
+    {
+      "name": "The Mines (Beta)",
+      "address": "99.56.12.73:25596",
+      "forced": false
+    },
+    {
+      "name": "The Mines (LAN)",
+      "address": "198.19.11.51:25595",
+      "forced": false
+    }
+  ]
+}

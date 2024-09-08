@@ -1,6 +1,6 @@
 name = "CTOV - Chef's delight compatibility pack"
 filename = "ctov-chefs-delight-add-on-v1-0.zip"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

@@ -50,16 +50,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "tesseract": {
-    "tesseract_component": true
-  },
   "zenith": {
     "adventure": true,
-    "ench": true,
-    "spawner": true
-  },
-  "supplementaries": {
-    "hat_stand": true
+    "ench": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -69,9 +62,6 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "waystones": {
-    "waystone": true
-  },
   "fruitfulfun": {
     "inspector": true
   },
@@ -79,12 +69,10 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
-  "iceandfire": {
-    "multipart": true,
-    "dragon": true
-  },
-  "fluxnetworks": {
-    "device_data_provider": true
+  "infinitybuttons": {
+    "hide_secret_buttons": true,
+    "hide_lantern_buttons": true,
+    "hide_torch_buttons": true
   },
   "ae2": {
     "part_icon": true,
@@ -97,5 +85,25 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "tesseract": {
+    "tesseract_component": true
+  },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "multibeds": {
+    "hud": true
+  },
+  "fluxnetworks": {
+    "device_data_provider": true
   }
 }
