@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["fabric","seasons:seasonal_lush_caves"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","seasons:seasonal_lush_caves","Moonlight Mods Dynamic Assets","file/Awesome-Skies-v1.5-0.6.0.zip","file/Better_Dogs_V0.41.zip"]
+incompatibleResourcePacks:["file/Awesome-Skies-v1.5-0.6.0.zip","file/Better_Dogs_V0.41.zip"]
 lastServer:198.19.11.51:25595
 lang:en_us
 soundDevice:""
@@ -121,7 +121,6 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.ftbteams.open_gui:key.keyboard.unknown
-key_key.ftbultimine:key.keyboard.grave.accent
 key_key.valkyrienskies.ship_down:key.keyboard.unknown
 key_key.valkyrienskies.ship_cruise:key.keyboard.unknown
 key_key.ad_astra.toggle_suit_flight:key.keyboard.unknown
@@ -142,9 +141,14 @@ key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
 key_key.azurelib.reload:key.keyboard.unknown
 key_key.azurelib.scope:key.keyboard.unknown
 key_key.azurelib.fire:key.keyboard.unknown
+key_barista.key.reload:key.keyboard.f12
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.botania_corporea_request:key.keyboard.unknown
+key_key.buildguide.openbuildguide:key.keyboard.b
+key_key.buildguide.toggleenable:key.keyboard.unknown
+key_key.buildguide.setorigin:key.keyboard.unknown
+key_key.buildguide.setglobalorigin:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
@@ -171,6 +175,8 @@ key_key.deeperdarker.transmit:key.keyboard.v
 key_key.dml-refabricated.teleport:key.keyboard.v
 key_key.dml-refabricated.soul_vision:key.keyboard.y
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12
 key_fakerlib.toggleWings:key.keyboard.keypad.8
 key_fakerlib.toggleTrails:key.keyboard.keypad.9
 key_key.fpsdisplay.toggleOverlay:key.keyboard.unknown
@@ -191,6 +197,8 @@ key_key.indrev.jetpack_toggle:key.keyboard.j
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
+key_key.jade.show_recipes:key.keyboard.keypad.3
+key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.journeymap.zoom_in:key.keyboard.equal
@@ -213,8 +221,13 @@ key_key.journeymap.fullscreen.disable_buttons:key.keyboard.h
 key_mapfrontiers.key.open_settings:key.keyboard.f8
 key_key.modernui.openCenter:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
+key_ping-wheel.key.ping-location:key.mouse.5
+key_ping-wheel.key.open-settings:key.keyboard.unknown
+key_ping-wheel.key.name-labels:key.keyboard.left.alt
 key_seamless_loading_screen.keybind.config:key.keyboard.unknown
 key_key.seasonhud.options:key.keyboard.h
+key_key.shetiphiancore.tool.next:key.keyboard.page.up
+key_key.shetiphiancore.tool.previous:key.keyboard.page.down
 key_key.showmeyourskin.open_settings:key.keyboard.unknown
 key_key.showmeyourskin.global_toggle:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
@@ -250,6 +263,7 @@ key_key.things.place_item:key.keyboard.unknown
 key_key.things.openenderchest:key.keyboard.unknown
 key_key.things.toggle_socks_jump_boost:key.keyboard.unknown
 key_key.veinmining.activate.desc:key.keyboard.unknown
+key_key.wildfire_gender.gender_menu:key.keyboard.g
 key_key.zenith.toggle_radial_mining:key.keyboard.o
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
