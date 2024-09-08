@@ -2642,7 +2642,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured-defaults.pw.toml"
-hash = "558e7e2a556d46b24fba83602f413500a4575f1838e48acb43efccf329b40a17"
+hash = "157e0d1acded072aee633b227d5273121330f7ab7ccd8c6c5df5c5102db717fb"
 metafile = true
 
 [[files]]
