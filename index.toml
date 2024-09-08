@@ -702,7 +702,7 @@ hash = "4ff118c3bf2614ef4e86187f1c0b05551324507a136f8932153ca65537fb95a6"
 
 [[files]]
 file = "config/configurablesplashtexts/general.json5"
-hash = "0731fc4b72cc79837bde62e4acd16309c5e6d14abeac1dea29867e677c8cbf0f"
+hash = "7cd2c7b05d52460a46b38955f90e67e49afd23fd2d7f5658dfa8338737167144"
 
 [[files]]
 file = "config/constructionwand-client.toml"
@@ -834,7 +834,7 @@ hash = "a797cf710f570ca07e9182c7b796a8caf39ed543731fd3d21246816ca06eaf68"
 
 [[files]]
 file = "config/emi.css"
-hash = "c2593e23581f10035eab2d56337604f433131362fa1b4583724836031ac95d4e"
+hash = "fc52a4fda03bfb050de054a3407e7076abaf0933db3301f2ba46e43502868d18"
 
 [[files]]
 file = "config/emitrades.json5"
@@ -2074,7 +2074,7 @@ hash = "079279096f11d9388deaf038009b293eaf2cc4215029eaac8e7f99805e16d1fb"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "815035798200ff225002f8ab1bf0429ab02ef5bc7ebebda8c47fd0ac0102de7a"
+hash = "8e1348c2fbfa8f1771b611a8ecc6b4dd5582522a778c772836166d32d6554aba"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
@@ -2083,14 +2083,6 @@ hash = "79d2a93e31f95c2bf36e199c5750ce4ae44d149d5945cd7f22a764aaaf192bc9"
 [[files]]
 file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
 hash = "d9370c264daed232a167d23424db1d1ae8c01ac00377700fdd345a8a1b7afd75"
-
-[[files]]
-file = "defaultconfigs/ftbultimine/ftbultimine-client.snbt"
-hash = "29b00fa9efa03679a1743cad71b994decd0f79a597aaac22994e38278079d226"
-
-[[files]]
-file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
-hash = "bf8117244971652f1a404de38c3332c037dc090790b492d3b81525753b3a142b"
 
 [[files]]
 file = "essential/config.toml"
