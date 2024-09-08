@@ -69,7 +69,7 @@
 	#TitleBreak and CenterTitle will work/appear at the same time.
 	titleBreak = true
 	#Whether to enable Modern UI enhanced tooltip, or back to vanilla default.
-	enable = true
+	enable = false
 	#The width of tooltip border, if rounded, in GUI Scale Independent Pixels.
 	#Range: 0.5 ~ 2.5
 	borderWidth = 1.3333333730697632
