@@ -1,13 +1,13 @@
 name = "Disenchanter"
-filename = "disenchanter-0.1.8+1.20.jar"
+filename = "disenchanter-0.1.9+1.20.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8b35db1b43786bac00f01bd6df738720398a4efb"
+hash = "53e99039278402b5c3d27fed879ec7521bdedf14"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4712824
+file-id = 4919676
 project-id = 542473
