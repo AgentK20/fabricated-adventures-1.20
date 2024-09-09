@@ -2758,9 +2758,8 @@ hash = "25f52c263f75f7e39d3f062d56e3488acff6fd962cf02284e09ee37a987772a9"
 metafile = true
 
 [[files]]
-file = "mods/disenchanter.pw.toml"
-hash = "305052a4beb3893f977619100d01a9b508730fbd06e320ed4f3a38cd5a48f228"
-metafile = true
+file = "mods/disenchanter-0.1.8+1.20.jar"
+hash = "bf7b9acb78e853c72188d2676c4af8695a3c2d09af69a75e63942ca4e6a80225"
 
 [[files]]
 file = "mods/distant-friends.pw.toml"
