@@ -398,7 +398,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "abcc549104d2c1b6545b5defa8cb1cc17b629c4e851872b3965a898e98535c9a"
+hash = "c0a181bb2d0a67f2b82a5ec7312e7bfb379fa4bec2870e19ab70fc498f6ef11d"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -770,7 +770,7 @@ hash = "7f4c07c57a6faedb7a9078e6ad0cf650948b56e2ca430b295ffe14e533538989"
 
 [[files]]
 file = "config/disenchanter.json5"
-hash = "a56cf468b72a8cdc470a68b30a6621440528eeea4a575d02e119b4e235aef488"
+hash = "94a0eb481f6ad7e5e4ae4f2e8a803199df97087a2b112175b1a65832c5e827ac"
 
 [[files]]
 file = "config/distantfriends.toml"
@@ -2758,9 +2758,8 @@ hash = "25f52c263f75f7e39d3f062d56e3488acff6fd962cf02284e09ee37a987772a9"
 metafile = true
 
 [[files]]
-file = "mods/disenchanter.pw.toml"
-hash = "b3d4d24949086702aa8685ac50a91d3e3aa3473ab6bf5f860f40875da3233f34"
-metafile = true
+file = "mods/disenchanter-0.1.8+1.20.jar"
+hash = "bf7b9acb78e853c72188d2676c4af8695a3c2d09af69a75e63942ca4e6a80225"
 
 [[files]]
 file = "mods/distant-friends.pw.toml"
