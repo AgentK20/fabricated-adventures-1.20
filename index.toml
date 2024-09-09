@@ -26,7 +26,7 @@ hash = "a18b5458efe601053e19568335d288b8244e034fcdc5c64d38d073b67b92b9bb"
 
 [[files]]
 file = "config/ModernUI/client.toml"
-hash = "308dfeab32903099fc61ff2c45498c35c42ea2e8f03464fa12f2dedf17a83966"
+hash = "a7b32e6a91aa41181ccce1002d3fe85fbd0fb1cf5650a5ff364185c805982de4"
 
 [[files]]
 file = "config/ModernUI/common.toml"
@@ -398,7 +398,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "1258294f8540dda34d6da2be2ba844cc82bf8c03eab8f495346832351c8c94fc"
+hash = "abcc549104d2c1b6545b5defa8cb1cc17b629c4e851872b3965a898e98535c9a"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -815,10 +815,6 @@ hash = "11310ac5d91c2f5cd2e723ae46962ce2407037dbc5f3b50dbcd386d09f4adaa1"
 [[files]]
 file = "config/durabilitytooltip-common.toml"
 hash = "b280c0f00da372d810af17d6628a2448c03c37df4c1f01b4b54b362f2e72d324"
-
-[[files]]
-file = "config/dynamic_fps.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/easyanvils-client.toml"
@@ -1493,10 +1489,6 @@ file = "config/pal.properties"
 hash = "f478a926988b76d24b7073a5a83675536a3ba1bbcea85c65323d3bd92631b24c"
 
 [[files]]
-file = "config/particle_core_config.toml"
-hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
-
-[[files]]
 file = "config/particle_core_disabled_optimizations.json"
 hash = "2bcb7aea228925ebab95b854ac359bc26993af0a6f4b49b33e6cb734d284c35b"
 
@@ -2071,6 +2063,14 @@ hash = "b510ce1eba54f062801f38b77ec78247ea87c77ce0365187cbf14f1ef65489e5"
 [[files]]
 file = "config/zenith_attributes.cfg"
 hash = "079279096f11d9388deaf038009b293eaf2cc4215029eaac8e7f99805e16d1fb"
+
+[[files]]
+file = "configureddefaults/config/dynamic_fps.json"
+hash = "b5e2d44346330097dd3cccb71929f0d4c34eea7df576286b62e615b6184b1f1a"
+
+[[files]]
+file = "configureddefaults/config/particle_core_config.toml"
+hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
 
 [[files]]
 file = "configureddefaults/options.txt"
