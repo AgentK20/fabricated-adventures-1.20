@@ -770,7 +770,7 @@ hash = "7f4c07c57a6faedb7a9078e6ad0cf650948b56e2ca430b295ffe14e533538989"
 
 [[files]]
 file = "config/disenchanter.json5"
-hash = "a56cf468b72a8cdc470a68b30a6621440528eeea4a575d02e119b4e235aef488"
+hash = "94a0eb481f6ad7e5e4ae4f2e8a803199df97087a2b112175b1a65832c5e827ac"
 
 [[files]]
 file = "config/distantfriends.toml"

@@ -28,5 +28,6 @@
 			"enabled": true,
 			"required_item_count": 1
 		}
-	}
+	},
+	"allowDisenchantingWithoutCatalyst": false
 }
