@@ -2608,11 +2608,6 @@ hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
 metafile = true
 
 [[files]]
-file = "mods/colorful-hearts.pw.toml"
-hash = "33c1d3cc54d7f109c25b7c71166b9f03fdfb011c895bd9049484f039174b3619"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "1dd8248a051e4dcd597b2bce8a231d046173d2f9a18512704aa5a843c3034765"
 metafile = true
@@ -3534,6 +3529,11 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator-fabric.pw.toml"
 hash = "64740efa09bc5a72432187d939fe6d926891b35adf6beedbd2c8b3bf48dd54c6"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "85a90ea5eb63cd3c62e5556977bd18c6e1791c27863885b0249f4bc0523a58a2"
 metafile = true
 
 [[files]]
