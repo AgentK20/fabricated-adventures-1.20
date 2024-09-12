@@ -3237,6 +3237,11 @@ hash = "1567dc7a6628a5aed513e6c1804d3e3e5b78510d5ac1732ddefee2ce1069f746"
 metafile = true
 
 [[files]]
+file = "mods/kibe.pw.toml"
+hash = "89e997ac208afad939b9d43b8b4e785dd6e6e405fc4a785d311a0af42821a656"
+metafile = true
+
+[[files]]
 file = "mods/kiwi-fabric.pw.toml"
 hash = "dd02dd1295b6eee5835cca608975083335c8d41c0462f1d63cc23e5709085b28"
 metafile = true
