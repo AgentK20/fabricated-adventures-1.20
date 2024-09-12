@@ -2897,6 +2897,11 @@ hash = "3d1ce5b575481bc050748a327b1b798698dbaff5e47d6848f4ded1deea99d7fe"
 metafile = true
 
 [[files]]
+file = "mods/experienced-crops.pw.toml"
+hash = "9cc026daee170efe76c98bebbc061c62173c1b80af0daf2bf934778935f7bb39"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "c2e938d1bdd1136e04b8be8c1378e2e33956ac23aa91d3a76003db6f2f75cbd1"
 metafile = true
@@ -3934,6 +3939,11 @@ metafile = true
 [[files]]
 file = "mods/timeoutout-fabric.pw.toml"
 hash = "aa30fa9ce08bc01bf1d858b7d0c020b0955954e29f7c560fbacb7e90318308f0"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "b45567da0b3a992bc7e80a447d57709b4afce4e0d52adeb0d9495f84a2052ef2"
 metafile = true
 
 [[files]]
