@@ -89,4 +89,4 @@ recipe_cache = 10
 	# 3 = Reliquary 
 	# 4 = Kibe Utilities
 	#Range: 0 ~ 4
-	xp_fluid_type = 0
+	xp_fluid_type = 4
