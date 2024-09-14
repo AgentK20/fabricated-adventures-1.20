@@ -1490,7 +1490,7 @@ hash = "d17d0bec5ecc9d60d3c47e2d6a7bf45c24516d40a568fba61d7c0f501d1546e2"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
-hash = "0233ede4d5554cee161b62fb760cd4c150b9ab8d798352c3284f74dc7566365c"
+hash = "ce8264e4eab2940fa22350b6bae722a175c012acac39e6b14046d70a247e5071"
 
 [[files]]
 file = "config/pal.properties"
