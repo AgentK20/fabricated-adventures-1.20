@@ -398,7 +398,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f5d5bc02a97ebeb1d7d3a41208b696b3eb3be306c5ff3c2027023f9def0a1330"
+hash = "62f940e582db5842a9fc26d8076348556d6b2b1b79cb833db885bcadcc1f2720"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -3268,6 +3268,11 @@ metafile = true
 [[files]]
 file = "mods/lavender-api.pw.toml"
 hash = "505b2a92d050a7debdf7d72938d673fb8ab4c3ebfdb1714573a03ae02b5a0897"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "7b106db2cfb5a2aad5ac0f3f9282af7b1fcae68cee63f98e50764c38972bf5c6"
 metafile = true
 
 [[files]]
