@@ -1,0 +1,13 @@
+name = "Early Loading Bar"
+filename = "EarlyLoadingBar-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9194cbc06c572857f337b1e9030c530655f48a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5676087
+project-id = 1093364

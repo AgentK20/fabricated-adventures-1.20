@@ -2811,6 +2811,11 @@ hash = "377a8576bb22cc178292fcb229560bf122df06581e6db3dbabda49ae8ef2f81e"
 metafile = true
 
 [[files]]
+file = "mods/early-loading-bar.pw.toml"
+hash = "667a1607b97bf288b343142ec340d6cfb80e42c975f4b8398ffb719ea6805a4e"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9b3bea54a03323d144c7c8bc854c95dc2320862e6746396c720c907b3fbe144a"
 metafile = true
@@ -4038,6 +4043,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "f988539767e9fe907cb5a0f14a35a40d92cbd730cfa3eed6ad5bc097c27c37de"
+metafile = true
+
+[[files]]
+file = "mods/trajectory-estimation.pw.toml"
+hash = "8e8bb81922549b4db548c04c29e3643ce996e5fda0e0e3b2256b99e178ee88f7"
 metafile = true
 
 [[files]]
