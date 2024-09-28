@@ -3001,6 +3001,11 @@ hash = "e52dd1a8ddc694c62c45c2950ef24be55caf70b356a0e22071433e923409ca91"
 metafile = true
 
 [[files]]
+file = "mods/farmers-structures.pw.toml"
+hash = "837a4cd76074b9bcec0eca2e4f7dda9e76f058e154e9a203081be573be46da7c"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "42069309eefb11158a1072514fd76140ca349f1355189a2734967bdf3aedb22d"
 metafile = true
@@ -3023,6 +3028,11 @@ metafile = true
 [[files]]
 file = "mods/festive-delight.pw.toml"
 hash = "7a8626b88b4f0179a31970587a15f2e14a066363cb7e2cf467080f846ae91f37"
+metafile = true
+
+[[files]]
+file = "mods/firorize.pw.toml"
+hash = "23fd3c67ea96f947e197586f6aa5eed40a439e642cab10bd4148404a427755ee"
 metafile = true
 
 [[files]]
@@ -3536,6 +3546,11 @@ hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
+file = "mods/nebulus-cherryblossom-tree.pw.toml"
+hash = "13c053ce9769bb9c3ec685d98f16532c5707646d805bd517a705f4f1c9aa1f0f"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "82353cd9b74b15dc32229b2ad2cac620a35972422ebc15db60e2268c42c05f0e"
 metafile = true
@@ -3693,6 +3708,16 @@ metafile = true
 [[files]]
 file = "mods/prometheus-exporter.pw.toml"
 hash = "fc30442e9257bae470b857afe6397b85035dca6d27b194f57dd2cf94b76f1ced"
+metafile = true
+
+[[files]]
+file = "mods/purediscslofi.pw.toml"
+hash = "9fe3fa00059c2d8eca9926c601be11193a2c664724f688408ea0db9b14e2fb8a"
+metafile = true
+
+[[files]]
+file = "mods/purediscstrailstales.pw.toml"
+hash = "521ea238fa7e41313282bff02c10de3d8d4a78b211f4a419da61b4b552fe9c22"
 metafile = true
 
 [[files]]
