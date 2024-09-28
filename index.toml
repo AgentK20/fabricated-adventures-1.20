@@ -2202,6 +2202,11 @@ hash = "741f4cc48c6dd8f6e3dfeabadc7b01b004d402b972670184f30e0774ec713cdb"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra-delight.pw.toml"
+hash = "b12f0bcb0ad9931a9c4efe1f5bd659b9f9ccfbd62d08f646cc96225f5ddb10c3"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "dc17dd2a2579d1df2f2840c8bf23cec0cd9ef89ef6b6e623a81da6a4e3273406"
 metafile = true
@@ -2397,6 +2402,11 @@ hash = "44e94d4ef6299403961d0e9b96b9ee38c55cfcf448193f1194c90b5a3e75f229"
 metafile = true
 
 [[files]]
+file = "mods/betterend-delight.pw.toml"
+hash = "c4a0169a87ce9ff3bc8aaef3beaae47b364e18612f1901afd294e5dd4ca87d7f"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
@@ -2407,8 +2417,18 @@ hash = "b5602c093db5864177d5d1810d52ee2dc5d9fef829242d9734593ef7986be45b"
 metafile = true
 
 [[files]]
+file = "mods/betternether-delight.pw.toml"
+hash = "d34f36c43a4a9ba2c3ab0c65834c1bb7c3d968db2ece9f2110088a21675d43c4"
+metafile = true
+
+[[files]]
 file = "mods/betternether.pw.toml"
 hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
+metafile = true
+
+[[files]]
+file = "mods/betterp2p.pw.toml"
+hash = "a7b4d18cfb2d7a95e79563600cf3b0f90bda2fdea04aeb02fe17a774d798941e"
 metafile = true
 
 [[files]]
@@ -2449,6 +2469,11 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "62a06523495d2fe4423080876dbcd631378cf805c20a64c63f3768027b4f8c15"
+metafile = true
+
+[[files]]
+file = "mods/botania-delight.pw.toml"
+hash = "7568a0f2c994f8b24fea80d9786830ed55bad1b02a1c8a921d18e98e5ffa9d99"
 metafile = true
 
 [[files]]
@@ -2971,6 +2996,11 @@ hash = "e52dd1a8ddc694c62c45c2950ef24be55caf70b356a0e22071433e923409ca91"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "42069309eefb11158a1072514fd76140ca349f1355189a2734967bdf3aedb22d"
+metafile = true
+
+[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "8629f55ffd91cfa46eb26611afc3b188dbccc7164277c3d9b7df2dc09b219932"
 metafile = true
@@ -3023,6 +3053,11 @@ metafile = true
 [[files]]
 file = "mods/friendly-fire.pw.toml"
 hash = "c1b2e3dd94af63a282fce3acc993cbbed8cd680eb298ef78f95e56fbbd24b2a2"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "28e5531382c0d9453ec022c79c832158d2a296a6a77d6e5d3b1f3c0379c8de72"
 metafile = true
 
 [[files]]
@@ -3188,6 +3223,11 @@ metafile = true
 [[files]]
 file = "mods/itemphysic-lite.pw.toml"
 hash = "0fc816366540a3e0bfe3b4a8416bd19559460b599f52e686d3323d697e5aaed5"
+metafile = true
+
+[[files]]
+file = "mods/items-displayed.pw.toml"
+hash = "45b352a5c16fcfea21620cfa03b644010644afac775eb0417abc92b3c61f09d4"
 metafile = true
 
 [[files]]
@@ -3411,6 +3451,11 @@ hash = "26b138ea2c3397c5d39575b92a9dad3afe51ecc0427d6d944dc207c5fd071f6b"
 metafile = true
 
 [[files]]
+file = "mods/modflared.pw.toml"
+hash = "d782976a8048c71ebd11b7f6e799793b16e0bdad98a20687e5ad9065f7ea8533"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "59b48e3b87b6701bc611ff4a77e09e1df356c8945d97b4f916b9dcff8468d7f0"
 metafile = true
@@ -3468,6 +3513,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "36ac9f1349d615741c917fb6d83f144117d0a9a0c898305b79bec05c108b42d4"
+metafile = true
+
+[[files]]
+file = "mods/naturalist-delight.pw.toml"
+hash = "4876d73036717569746e644904a71e8898201b2dcfd3bfa29bb9fcf62a840053"
 metafile = true
 
 [[files]]
@@ -3636,6 +3686,11 @@ hash = "d2ee196fdd163d919870bbcd15056a324b6c1f0358d3c660408ffefb8fe22713"
 metafile = true
 
 [[files]]
+file = "mods/prometheus-exporter.pw.toml"
+hash = "fc30442e9257bae470b857afe6397b85035dca6d27b194f57dd2cf94b76f1ced"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "14f25fae14eb85a16c17bc8f0b87acbba51fc9f6a3253c8bd153e0e2348cd34b"
 metafile = true
@@ -3726,6 +3781,11 @@ hash = "2b9d2bc268c0d08d239066f18433b58f447c26099ce0816562d01744893819e2"
 metafile = true
 
 [[files]]
+file = "mods/seed-delight.pw.toml"
+hash = "b2d023a208ee0252e606ccb0c93054d977a393899590bcf3dc7082136ab29619"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "ad8855018f63bff0d9f91955fbf455f444a3f6e6f64feec7ae01a6f6bfc07a4e"
 metafile = true
@@ -3773,6 +3833,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
+metafile = true
+
+[[files]]
+file = "mods/slime-delight.pw.toml"
+hash = "d5b8bdb1bd89a172b8ef0b2dace1cd76d189eaf12a18f0ced1006eb775c2b351"
 metafile = true
 
 [[files]]
@@ -3951,6 +4016,16 @@ hash = "69de4325ba4dfcf9dca1b78f54f2aed2a1f47d6353644065b88a2404cfb153a9"
 metafile = true
 
 [[files]]
+file = "mods/this-boat-is-mine.pw.toml"
+hash = "1b13755ad1cd1cb761748cbb545bedefd8deb6d19720d6779c3cdcd868fd9afe"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "6d9fd77bcf34eb4662bacc061deb2e45fb0c65ee817eb9158ea6ad24afb50fa0"
+metafile = true
+
+[[files]]
 file = "mods/timeoutout-fabric.pw.toml"
 hash = "aa30fa9ce08bc01bf1d858b7d0c020b0955954e29f7c560fbacb7e90318308f0"
 metafile = true
@@ -3993,6 +4068,11 @@ metafile = true
 [[files]]
 file = "mods/ucrashedlol.pw.toml"
 hash = "86389e12b7264bd0093cedfb51b18ad6c7eb16ce64833458e4b1c67cfd8d9fe9"
+metafile = true
+
+[[files]]
+file = "mods/ukraine-delight.pw.toml"
+hash = "497be6eec2fe9470985bb5a908b2d82f7b7e35ceb0c6cd8b3e1aa45f764150a4"
 metafile = true
 
 [[files]]

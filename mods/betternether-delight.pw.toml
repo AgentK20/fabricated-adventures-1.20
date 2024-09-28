@@ -1,0 +1,13 @@
+name = "BetterNether Delight"
+filename = "betternetherdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d326454d6f5e8cfdf6b4ae73931c1a78246285ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5756240
+project-id = 1106305

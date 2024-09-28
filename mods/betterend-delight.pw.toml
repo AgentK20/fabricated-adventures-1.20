@@ -1,0 +1,13 @@
+name = "BetterEnd Delight"
+filename = "betterenddelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29695db6eae63861754362e169f916c91a5e6252"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5756231
+project-id = 1106302
