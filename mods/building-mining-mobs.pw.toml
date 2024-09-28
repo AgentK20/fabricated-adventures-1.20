@@ -1,0 +1,13 @@
+name = "Building Mining Mobs"
+filename = "enhanced-mobs-mod-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b73a538c80844871c4eb5ee1e30f3b7cf937a351"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5736371
+project-id = 1052416

@@ -1,0 +1,13 @@
+name = "Chest Cavity [Fabric]"
+filename = "chestcavity-2.16.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42f38a90abfbb0d8c25d360ab4cccc024f2ed2ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5650969
+project-id = 408480

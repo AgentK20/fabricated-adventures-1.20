@@ -1,0 +1,13 @@
+name = "Improved Mobs (Fabric)"
+filename = "improvedmobs-1.20.1-1.12.4-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f37aee085e2b21505741efd3495c35459ed12ab3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5340755
+project-id = 552968

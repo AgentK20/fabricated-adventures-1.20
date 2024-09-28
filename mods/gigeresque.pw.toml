@@ -1,0 +1,13 @@
+name = "Gigeresque"
+filename = "gigeresque-1.20.1-0.5.71.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9c9973d7d7d512f553ceab444812fe74bacffc6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5275762
+project-id = 535416
