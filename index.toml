@@ -3040,6 +3040,11 @@ hash = "e52dd1a8ddc694c62c45c2950ef24be55caf70b356a0e22071433e923409ca91"
 metafile = true
 
 [[files]]
+file = "mods/farmers-structures.pw.toml"
+hash = "837a4cd76074b9bcec0eca2e4f7dda9e76f058e154e9a203081be573be46da7c"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "42069309eefb11158a1072514fd76140ca349f1355189a2734967bdf3aedb22d"
 metafile = true
@@ -3062,6 +3067,11 @@ metafile = true
 [[files]]
 file = "mods/festive-delight.pw.toml"
 hash = "7a8626b88b4f0179a31970587a15f2e14a066363cb7e2cf467080f846ae91f37"
+metafile = true
+
+[[files]]
+file = "mods/firorize.pw.toml"
+hash = "23fd3c67ea96f947e197586f6aa5eed40a439e642cab10bd4148404a427755ee"
 metafile = true
 
 [[files]]
