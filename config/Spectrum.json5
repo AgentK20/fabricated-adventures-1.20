@@ -11,7 +11,7 @@
 	// Affects how often the wind simulation updates - A lower number makes the simulation smoother, but increases the performance impact significantly
 	"WindSimInterval": 3,
 	// Story accurate dimension lighting. Deepens the dimension's darkness and prevents night vision from cutting through it. WARNING - This makes traversal significantly harder
-	"ExtraDarkDimension": false,
+	"ExtraDarkDimension": true,
 	// Adjusts the general brightness of the dimension (an increase of 1 is a lot, for reference)
 	"DimensionBrightnessMod": 0.0,
 	// Mod Integration Packs to not load (in case of mod compat errors)
@@ -126,7 +126,7 @@
 	"SerendipityReelMaxLevel": 2,
 	// Exuberance increases experience gained when killing mobs. With 25% bonus XP and 5 levels this would mean 2,25x XP on max level
 	"ExuberanceMaxLevel": 5,
-	"ExuberanceBonusExperiencePercentPerLevel": 0.25,
+	"ExuberanceBonusExperiencePercentPerLevel": 0.125,
 	// In vanilla, crits are a flat 50 % damage bonus. Improved Critical increases this damage by additional 50 % per level by default
 	"ImprovedCriticalExtraDamageMultiplierPerLevel": 0.5,
 	// Flat additional damage dealt with each level of the First Strike enchantment
@@ -141,10 +141,10 @@
 	"GlowVisionGogglesDuration": 240,
 	// If the Omni Accelerator should be able to have interactions in PvP that can drain the targets XP, modify their equipment, ... (configured via the requires_omni_accelerator_pvp_enabled item tag)
 	"OmniAcceleratorPvP": false,
-	"GemstoneArmorHelmetProtection": 3,
-	"GemstoneArmorChestplateProtection": 7,
-	"GemstoneArmorLeggingsProtection": 5,
-	"GemstoneArmorBootsProtection": 3,
+	"GemstoneArmorHelmetProtection": 2,
+	"GemstoneArmorChestplateProtection": 6,
+	"GemstoneArmorLeggingsProtection": 4,
+	"GemstoneArmorBootsProtection": 2,
 	"GemstoneArmorToughness": 0.0,
 	"GemstoneArmorKnockbackResistance": 0.0,
 	"GemstoneArmorWeaknessAmplifier": 1,
@@ -153,12 +153,12 @@
 	"GemstoneArmorResistanceAmplifier": 0,
 	"GemstoneArmorRegenerationAmplifier": 0,
 	"GemstoneArmorSpeedAmplifier": 1,
-	"BedrockArmorHelmetProtection": 5,
-	"BedrockArmorLeggingsProtection": 9,
-	"BedrockArmorChestplateProtection": 13,
-	"BedrockArmorBootsProtection": 5,
-	"BedrockArmorToughness": 3.0,
-	"BedrockArmorKnockbackResistance": 0.30000001192092896,
+	"BedrockArmorHelmetProtection": 4,
+	"BedrockArmorLeggingsProtection": 8,
+	"BedrockArmorChestplateProtection": 12,
+	"BedrockArmorBootsProtection": 4,
+	"BedrockArmorToughness": 2.5,
+	"BedrockArmorKnockbackResistance": 0.2600000202655792,
 	"MaxLevelForEffectsInLesserPotionPendant": 3,
 	"MaxLevelForEffectsInGreaterPotionPendant": 1,
 	/* True will prevent the spread of Decay blocks in claims.

@@ -1,0 +1,13 @@
+name = "UniLib"
+filename = "UniLib-1.0.2+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d86ac78234a9244eb20122963cc9489089e4dfe3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5656687
+project-id = 1056812
