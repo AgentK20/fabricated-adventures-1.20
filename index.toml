@@ -2616,11 +2616,6 @@ hash = "463940fb8de3fb34480eec0d2405428dfd70732cfda966bcf6de2a9e846e7fff"
 metafile = true
 
 [[files]]
-file = "mods/chest-cavity.pw.toml"
-hash = "c0c6736b88142639707c97a04e6547223c222b236acef4e817e48bc123ce126d"
-metafile = true
-
-[[files]]
 file = "mods/chimes.pw.toml"
 hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
@@ -3045,11 +3040,6 @@ hash = "e52dd1a8ddc694c62c45c2950ef24be55caf70b356a0e22071433e923409ca91"
 metafile = true
 
 [[files]]
-file = "mods/farmers-structures.pw.toml"
-hash = "837a4cd76074b9bcec0eca2e4f7dda9e76f058e154e9a203081be573be46da7c"
-metafile = true
-
-[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "42069309eefb11158a1072514fd76140ca349f1355189a2734967bdf3aedb22d"
 metafile = true
@@ -3072,11 +3062,6 @@ metafile = true
 [[files]]
 file = "mods/festive-delight.pw.toml"
 hash = "7a8626b88b4f0179a31970587a15f2e14a066363cb7e2cf467080f846ae91f37"
-metafile = true
-
-[[files]]
-file = "mods/firorize.pw.toml"
-hash = "23fd3c67ea96f947e197586f6aa5eed40a439e642cab10bd4148404a427755ee"
 metafile = true
 
 [[files]]
@@ -3509,11 +3494,6 @@ hash = "26b138ea2c3397c5d39575b92a9dad3afe51ecc0427d6d944dc207c5fd071f6b"
 metafile = true
 
 [[files]]
-file = "mods/modflared.pw.toml"
-hash = "d782976a8048c71ebd11b7f6e799793b16e0bdad98a20687e5ad9065f7ea8533"
-metafile = true
-
-[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "59b48e3b87b6701bc611ff4a77e09e1df356c8945d97b4f916b9dcff8468d7f0"
 metafile = true
@@ -3859,11 +3839,6 @@ hash = "2b9d2bc268c0d08d239066f18433b58f447c26099ce0816562d01744893819e2"
 metafile = true
 
 [[files]]
-file = "mods/seed-delight.pw.toml"
-hash = "b2d023a208ee0252e606ccb0c93054d977a393899590bcf3dc7082136ab29619"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "ad8855018f63bff0d9f91955fbf455f444a3f6e6f64feec7ae01a6f6bfc07a4e"
 metafile = true
@@ -3911,11 +3886,6 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
-metafile = true
-
-[[files]]
-file = "mods/slime-delight.pw.toml"
-hash = "d5b8bdb1bd89a172b8ef0b2dace1cd76d189eaf12a18f0ced1006eb775c2b351"
 metafile = true
 
 [[files]]
@@ -4096,11 +4066,6 @@ metafile = true
 [[files]]
 file = "mods/this-boat-is-mine.pw.toml"
 hash = "1b13755ad1cd1cb761748cbb545bedefd8deb6d19720d6779c3cdcd868fd9afe"
-metafile = true
-
-[[files]]
-file = "mods/tide.pw.toml"
-hash = "6d9fd77bcf34eb4662bacc061deb2e45fb0c65ee817eb9158ea6ad24afb50fa0"
 metafile = true
 
 [[files]]
