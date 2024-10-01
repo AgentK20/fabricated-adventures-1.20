@@ -3494,6 +3494,11 @@ hash = "26b138ea2c3397c5d39575b92a9dad3afe51ecc0427d6d944dc207c5fd071f6b"
 metafile = true
 
 [[files]]
+file = "mods/modflared.pw.toml"
+hash = "d782976a8048c71ebd11b7f6e799793b16e0bdad98a20687e5ad9065f7ea8533"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "59b48e3b87b6701bc611ff4a77e09e1df356c8945d97b4f916b9dcff8468d7f0"
 metafile = true
@@ -3839,6 +3844,11 @@ hash = "2b9d2bc268c0d08d239066f18433b58f447c26099ce0816562d01744893819e2"
 metafile = true
 
 [[files]]
+file = "mods/seed-delight.pw.toml"
+hash = "b2d023a208ee0252e606ccb0c93054d977a393899590bcf3dc7082136ab29619"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "ad8855018f63bff0d9f91955fbf455f444a3f6e6f64feec7ae01a6f6bfc07a4e"
 metafile = true
@@ -3886,6 +3896,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
+metafile = true
+
+[[files]]
+file = "mods/slime-delight.pw.toml"
+hash = "d5b8bdb1bd89a172b8ef0b2dace1cd76d189eaf12a18f0ced1006eb775c2b351"
 metafile = true
 
 [[files]]
