@@ -4084,6 +4084,11 @@ hash = "1b13755ad1cd1cb761748cbb545bedefd8deb6d19720d6779c3cdcd868fd9afe"
 metafile = true
 
 [[files]]
+file = "mods/tide.pw.toml"
+hash = "4571643800df4307f1f1e8b3e3b85eef17573f9ecd6396251ba3c2d438980dbc"
+metafile = true
+
+[[files]]
 file = "mods/timeoutout-fabric.pw.toml"
 hash = "aa30fa9ce08bc01bf1d858b7d0c020b0955954e29f7c560fbacb7e90318308f0"
 metafile = true
