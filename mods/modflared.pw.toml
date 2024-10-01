@@ -1,0 +1,13 @@
+name = "Modflared"
+filename = "modflared-1.2.0+release.61.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8faaad72d9d9096573eeaefb180fb7f34ab851b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5371521
+project-id = 997330

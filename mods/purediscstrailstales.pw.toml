@@ -1,0 +1,13 @@
+name = "Pure Discs - Trails & Tales"
+filename = "PureDiscsTrailsTales-v1.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fef7bfa9ce08222c97eb19cd2b050c0d4f97e954"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4687064
+project-id = 858014
