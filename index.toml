@@ -2616,6 +2616,11 @@ hash = "463940fb8de3fb34480eec0d2405428dfd70732cfda966bcf6de2a9e846e7fff"
 metafile = true
 
 [[files]]
+file = "mods/chest-cavity.pw.toml"
+hash = "c0c6736b88142639707c97a04e6547223c222b236acef4e817e48bc123ce126d"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
