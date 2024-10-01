@@ -1,0 +1,13 @@
+name = "Seed Delight"
+filename = "SeedDelight-Fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c2ee7036e8983f19e7f5d94f6c0c094d0437e77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5736647
+project-id = 1016377
