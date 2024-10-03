@@ -78,7 +78,7 @@ hash = "d9b7bf8281613a5c6e26b097d596c7028d0952bfb06cefd2cc43ce66b4ec67ee"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "56578a70de7d9f7ad52d42c6fdff1546241fc7de5b3d19a6a25fa840a01c28a1"
+hash = "74eca77de156d9f656f893b036ec22496cf49bad7a21f818acb0be164d913650"
 
 [[files]]
 file = "config/ad_astra-client.jsonc"
