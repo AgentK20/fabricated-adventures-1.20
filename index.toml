@@ -4259,11 +4259,6 @@ hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
-file = "mods/true-darkness-refabricated.pw.toml"
-hash = "0cc7a2ef7011b6fc11e765587eb4430d9b49b38d8c4c03fa549adc47f417707e"
-metafile = true
-
-[[files]]
 file = "mods/truly-treasures.pw.toml"
 hash = "ad3e80efea5a90aba46362c3c23682bc3cf6c7ef53eea01ea13c1f6c29e400f9"
 metafile = true
