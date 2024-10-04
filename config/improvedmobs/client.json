@@ -30,7 +30,7 @@
     "__comment": [
       "Show the the difficulty text"
     ],
-    "input": true
+    "input": false
   },
   "Difficulty location": {
     "__comment": [

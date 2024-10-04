@@ -1110,7 +1110,7 @@ hash = "65503c4720dd1017227041ee6ce26650a75a123af7331d66c5fac0a2cdace94c"
 
 [[files]]
 file = "config/improvedmobs/client.json"
-hash = "8fc0ae707eb111ba0bff515aef764f50c54a9784f66418decc3aa7d95893fe5d"
+hash = "b7022ee8bb451c44c26a3c20c281a5fd753cec0e6778c0a505fcc5217bbf318f"
 
 [[files]]
 file = "config/improvedmobs/common.json"
