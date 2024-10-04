@@ -45,7 +45,7 @@
   //  You can define a more complex formula that fits for you, as this was designed for the Prominence modpack.
   // --------------------------------------------------------------------------------------------------------
   "enable_armor_formula": true,
-  "armor_formula": "min(ARMOR / 60.0, 1.0) * 0.15",
+  "armor_formula": "min(ARMOR / 60.0, 1.0) * 0.10",
   // --------------------------------------------------------------------------------------------------------
   //  
   // --------------------------------------------------------------------------------------------------------
@@ -64,5 +64,5 @@
   //  You can define a more complex formula that fits for you, as this was designed for the Prominence modpack.
   // --------------------------------------------------------------------------------------------------------
   "enable_protection_formula": true,
-  "protection_formula": "min(PROTECTION / 20.0, 1.0) * 0.10"
+  "protection_formula": "min(PROTECTION / 20.0, 1.0) * 0.075"
 }

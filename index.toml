@@ -1618,7 +1618,7 @@ hash = "b8bfb7ba5f7d9c7fb6821b560e75786ba8522865b1f5fcd0aab10f2e58a3fd4f"
 
 [[files]]
 file = "config/protection_balancer.json5"
-hash = "3d87fef2697547f995f7b40aae4c70cf906f070dc6f9d0426d1daeef295b1474"
+hash = "dfd1818eaf4336c20b96f5d35d67de1ab454ffd70d373a01487c0779ffe752e7"
 
 [[files]]
 file = "config/resourceful-config-web.json"
