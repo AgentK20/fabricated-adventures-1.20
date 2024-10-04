@@ -2546,11 +2546,6 @@ hash = "8b9514967e31242fdfdfb75e780a49f94fe6e45d3b1e284f434540a48e083045"
 metafile = true
 
 [[files]]
-file = "mods/building-mining-mobs.pw.toml"
-hash = "b9ad9584f1841152b2b65999adc236ba06911a2a4e335dafd1f4489946128ebc"
-metafile = true
-
-[[files]]
 file = "mods/builtin-servers.pw.toml"
 hash = "aac36f200fd2fe3d73bea8d927dcf7dcb68cd327b88801c5fb2fb03f536d92a3"
 metafile = true
