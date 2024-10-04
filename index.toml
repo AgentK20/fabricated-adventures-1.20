@@ -93,6 +93,10 @@ file = "config/adaptive-tooltips.json"
 hash = "5d8afa267c39c888ac2cb7684b0e38aa3dfbffaa5101bb4467a60f3127845632"
 
 [[files]]
+file = "config/adventurez.json5"
+hash = "0e293a707eed2a7add3b0922402fe9813c8ea52d0b911919b7e3df7a47332b92"
+
+[[files]]
 file = "config/ae2-emi-crafting.json"
 hash = "b5caa47fcb38e430f85bf55d12a72595b7b4e509143ae587b656d5dc40092ae6"
 
@@ -757,6 +761,10 @@ file = "config/dark-matter/crash_upload.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
+file = "config/darkness.json5"
+hash = "2295ee06ebdf5484ec2f0b0639d8a6017129fa9df307c809a0a908abc0ee787a"
+
+[[files]]
 file = "config/dashloader.json"
 hash = "1ec32bbcb7519614152292bbcb282c4a5c75bca3f98aca282d872a7fde95d9ae"
 
@@ -915,6 +923,10 @@ hash = "65bbd8f702cd03a2b061ebf59c1d90a1046c8c4262cd13a33de7cd11bf67310d"
 [[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "3b6e73f15a6d97ec82d16d81522089a96debf27642043bd44ede9b0a0aae9972"
+
+[[files]]
+file = "config/fabricshieldlib.json"
+hash = "25b9572d684ce433ed5476eafc9c9d22c0df647e25403af6ba26746747f463b9"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -1095,6 +1107,14 @@ hash = "ca56a73fdd61d3241e23f52342c7e1ffea9ec3389685d02411515fd4a8ce9c64"
 [[files]]
 file = "config/immersive_paintings.json"
 hash = "65503c4720dd1017227041ee6ce26650a75a123af7331d66c5fac0a2cdace94c"
+
+[[files]]
+file = "config/improvedmobs/client.json"
+hash = "8fc0ae707eb111ba0bff515aef764f50c54a9784f66418decc3aa7d95893fe5d"
+
+[[files]]
+file = "config/improvedmobs/common.json"
+hash = "d574a28092a81995577c25fa5bcf0164df865c6f9fcc71b8ac2392bcd7a4c1e3"
 
 [[files]]
 file = "config/indium-renderer.properties"
@@ -1350,7 +1370,7 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "38c54a3f6ad8cec9aa368a8915e0164346f27c794e1d10a2b1d8d0e8be46436e"
+hash = "b037a4441c87ac5ded006bd5df69a5a074ec3f16478b3e081dc07cf225d5e842"
 
 [[files]]
 file = "config/lavajava.json"
@@ -1441,6 +1461,10 @@ file = "config/mindfuldarkness-client.toml"
 hash = "4609f77ccfdb10b78c60c0d538e9ac0eb98ceda7850dcfa0921d4ed978b70bf3"
 
 [[files]]
+file = "config/mobz.json5"
+hash = "fe6660793dcd1ee0eeb7e9a42129b8043487a4dbf626b92ded7b148dc50312a2"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
 
@@ -1518,7 +1542,7 @@ hash = "d17d0bec5ecc9d60d3c47e2d6a7bf45c24516d40a568fba61d7c0f501d1546e2"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
-hash = "ce8264e4eab2940fa22350b6bae722a175c012acac39e6b14046d70a247e5071"
+hash = "791f31cf9fc48e6038654471eac97d96227197fa939985a8f2f56e31b11b6cdd"
 
 [[files]]
 file = "config/pal.properties"
@@ -1593,6 +1617,10 @@ file = "config/powah.json5"
 hash = "b8bfb7ba5f7d9c7fb6821b560e75786ba8522865b1f5fcd0aab10f2e58a3fd4f"
 
 [[files]]
+file = "config/protection_balancer.json5"
+hash = "3d87fef2697547f995f7b40aae4c70cf906f070dc6f9d0426d1daeef295b1474"
+
+[[files]]
 file = "config/resourceful-config-web.json"
 hash = "d1a5cc95df23861008c2d0379eb09acd180720341ae994d8ec36ac58aebbcf3d"
 
@@ -1659,6 +1687,50 @@ hash = "16e7cd5007ad9f82015589c5fff161b9eb564aac07a05b5beae5f8f7e83c8dc6"
 [[files]]
 file = "config/sidebar_buttons.json"
 hash = "5a9dfa7f5f9d612e57e7d46418fd0b501778b1ca5e7915d0ce2d281a79e2b379"
+
+[[files]]
+file = "config/sihywtcamd/arthropods.json"
+hash = "bfd5976824c4d635584ff16c03eb031b4006cd97888c33a293a3ad7f9e17fc65"
+
+[[files]]
+file = "config/sihywtcamd/bosses.json"
+hash = "70f7275c81b2962fbc0a8daa78363c1bc81234f7df728701f8b8c130224e496d"
+
+[[files]]
+file = "config/sihywtcamd/cosmetics.json"
+hash = "0595ccea5a6f0e3c3bd5b6c02f8b13bffd94fb4a8df0aff21edad0d90c164d3d"
+
+[[files]]
+file = "config/sihywtcamd/end.json"
+hash = "99d92ec5545caf3b8170c2e4ea1e75d9136ae6caba6903e81af50e3812602db2"
+
+[[files]]
+file = "config/sihywtcamd/general.json"
+hash = "9f9ca918fc4a9180de443fafc799a1a3a73f60b6288ce786f102c0b378981fce"
+
+[[files]]
+file = "config/sihywtcamd/illagers.json"
+hash = "c434dd89ebb0ae99b85834f2d993cda437a21c9e90163d673e1153f33e3f9e8f"
+
+[[files]]
+file = "config/sihywtcamd/nether.json"
+hash = "bc16f05616ad5645fb83733dcc2e63215c47a88dc8c5df2c839b716af94e78ba"
+
+[[files]]
+file = "config/sihywtcamd/overworld.json"
+hash = "4ca1fa2bd4ff45f7ff5a289f21dd2bfff63f2f7a646924bfad925c035342082c"
+
+[[files]]
+file = "config/sihywtcamd/skeletons.json"
+hash = "dd0e7ee657dd2d73c2f75220cca60d34dbfd3d7a1644320cd37037b4619a3c7d"
+
+[[files]]
+file = "config/sihywtcamd/undead.json"
+hash = "49a78a9ea1660b0203996bd06be6db32cc52b715e7b081537c7c74991500209e"
+
+[[files]]
+file = "config/sihywtcamd/zombies.json"
+hash = "5f5e595ec78ffc6d56c43ba5a7d849089d9d95d32aa725e52091d568730dfa56"
 
 [[files]]
 file = "config/silentsdelightconfig.properties"
@@ -1766,15 +1838,15 @@ hash = "7ab406d0b45201cf01d57f1519fb9f6c33fe855c33be4cae6ff17aa309b230e1"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "0a93b7bda2c8d073a9724969128cb4463b88c25912ff57806fc47b629c0cb4ac"
+hash = "7a2d1ff3e572eba8d9356378f04232434da236b333cbe2ffa639902474df9396"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "753cdb8554b8cef5a2a8c7685e604e986fb14541876b63aa801baa60a12955ad"
+hash = "c9bf2560f9a30b878691b135ba1736fab4157bb37ad2c7b9a411391f052269a3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "fc08982ac58a0ab3a5a5dc2f7c11a83d953bc6c05d6c5fb6434fc5ca397d7465"
+hash = "d82a42775e82b33e273ffec887a26d580b177f7626ce13f0addaffdc6d162f28"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1809,8 +1881,12 @@ file = "config/spawnbalanceutilityconfig.properties"
 hash = "d8f781e4a6e7ca51c83c044d070b47d1d8e15a3de3fd9dfc05c0e4d19aed39a9"
 
 [[files]]
+file = "config/spawncapcontrolutilityconfig.properties"
+hash = "587e946bd4ed96dbc97d919735fa0feeb6591d9047f9c0a5247473c4260e45db"
+
+[[files]]
 file = "config/spawnermod.json"
-hash = "8c8333271c8da6454ef316ed58174152174b01d72483f6c55d94cf4202eb02ca"
+hash = "37dec3c91fae0bd38ff73bb1e67386e01833e7bad29e5d12e3c8bab22332a8fc"
 
 [[files]]
 file = "config/spectrumjetpacks.json5"
@@ -2090,7 +2166,7 @@ hash = "32dd3f98a33925e8deba05179be5cc0984c3530bdfb41b6057fdf1142683e358"
 
 [[files]]
 file = "config/zenith/names.cfg"
-hash = "e7e823c0b06c372ba85659228cdc13af2f4ecf405c060ec140fb453aee10fe6f"
+hash = "d704e334f12c65fce909ee6702be0a79e3961fe91fdb265ed0aa84c343931bc5"
 
 [[files]]
 file = "config/zenith/potion.cfg"
@@ -2111,6 +2187,10 @@ hash = "b510ce1eba54f062801f38b77ec78247ea87c77ce0365187cbf14f1ef65489e5"
 [[files]]
 file = "config/zenith_attributes.cfg"
 hash = "079279096f11d9388deaf038009b293eaf2cc4215029eaac8e7f99805e16d1fb"
+
+[[files]]
+file = "config/zombies_plus.json5"
+hash = "3d245aed329774c51b73304fa6d21ab5896808b954cf713b848d6e97c01d7f98"
 
 [[files]]
 file = "configureddefaults/config/dynamic_fps.json"
