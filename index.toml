@@ -1114,7 +1114,7 @@ hash = "b7022ee8bb451c44c26a3c20c281a5fd753cec0e6778c0a505fcc5217bbf318f"
 
 [[files]]
 file = "config/improvedmobs/common.json"
-hash = "d574a28092a81995577c25fa5bcf0164df865c6f9fcc71b8ac2392bcd7a4c1e3"
+hash = "77925e95a4dd193127879f877ad7471f5566cd604daf86c6cd6eab6b47ec4d0e"
 
 [[files]]
 file = "config/indium-renderer.properties"
