@@ -402,7 +402,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "16be3264c8286dd53a27807fa8ab1be40d66185f43d22d609a8ded091cb21657"
+hash = "61c15a248843f8429f1ab223e547cd579d359f486c6a48d4a22fc9e9fb64cdfc"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -4414,7 +4414,7 @@ metafile = true
 
 [[files]]
 file = "mods/zenith-1.2.3-1.20.1.jar"
-hash = "295756cd8144f8736dec38188dfdae418a1ea364b80f70898a5250c8d8f9ec26"
+hash = "6152d5a01012feda275d1f9d7400a810f6233840a5b0023c0208fe922bbb67cf"
 
 [[files]]
 file = "mods/zenith-attributes.pw.toml"
