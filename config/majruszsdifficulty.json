@@ -420,7 +420,7 @@
     "highlight_delay": 1.0,
     "extra_size_ratio_per_player": 0.5,
     "area_radius": 150,
-    "kill_requirement": 500,
+    "kill_requirement": 2500,
     "kill_requirement_first": 25,
     "kill_requirement_warning": 3,
     "waves": [
