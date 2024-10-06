@@ -4079,11 +4079,6 @@ hash = "27a3e3e13aa6a67c36b00daacfce204837ff9a0e5d1f8e7679dec33b2c9fba3a"
 metafile = true
 
 [[files]]
-file = "mods/spawncapcontrolutility.pw.toml"
-hash = "7f05bfcdfaaeedac9686ab00b2f70166e7f3410ef7ea2b2785f4a908136ee724"
-metafile = true
-
-[[files]]
 file = "mods/spectrum-jetpacks.pw.toml"
 hash = "63df560bcc0432ec3b955627e2044ee54148897638e4bd8d13565ebd7ea0c554"
 metafile = true
