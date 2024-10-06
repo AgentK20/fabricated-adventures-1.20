@@ -4414,7 +4414,7 @@ metafile = true
 
 [[files]]
 file = "mods/zenith-1.2.3-1.20.1.jar"
-hash = "d2c1c7ecf13f0089dcc87719fb4145e4d88fb78df08437a3db8bec071efdd814"
+hash = "295756cd8144f8736dec38188dfdae418a1ea364b80f70898a5250c8d8f9ec26"
 
 [[files]]
 file = "mods/zenith-attributes.pw.toml"
