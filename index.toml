@@ -402,7 +402,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "13d08043795e12fb9bb72596d5d967b1428265da55e98508b158281aec3eab8f"
+hash = "16be3264c8286dd53a27807fa8ab1be40d66185f43d22d609a8ded091cb21657"
 
 [[files]]
 file = "config/bclib/biomes.json"
