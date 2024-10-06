@@ -36,13 +36,13 @@
     "__comment": [
       "Wether difficulty should only increase with at least one online players or not"
     ],
-    "input": false
+    "input": true
   },
   "Punish Time Skip": {
     "__comment": [
       "If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once."
     ],
-    "input": true
+    "input": false
   },
   "FriendlyFire": {
     "__comment": [

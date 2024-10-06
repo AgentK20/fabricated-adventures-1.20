@@ -1114,7 +1114,7 @@ hash = "b7022ee8bb451c44c26a3c20c281a5fd753cec0e6778c0a505fcc5217bbf318f"
 
 [[files]]
 file = "config/improvedmobs/common.json"
-hash = "e147ba34f5ff0c2f091924b8e5bd853f58ccb72582aae97284a893f3dfd630d7"
+hash = "47c8330125085b335726638a09c642e091ea4c44eabc2869b4dee215c55f7aaa"
 
 [[files]]
 file = "config/indium-renderer.properties"
@@ -3316,11 +3316,6 @@ metafile = true
 [[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
-metafile = true
-
-[[files]]
-file = "mods/improved-mobs-fabric.pw.toml"
-hash = "d0d9a8e38e14d44837bc8ceeb1c9ec61aa61e7e458d37c9c0b69d58d3138a4a1"
 metafile = true
 
 [[files]]
