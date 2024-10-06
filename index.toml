@@ -1726,7 +1726,7 @@ hash = "dd0e7ee657dd2d73c2f75220cca60d34dbfd3d7a1644320cd37037b4619a3c7d"
 
 [[files]]
 file = "config/sihywtcamd/undead.json"
-hash = "49a78a9ea1660b0203996bd06be6db32cc52b715e7b081537c7c74991500209e"
+hash = "f6e1064e171c955668fefc8dfd47258a9a2a19bb25e1804c1e605a4ef0e95616"
 
 [[files]]
 file = "config/sihywtcamd/zombies.json"

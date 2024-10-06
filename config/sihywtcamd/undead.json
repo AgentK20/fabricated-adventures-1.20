@@ -4,7 +4,7 @@
     "ignoreUndeadAttacks": true
   },
   "phantom": {
-    "throughBlocks": true,
+    "throughBlocks": false,
     "lightFear": true,
     "spawnInEndCities": true
   }
