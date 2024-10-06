@@ -253,7 +253,7 @@
       "Chance for a mob to be able to break blocks",
       "Range: 0.0 ~ 1.0"
     ],
-    "input": 0.10000001192092896
+    "input": 0.0
   },
   "Breaker Initial Cooldown": {
     "__comment": [
@@ -358,7 +358,7 @@
       "Chance for mobs to be able to summon a flying mount",
       "Range: 0.0 ~ 1.0"
     ],
-    "input": 0.5
+    "input": 0.0
   },
   "TNT Block Destruction": {
     "__comment": [
@@ -510,7 +510,7 @@
       "Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 3.0
+    "input": 2.0
   },
   "Max Health Increase": {
     "__comment": [
