@@ -510,14 +510,14 @@
       "Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 2.0
+    "input": 1.8
   },
   "Max Health Increase": {
     "__comment": [
       "Health will be multiplied by at maximum this. Set to 0 means no limit",
       "Range: > 0.0"
     ],
-    "input": 0.0
+    "input": 2.0
   },
   "Round HP": {
     "__comment": [
@@ -538,7 +538,7 @@
       "Damage will be multiplied by at maximum this. Set to 0 means no limit",
       "Range: > 0.0"
     ],
-    "input": 0.0
+    "input": 4.0
   },
   "Speed Increase": {
     "__comment": [
