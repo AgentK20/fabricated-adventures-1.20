@@ -1430,7 +1430,7 @@ hash = "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50"
 
 [[files]]
 file = "config/majruszsdifficulty.json"
-hash = "2ac1023df5c2f745961817759a28442338e66c0162eebdee1c4cedbc048c6ff9"
+hash = "9236a73161a39dd014f49cee40ea859d7c8081214eee1f35fc741e43d3e5a9c5"
 
 [[files]]
 file = "config/mantle-client.toml"
