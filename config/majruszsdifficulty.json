@@ -416,11 +416,11 @@
     "is_enabled": true,
     "reset_all_participants_kills": true,
     "wave_duration": 1200.0,
-    "preparing_duration": 10.0,
+    "preparing_duration": 5.0,
     "highlight_delay": 1.0,
     "extra_size_ratio_per_player": 0.5,
     "area_radius": 75,
-    "kill_requirement": 2500,
+    "kill_requirement": 5000,
     "kill_requirement_first": 25,
     "kill_requirement_warning": 3,
     "waves": [
