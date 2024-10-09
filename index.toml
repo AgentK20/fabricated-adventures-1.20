@@ -4276,10 +4276,6 @@ hash = "110d58fda49184f8aec979a24d5cad49df27fc9c5de31c3208cb1e6627767cc6"
 metafile = true
 
 [[files]]
-file = "mods/the-printer-1.4.4+1.20.jar"
-hash = "0ae790ccc0cdc130c17bda84048935233b31688942aab59ce5241f8feb2162b4"
-
-[[files]]
 file = "mods/things-fabric.pw.toml"
 hash = "69de4325ba4dfcf9dca1b78f54f2aed2a1f47d6353644065b88a2404cfb153a9"
 metafile = true
