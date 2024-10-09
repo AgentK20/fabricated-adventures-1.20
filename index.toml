@@ -2330,7 +2330,7 @@ hash = "eefa2d9dcd51b712882749f25eee7778aa9115268bf11a03477368436c80fd46"
 
 [[files]]
 file = "kubejs/server_scripts/bmp/veinmining.js"
-hash = "cb37a9eb278f8db41d6f8c4d2dfe3076f2b60f3de6f734835ecf2e28fef2a2d9"
+hash = "68f5912bcc93f7871dbc45265e09ae200e3de58af5bf6b1c88ffba7dd5a147df"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -4276,9 +4276,8 @@ hash = "110d58fda49184f8aec979a24d5cad49df27fc9c5de31c3208cb1e6627767cc6"
 metafile = true
 
 [[files]]
-file = "mods/the-printer.pw.toml"
-hash = "b5ffe484eb1af810c6299d79b215466925b79641dd61f07541fa42e721be1fd0"
-metafile = true
+file = "mods/the-printer-1.4.4+1.20.jar"
+hash = "0ae790ccc0cdc130c17bda84048935233b31688942aab59ce5241f8feb2162b4"
 
 [[files]]
 file = "mods/things-fabric.pw.toml"
