@@ -2950,11 +2950,6 @@ hash = "377a8576bb22cc178292fcb229560bf122df06581e6db3dbabda49ae8ef2f81e"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "a2ba666ff1cb14577caa96d645326b812cefab087b9353be1efa86d3a36bfcfd"
-metafile = true
-
-[[files]]
 file = "mods/early-loading-screen.pw.toml"
 hash = "4e03ff248e777467d645d9626ed76f98a115f85c768b2402605b2255fae8f40a"
 metafile = true
