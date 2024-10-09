@@ -673,6 +673,10 @@ file = "config/chestcavity.json"
 hash = "a8d4a8c29cc58711795028de5d2ac7f7784a0ed3db12483ecc903421cef10d9c"
 
 [[files]]
+file = "config/chickensshed-common.toml"
+hash = "54dd9d24696998e9304ba0ad8fad68bcda5c004072f58ff70a8352ed348c20b3"
+
+[[files]]
 file = "config/chunkloaders-common.toml"
 hash = "eb62dfa3c0b52eb240bcc7a5b50ffbf4d0ff7bdae2fe94fec5f44ab0feeff9c2"
 
@@ -775,6 +779,14 @@ hash = "e9838cc6c67a746008e2c8bc88577be4c350d4f990ee5ca4861f07bce76e36ea"
 [[files]]
 file = "config/deathlog.json5"
 hash = "91dd913b34ee1fdfc426bb48ed5fa3f38265d0b471d50252916c2a79b00ab289"
+
+[[files]]
+file = "config/debugify-descriptions.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/debugify.json"
+hash = "b7651c21ec5a9a30267b76898932f51dc2f7a9efa5220e45450d7340ea6574a7"
 
 [[files]]
 file = "config/deeperdarker.json5"
@@ -1095,6 +1107,10 @@ hash = "1327fd9384d4d487552f153358d3062adfb156b4b69929de32a83426841ec258"
 [[files]]
 file = "config/ichunutil/themes/whitelight.json"
 hash = "5369346e99dc684898a20bbf08791a940f55c9e70e4ed0b0fa8af9e04091dc78"
+
+[[files]]
+file = "config/illagerinvasion-server.toml"
+hash = "f44411cdd64f3764a4be863c33b9d2c7de1fc22ddcd96add6785ebd8ec5355dc"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -1430,7 +1446,7 @@ hash = "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50"
 
 [[files]]
 file = "config/majruszsdifficulty.json"
-hash = "0fa056973269b4365d808822154a9bbb2e0d7618f8a785c2d2a04eff15eccdfd"
+hash = "39d1c1a4e1258692e8aaa94df6db29dbd04d8e9d102aad29f64df782eec73285"
 
 [[files]]
 file = "config/mantle-client.toml"
@@ -1459,6 +1475,10 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 [[files]]
 file = "config/mindfuldarkness-client.toml"
 hash = "4609f77ccfdb10b78c60c0d538e9ac0eb98ceda7850dcfa0921d4ed978b70bf3"
+
+[[files]]
+file = "config/mobplaques-client.toml"
+hash = "f46c406b8b4d11b5456490a38fb81c8130dad1c4609657bd51595d4ea6263dff"
 
 [[files]]
 file = "config/mobz.json5"
@@ -1813,6 +1833,10 @@ file = "config/sodium-options.json"
 hash = "6edc2c42f650b3c8c5399708420d8ec4c7b76cd76d778f78e969f80e5383c73f"
 
 [[files]]
+file = "config/sodiumextras-client.toml"
+hash = "6ba968d87fbd2b92845f0dfc084646940595d2128fa1b26c6b797eba586d13dd"
+
+[[files]]
 file = "config/sophisticatedbackpacks-client.toml"
 hash = "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6"
 
@@ -1838,15 +1862,15 @@ hash = "7ab406d0b45201cf01d57f1519fb9f6c33fe855c33be4cae6ff17aa309b230e1"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "7a2d1ff3e572eba8d9356378f04232434da236b333cbe2ffa639902474df9396"
+hash = "f3080813b9170bcd22cbf3525783b1579f0e9164c8f227d8975d4be154cfc9a0"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c9bf2560f9a30b878691b135ba1736fab4157bb37ad2c7b9a411391f052269a3"
+hash = "a9f311459eae964ea1c5597b17e59d417ae7f25655cf07745b1107ae7d5205cb"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "d82a42775e82b33e273ffec887a26d580b177f7626ce13f0addaffdc6d162f28"
+hash = "acc6efe3731266990dae0b740ba051d458ea969a52d6f0287c4818680f008a7b"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -2103,6 +2127,10 @@ hash = "5ca2fba340103bb4f86ae388bf1a1f7e32cd97836db923d6da03661d72a1fa8b"
 [[files]]
 file = "config/villagersplus/villagersplus-3.0-config.json5"
 hash = "44eb6162195f36eda9d609eec5298f2bdbf25292ce00221a8d736af3f1930877"
+
+[[files]]
+file = "config/warriorrage.json5"
+hash = "124d80439845c657a8e458ae2471f095361dfd7581aa27720fbc2fcc046d8047"
 
 [[files]]
 file = "config/waystones-common.toml"
