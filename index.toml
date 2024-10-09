@@ -2150,7 +2150,7 @@ hash = "fe0bc8c3a04c4f9c39caea44a81d725dbdc02db561b52d6681c10cb34063174a"
 
 [[files]]
 file = "config/zenith/adventure.cfg"
-hash = "82802ec6650422f897fa544dd6c8e7b0e7a4a85372a33efb3666432e567428e6"
+hash = "038ce4fa36abed189a24aab62f1b3857da94a9bfc346e28bb6fbd5f48a4d9f9d"
 
 [[files]]
 file = "config/zenith/ench.cfg"
@@ -2701,6 +2701,11 @@ hash = "463940fb8de3fb34480eec0d2405428dfd70732cfda966bcf6de2a9e846e7fff"
 metafile = true
 
 [[files]]
+file = "mods/chickensshed.pw.toml"
+hash = "7098a90503aac56aa8874ea2c41795d3563d82d493ed6d86d6642cda79c88fd3"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
@@ -2886,6 +2891,11 @@ hash = "9f3daccd678da70ac2df008e41541a963d95617a2e37025db070fe722a6dd77c"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
+metafile = true
+
+[[files]]
 file = "mods/decorative-gaming-consoles.pw.toml"
 hash = "da5771e6ce16a4876e966c0ec1c79520943e3166268d9b510bdb2ce73c5ee23f"
 metafile = true
@@ -2898,6 +2908,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "16b49fd569301f908c0d79466e42e50c5ef3d2826b3c885052e8326144d6c103"
+metafile = true
+
+[[files]]
+file = "mods/delightful-froge.pw.toml"
+hash = "326cadd8aba6b045c298fb8b2ccc6943f3d74c6ac20953ed1bded1c3e6dd898e"
 metafile = true
 
 [[files]]
@@ -2932,6 +2947,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "377a8576bb22cc178292fcb229560bf122df06581e6db3dbabda49ae8ef2f81e"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "a2ba666ff1cb14577caa96d645326b812cefab087b9353be1efa86d3a36bfcfd"
 metafile = true
 
 [[files]]
@@ -3190,11 +3210,6 @@ hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
-file = "mods/fpsdisplay.pw.toml"
-hash = "ce08fb657997b1012d6cd25c033ed5335494194043ce0415076117a3f1c89190"
-metafile = true
-
-[[files]]
 file = "mods/friendly-fire.pw.toml"
 hash = "c1b2e3dd94af63a282fce3acc993cbbed8cd680eb298ef78f95e56fbbd24b2a2"
 metafile = true
@@ -3444,11 +3459,6 @@ hash = "a73defaa93f5622ec5efbbcb9f8dd71f9ed4d0d27c8376fe14cc1ac41d0ff3f9"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
-metafile = true
-
-[[files]]
 file = "mods/lava-java.pw.toml"
 hash = "bf6cd41390734b8017b8f240d8c5a57823d59991c0ae5f821bacb96e644aa684"
 metafile = true
@@ -3519,6 +3529,11 @@ hash = "a392270cd578668a88e949559bb1d20ca150e954097e3d7e8237239aaed92dc5"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "2461cdda7e7e5d5028645fc598b6f5cf07dafd18366f04112d82bc71df5b69e6"
+metafile = true
+
+[[files]]
 file = "mods/magnum-torch-forge.pw.toml"
 hash = "3b3f3e6eea10c185d465b8c0bc887a5ef559d2b035ecdd3b197dec3a5a5465ae"
 metafile = true
@@ -3586,6 +3601,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
+
+[[files]]
+file = "mods/mob-plaques.pw.toml"
+hash = "9839cf1a49d1755d7515b9aad0d52a855dd2bdaea4425d9988b3278d9cb719ae"
 metafile = true
 
 [[files]]
@@ -4029,6 +4049,11 @@ hash = "e1bdd79c888029b8c0c79576e63a7ca00f293b6365f53a42b1ec08432c4cad9b"
 metafile = true
 
 [[files]]
+file = "mods/smelting-plus-fabric-forge.pw.toml"
+hash = "d654a725184d7481a9c6ff2b5fbf8694a0443f638b4398168fec117f3a69cef4"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic-fabric.pw.toml"
 hash = "1574e5c3b0a69fdd0da15f1bef65e51a6c4fb68e0af94d73d707641a274eac51"
 metafile = true
@@ -4036,6 +4061,11 @@ metafile = true
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
 hash = "cbc2c176f5553b9e506650383ae7d6f78f617185b27364d41333a1bda0ba33fc"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "88dc21bd358aaaaf6bbcb3bf18fb7313551f3408bac921f0f648dcf297094564"
 metafile = true
 
 [[files]]
@@ -4079,6 +4109,11 @@ hash = "27a3e3e13aa6a67c36b00daacfce204837ff9a0e5d1f8e7679dec33b2c9fba3a"
 metafile = true
 
 [[files]]
+file = "mods/species.pw.toml"
+hash = "a20c75d0828eadefd9efc350600e772ba3852bf3dfae8ab6bae94c0f6194582b"
+metafile = true
+
+[[files]]
 file = "mods/spectrum-jetpacks.pw.toml"
 hash = "63df560bcc0432ec3b955627e2044ee54148897638e4bd8d13565ebd7ea0c554"
 metafile = true
@@ -4116,6 +4151,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "1338fe3f258a472b58526481cba2bf624d966866f4cde360e466caa5c9d24274"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
 metafile = true
 
 [[files]]
@@ -4290,6 +4330,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus-fabric.pw.toml"
 hash = "d07633020f47c59a70cebb55a0fbe620905382bb5fa2546a4167cb60cd19066b"
+metafile = true
+
+[[files]]
+file = "mods/warrior-rage.pw.toml"
+hash = "4d2b672af50c22716753e3e9e88d14811679d82e1ae247fb9967f41c54a6c9aa"
 metafile = true
 
 [[files]]
