@@ -3719,6 +3719,11 @@ hash = "9cd462d16d43b5da4770e852b7f60d7fc612e5312afbc34aa6a1f7f9abe878d5"
 metafile = true
 
 [[files]]
+file = "mods/netherite-extras.pw.toml"
+hash = "5b09cca3c8154e36d27480a5e0a3a434b7d7013dbd006ab7df9b03ce0773a118"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight-refabricated.pw.toml"
 hash = "43c7de5a26ce576577c1684a6b36416a8896a5c96a593149acbc33c61cb38176"
 metafile = true
@@ -4241,6 +4246,11 @@ metafile = true
 [[files]]
 file = "mods/the-open-sauce-toast-killer.pw.toml"
 hash = "110d58fda49184f8aec979a24d5cad49df27fc9c5de31c3208cb1e6627767cc6"
+metafile = true
+
+[[files]]
+file = "mods/the-printer.pw.toml"
+hash = "b5ffe484eb1af810c6299d79b215466925b79641dd61f07541fa42e721be1fd0"
 metafile = true
 
 [[files]]
