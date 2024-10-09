@@ -2301,6 +2301,10 @@ file = "kubejs/server_scripts/bmp/tradingPost.js"
 hash = "eefa2d9dcd51b712882749f25eee7778aa9115268bf11a03477368436c80fd46"
 
 [[files]]
+file = "kubejs/server_scripts/bmp/veinmining.js"
+hash = "cb37a9eb278f8db41d6f8c4d2dfe3076f2b60f3de6f734835ecf2e28fef2a2d9"
+
+[[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "d822d8e129859e2585c442280320ed6edf471493d05ccd3aa8e19a4b04f382c5"
 
