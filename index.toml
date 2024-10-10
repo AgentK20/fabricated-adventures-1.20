@@ -402,7 +402,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "61c15a248843f8429f1ab223e547cd579d359f486c6a48d4a22fc9e9fb64cdfc"
+hash = "35a9d95475b8df158eed48eb1480e1f11a0c17f84ddc709e4e2512bb53ff24fe"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -3441,11 +3441,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "a73defaa93f5622ec5efbbcb9f8dd71f9ed4d0d27c8376fe14cc1ac41d0ff3f9"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
 metafile = true
 
 [[files]]
