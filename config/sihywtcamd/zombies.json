@@ -1,8 +1,8 @@
 {
   "general": {
     "moreKnockbackResistance": true,
-    "spawnMoreReinforcement": true,
-    "sameTypeReinforcement": true,
+    "spawnMoreReinforcement": false,
+    "sameTypeReinforcement": false,
     "attributeVariations": true,
     "babyTowerHeight": 4
   },

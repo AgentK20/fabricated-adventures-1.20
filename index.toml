@@ -402,7 +402,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "1b779f61b009737e8a2ad7a435906efe2824269e28f2962cc08f4acb0d02c45e"
+hash = "cc67e37a97b177460402c650c8610b6aaffa8c6437b8c264b32f0df76ed84555"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -1130,7 +1130,7 @@ hash = "b7022ee8bb451c44c26a3c20c281a5fd753cec0e6778c0a505fcc5217bbf318f"
 
 [[files]]
 file = "config/improvedmobs/common.json"
-hash = "47c8330125085b335726638a09c642e091ea4c44eabc2869b4dee215c55f7aaa"
+hash = "3b896dd79d241d7120ffec8238763995eac5dfe5a258643017a03b5a629a898d"
 
 [[files]]
 file = "config/indium-renderer.properties"
@@ -1750,7 +1750,7 @@ hash = "f6e1064e171c955668fefc8dfd47258a9a2a19bb25e1804c1e605a4ef0e95616"
 
 [[files]]
 file = "config/sihywtcamd/zombies.json"
-hash = "5f5e595ec78ffc6d56c43ba5a7d849089d9d95d32aa725e52091d568730dfa56"
+hash = "b161e72ef7ce262ca086d3d9a44f32ef4afc78afd1e26500123a3f203c41bcf0"
 
 [[files]]
 file = "config/silentsdelightconfig.properties"

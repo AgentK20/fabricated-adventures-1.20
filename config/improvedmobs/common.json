@@ -105,7 +105,7 @@
       "<minecraft> disables everything for all minecraft mobs"
     ],
     "input": [
-      "UNINITIALIZED"
+      "ALL"
     ]
   },
   "Flag Blacklist": {
@@ -517,7 +517,7 @@
       "Health will be multiplied by at maximum this. Set to 0 means no limit",
       "Range: > 0.0"
     ],
-    "input": 2.0
+    "input": 3.0
   },
   "Round HP": {
     "__comment": [
@@ -538,14 +538,14 @@
       "Damage will be multiplied by at maximum this. Set to 0 means no limit",
       "Range: > 0.0"
     ],
-    "input": 4.0
+    "input": 5.0
   },
   "Speed Increase": {
     "__comment": [
       "Speed will be increased by difficulty*0.0008*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 1.0
+    "input": 1.3
   },
   "Max Speed": {
     "__comment": [
@@ -587,14 +587,14 @@
       "Projectile Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 1.0
+    "input": 1.2
   },
   "Max Projectile Damage": {
     "__comment": [
       "Projectile damage will be multiplied by maximum of this",
       "Range: > 0.0"
     ],
-    "input": 2.0
+    "input": 3.0
   },
   "Explosion Damage Increase": {
     "__comment": [
