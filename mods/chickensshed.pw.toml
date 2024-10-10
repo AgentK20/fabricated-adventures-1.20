@@ -1,0 +1,13 @@
+name = "ChickensShed"
+filename = "chickensshed-fabric-1.6.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de37733263269d52694897f0e4b8d5cf57a1fb30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5294510
+project-id = 282684

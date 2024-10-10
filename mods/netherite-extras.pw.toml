@@ -1,0 +1,13 @@
+name = "Netherite Extras"
+filename = "netheriteextras-0.2.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d70857fc278c8e7c0b5778f91b31d27f2708976"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5607157
+project-id = 1079904
