@@ -3212,11 +3212,6 @@ hash = "7a8626b88b4f0179a31970587a15f2e14a066363cb7e2cf467080f846ae91f37"
 metafile = true
 
 [[files]]
-file = "mods/firorize.pw.toml"
-hash = "23fd3c67ea96f947e197586f6aa5eed40a439e642cab10bd4148404a427755ee"
-metafile = true
-
-[[files]]
 file = "mods/first-join-message.pw.toml"
 hash = "8a213863216c70de613353e2da9fbfcdcc239d13f06bf99c82815561c12140dd"
 metafile = true
