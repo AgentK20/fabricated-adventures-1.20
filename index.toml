@@ -1674,7 +1674,7 @@ hash = "b2df49575a531ef15f6be3058c4a788ef7f163ba678c7d1fe9b2ad3b0bf7389a"
 
 [[files]]
 file = "config/scannable-common.toml"
-hash = "0fe64a5387f842f3a6c318a2c9d062194d277182e333481df41691f06800cb3a"
+hash = "0c3f9e6996862c0455c473e1f3bc2025e212c2c382f0aa95204dd429dfc3f4be"
 
 [[files]]
 file = "config/seamless_loading_screen.json"

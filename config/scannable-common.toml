@@ -66,7 +66,7 @@
 	#Tag names of block tags that should be ignored.
 	#Blocks matching a tag in this list will be excluded from the default ore list based on the
 	#forge:ores tag and it will be impossible to tune the entity module to this block.
-	ignoredBlockTags = ["spectrum:ores"]
+	ignoredBlockTags = []
 [ores]
 	#Registry names of blocks considered 'common ores', requiring the common ore scanner module.
 	commonOreBlocks = ["minecraft:clay"]
