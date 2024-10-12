@@ -402,7 +402,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "07f41b467baba6b65d2582df6f99d444e9ce48ac248d8071da92479a1d49230b"
+hash = "6e15231a3e7d39e376a3319fa3c407b95535ea43f29d02b55c46ae3e18f669d6"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -2535,6 +2535,11 @@ metafile = true
 [[files]]
 file = "mods/better-dogs-x-doggy-talents-next.pw.toml"
 hash = "108643e45dc14056b6063ff97a379f5fc18447d5c330f267ddf8c7aae1923b3c"
+metafile = true
+
+[[files]]
+file = "mods/better-end-crashed-ships-tweaks.pw.toml"
+hash = "b7341a1189b8650d38d0336718a36b06cf48e91e988ffc247f36a7ef7439e1fd"
 metafile = true
 
 [[files]]
