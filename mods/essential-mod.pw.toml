@@ -1,13 +1,13 @@
 name = "Essential Mod"
-filename = "essential_1-3-4_fabric_1-20-1.jar"
+filename = "essential_1-3-5-5_fabric_1-21-1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2d3615be38097f9dd150b6bb8a4a23f122cdc9f1"
+hash = "b9c2dfd1276e46771ded5fc41e7a4eaa3f550b80"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5642955
+file-id = 5959924
 project-id = 546670

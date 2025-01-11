@@ -1,13 +1,13 @@
 name = "Measurements"
-filename = "Measurements-fabric-1.20.1-2.0.0.jar"
+filename = "Measurements-fabric-1.21-3.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "811104953254328abe9ee293a723163ddd74c6a1"
+hash = "cd1f6f434bd47c5127640aa6bafdaed0937d11f0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4586848
+file-id = 5435857
 project-id = 478559

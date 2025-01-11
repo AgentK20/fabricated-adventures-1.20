@@ -1,13 +1,13 @@
 name = "Chat Signing Hider"
-filename = "chatsigninghider-fabric-1.20.1-1.0.5.jar"
+filename = "chatsigninghider-fabric-1.21.1-1.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "92fdcfd7957db82a37d035c121f96ae8a4139612"
+hash = "01d2ffda1e51189e65c37130a24c6c63e17d54f4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5116951
+file-id = 5608118
 project-id = 687621

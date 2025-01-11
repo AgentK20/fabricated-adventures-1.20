@@ -1,13 +1,13 @@
 name = "Delightful Froge"
-filename = "delightful-froge-0.1.0+1.20.jar"
+filename = "delightful-froge-0.1.0+1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7c05463004bea149f95e1af39c55da3327563b18"
+hash = "f551666956e32845a48e7152484791f8d86a87f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4576384
+file-id = 5432934
 project-id = 670348

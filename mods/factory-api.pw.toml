@@ -1,13 +1,13 @@
 name = "Factory API"
-filename = "FactoryAPI-1.20.1-2.1.4-fabric.jar"
+filename = "FactoryAPI-1.21.1-2.2-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6637c22fc49663a030c07f3c46e6b17102206690"
+hash = "a1ceba55b77b084e37b8a024f18d2b303f7b7407"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5168344
+file-id = 6030307
 project-id = 704136

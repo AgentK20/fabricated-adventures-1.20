@@ -1,13 +1,13 @@
 name = "More Axolotl Variants API"
-filename = "mavapi-1.1.4-mc1.20.1.jar"
+filename = "mavapi-fabric-1.2.1-mc1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1dcf31b512eda4a30ea8cad27205f534b89fae3d"
+hash = "5641aabab18ba07e1341730e40dd22154f37876e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5240476
+file-id = 5505185
 project-id = 709964

@@ -1,13 +1,13 @@
 name = "Macaw's Paths and Pavings"
-filename = "mcw-paths-1.0.5-1.20.1fabric.jar"
+filename = "mcw-paths-1.0.5fabric-mc1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "67b34749bf2c04adf5028f56f02ddc419da8e52b"
+hash = "7962920555e941d1c0771ed497e79fc0852d77d1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5341073
+file-id = 5430737
 project-id = 629153

@@ -1,13 +1,13 @@
 name = "JamLib"
-filename = "jamlib-0.6.1+1.20.x.jar"
+filename = "jamlib-fabric-1.2.2-build.2+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0aad8cb715185f301be9a40d18cbd8a9199a9497"
+hash = "5bef1c21b9444bb136cf8bec61d134a430e1106e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4662529
+file-id = 5988163
 project-id = 623764

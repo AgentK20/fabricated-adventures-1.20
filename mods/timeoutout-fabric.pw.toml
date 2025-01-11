@@ -1,13 +1,13 @@
 name = "TimeOutOut (Fabric)"
-filename = "timeoutout-1.0.3+1.19.1.jar"
+filename = "timeoutout-1.0.4+1.20.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ca85e8276c84d67361331ad2aadd5ed1eab3cf8c"
+hash = "1ad6937d4c590dfa14247295fe47f8ddf0643b07"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3903067
+file-id = 4786426
 project-id = 557746

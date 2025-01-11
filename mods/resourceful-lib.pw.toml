@@ -1,13 +1,13 @@
 name = "Resourceful Lib"
-filename = "resourcefullib-fabric-1.20.1-2.1.28.jar"
+filename = "resourcefullib-fabric-1.21-3.0.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "791b5a8cc972199dc920d2502600c4035e01adca"
+hash = "cb67e1302b5116953f45556cc61dbcf40d986ecd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5568217
+file-id = 5973189
 project-id = 570073

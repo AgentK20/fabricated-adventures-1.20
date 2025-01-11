@@ -1,13 +1,13 @@
 name = "Modflared"
-filename = "modflared-1.2.0+release.61.jar"
+filename = "modflared-1.2.2+release.65.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8faaad72d9d9096573eeaefb180fb7f34ab851b0"
+hash = "458eed35d03fe38e54a6c9072a49894ce1bac355"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5371521
+file-id = 5489094
 project-id = 997330

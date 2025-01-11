@@ -1,13 +1,13 @@
 name = "YUNG's Better End Island (Fabric)"
-filename = "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar"
+filename = "YungsBetterEndIsland-1.21.1-Fabric-3.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "169bc72b247240b79cad00751e2d5a2b7493a389"
+hash = "a7cea4d5b2b2c6566cfbdcb86daf9966d500375c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5193816
+file-id = 5812516
 project-id = 901350

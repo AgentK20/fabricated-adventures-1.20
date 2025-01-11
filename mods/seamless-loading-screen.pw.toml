@@ -1,13 +1,13 @@
 name = "Seamless Loading Screen"
-filename = "seamless-loading-screen-2.0.3+1.20.1-fabric.jar"
+filename = "seamless-loading-screen-2.2.1+1.21-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "88abb18ed9fa21ed4c923b773c2681506a03be57"
+hash = "3ffd22a3551bedf28eaebfce14b6e7954e6e645e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4755306
+file-id = 5774797
 project-id = 429926

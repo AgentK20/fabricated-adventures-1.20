@@ -1,13 +1,13 @@
 name = "Andromeda"
-filename = "andromeda-1.13.3-1.20.1-build.104.jar"
+filename = "andromeda-1.13.3-1.21-build.106.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "401757db2273011f2d868ff28cc53d95ac29e85e"
+hash = "6f66e2476aaefbd9e4a786625173db6ee94b89a7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5580572
+file-id = 5580551
 project-id = 639198

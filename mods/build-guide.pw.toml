@@ -1,13 +1,13 @@
 name = "Build Guide"
-filename = "BuildGuide-1.20-0.4.3.jar"
+filename = "BuildGuide-1.21-0.4.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0f74d16e0e54e47ac31f6e53e4b0a5b280455cef"
+hash = "a4d1c23b18e5c5a153d1b80d4196c17043ca418d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5687152
+file-id = 5687166
 project-id = 465690

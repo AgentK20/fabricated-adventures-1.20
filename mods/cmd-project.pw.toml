@@ -1,13 +1,13 @@
 name = "Commander Project"
-filename = "commander-0.9.0-1.20.1-build.23.jar"
+filename = "commander-0.9.0-1.21-build.24.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fc697041642a895fce9903363f7979dc39a86fe0"
+hash = "e7e0fd8fbf9c07b6cfdf4d96ba19f12e922ce222"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5602625
+file-id = 5602654
 project-id = 1009687

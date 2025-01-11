@@ -1,13 +1,13 @@
 name = "SmartBrainLib (Forge/Fabric/Quilt)"
-filename = "SmartBrainLib-fabric-1.20.1-1.15.jar"
+filename = "SmartBrainLib-fabric-1.21-1.14.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6abaa9601d02c9941134fa310a7a3665d9bad285"
+hash = "59673891921934875c60f5a422a7020509243466"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5654969
+file-id = 5513416
 project-id = 661293

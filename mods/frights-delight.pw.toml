@@ -1,13 +1,13 @@
 name = "Fright's Delight"
-filename = "frightsdelight-fabric-1.20.1-1.0.4.jar"
+filename = "frightsdelight-fabric-1.21.1-1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a6b50ec2db59f64d0ace954364820a9ecaf8afca"
+hash = "21dcdd9e9f4900254198a06011cb4207a16e686c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5262828
+file-id = 5997464
 project-id = 927591
