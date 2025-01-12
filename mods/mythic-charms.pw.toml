@@ -1,13 +1,13 @@
 name = "Mythic Charms"
-filename = "mythic_charms-1.1.3.jar"
+filename = "mythic_charms-1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "25959ccf8f4a20f8724fe707baf3297c1bd42d4d"
+hash = "8b8f6cff38bacf102e262680325a53617d40865e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5651772
+file-id = 5899156
 project-id = 923650

@@ -1,13 +1,13 @@
 name = "Fruitful Fun 🍊"
-filename = "FruitfulFun-1.20.1-Fabric-7.4.6.jar"
+filename = "FruitfulFun-1.20.1-Fabric-7.6.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5f3a7ddbdad6a142a50aa147874a0c2cd879ac27"
+hash = "9447964269e4d45f0189d86af3a4cee7b69183a7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5628857
+file-id = 5974996
 project-id = 355467

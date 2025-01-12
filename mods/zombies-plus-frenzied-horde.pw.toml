@@ -1,13 +1,13 @@
 name = "Zombies+"
-filename = "zombies_plus-2.1.0-1.20-.4(excl.3)-[forge-fabric].jar"
+filename = "zombies_plus-2.1.2-1.20-.4(excl.3)-[forge-fabric].jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "33c523332db27d9c19f43387445cacf0772abf05"
+hash = "5d66c4f882dc17c4fd17f4f2bc10c4d5e5515e32"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5755644
+file-id = 5889911
 project-id = 1072974
