@@ -3294,11 +3294,6 @@ hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
 metafile = true
 
 [[files]]
-file = "mods/hephaestusplus.pw.toml"
-hash = "9c3c544bdc1aa3c52b709b9fcec8e2f5bb7959c966f3e733ca156fa7410a4a28"
-metafile = true
-
-[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "840255d4c3fb4e6c5645718a721bc52f1f6fbba91762597877bc4c89295e5581"
 metafile = true
@@ -4124,16 +4119,6 @@ hash = "27a3e3e13aa6a67c36b00daacfce204837ff9a0e5d1f8e7679dec33b2c9fba3a"
 metafile = true
 
 [[files]]
-file = "mods/spectrum-jetpacks.pw.toml"
-hash = "63df560bcc0432ec3b955627e2044ee54148897638e4bd8d13565ebd7ea0c554"
-metafile = true
-
-[[files]]
-file = "mods/spectrum.pw.toml"
-hash = "d45cf31bcd4d65390b9cd0247e6d1603c9fe90df1a1d494c0694d097292f4131"
-metafile = true
-
-[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "43145fba54029bfdec38e31216c92a9dcd2a92aff3a1de20840dc3f7e4d71120"
 metafile = true
@@ -4456,11 +4441,6 @@ metafile = true
 [[files]]
 file = "mods/zenith-attributes.pw.toml"
 hash = "6255b8f0571f85319cd6e5d0cd48b19f9ca0206fdeff13ae7b70e8d9f2dc976a"
-metafile = true
-
-[[files]]
-file = "mods/zephyr.pw.toml"
-hash = "d5be306b16aac248c3d5084dfb0ab53be3ec9ca783d7a9eb6da31531145c55be"
 metafile = true
 
 [[files]]
