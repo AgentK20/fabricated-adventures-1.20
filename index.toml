@@ -2349,10 +2349,6 @@ file = "kubejs/startup_scripts/example.js"
 hash = "065b1dbf91d6b7c249c83ed059062589ed69e4de8d9b30bddd7b6a15210e1671"
 
 [[files]]
-file = "mods/Hephaestus-1.20.1-3.6.4.DEV.16dba0a78.jar"
-hash = "bd805a4ef4b7134d4c54fb850e2b25ec76ba18a646d3a41702d4a7c56fc0d323"
-
-[[files]]
 file = "mods/a-man-with-plushies.pw.toml"
 hash = "741f4cc48c6dd8f6e3dfeabadc7b01b004d402b972670184f30e0774ec713cdb"
 metafile = true
@@ -2958,10 +2954,6 @@ hash = "25f52c263f75f7e39d3f062d56e3488acff6fd962cf02284e09ee37a987772a9"
 metafile = true
 
 [[files]]
-file = "mods/disenchanter-0.1.8+1.20.jar"
-hash = "bf7b9acb78e853c72188d2676c4af8695a3c2d09af69a75e63942ca4e6a80225"
-
-[[files]]
 file = "mods/distant-friends.pw.toml"
 hash = "7d2c1eb5dedd4c386e546f9c08e4730e4ee7e15b8fa45ffb0452f93286d1fb38"
 metafile = true
@@ -3079,11 +3071,6 @@ metafile = true
 [[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "655c5cc1d5160fcfa12f302e5cf28c11e42b5898fb9853fb3b7b8435de343a3c"
-metafile = true
-
-[[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "616330455807730dff4ecf364a57d4b6282ec214af82e8d5a49be4e686408c6e"
 metafile = true
 
 [[files]]
@@ -3240,10 +3227,6 @@ metafile = true
 file = "mods/friendly-fire.pw.toml"
 hash = "c1b2e3dd94af63a282fce3acc993cbbed8cd680eb298ef78f95e56fbbd24b2a2"
 metafile = true
-
-[[files]]
-file = "mods/friendsandfoes-fabric-mc1.20.1-3.0.2.jar"
-hash = "c2934905b39d00182376d62cc0eae4afc1027921b4d73e720fbb3992a4148539"
 
 [[files]]
 file = "mods/frights-delight.pw.toml"
@@ -4341,10 +4324,6 @@ hash = "794fd726546cd520ac7c9be010dbaf991bfb9fe0c3d971fc89d421f18a47306d"
 metafile = true
 
 [[files]]
-file = "mods/valkyrienskies-120-2.3.0-beta.5+a36c9fe8f3.jar"
-hash = "546593b883cda70c170e2b7e0365d104fdd31b3b23ee2ed1118a866bb80d20d5"
-
-[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "26abe43f2212a3fd943798d445db6bf9f8ecba76c4e8f7fe45ed703ff8d77645"
 metafile = true
@@ -4473,10 +4452,6 @@ metafile = true
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
 metafile = true
-
-[[files]]
-file = "mods/zenith-1.2.3-1.20.1.jar"
-hash = "6152d5a01012feda275d1f9d7400a810f6233840a5b0023c0208fe922bbb67cf"
 
 [[files]]
 file = "mods/zenith-attributes.pw.toml"
