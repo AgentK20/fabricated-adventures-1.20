@@ -1,0 +1,13 @@
+name = "Well Rested"
+filename = "well_rested-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "134a2822ae86b7e0a6e1c4f6889da36a9144b00a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6015612
+project-id = 1164314

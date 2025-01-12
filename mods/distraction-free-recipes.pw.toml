@@ -1,0 +1,13 @@
+name = "Distraction Free Recipes (EMI / REI / JEI)"
+filename = "distraction_free_recipes-fabric-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a78e6f5ca3d3b7c9c7aa4daa94da9036bd6ddea3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6044761
+project-id = 1167848

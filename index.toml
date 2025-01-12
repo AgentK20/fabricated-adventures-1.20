@@ -673,10 +673,6 @@ file = "config/chestcavity.json"
 hash = "a8d4a8c29cc58711795028de5d2ac7f7784a0ed3db12483ecc903421cef10d9c"
 
 [[files]]
-file = "config/chickensshed-common.toml"
-hash = "54dd9d24696998e9304ba0ad8fad68bcda5c004072f58ff70a8352ed348c20b3"
-
-[[files]]
 file = "config/chunkloaders-common.toml"
 hash = "eb62dfa3c0b52eb240bcc7a5b50ffbf4d0ff7bdae2fe94fec5f44ab0feeff9c2"
 
@@ -2418,6 +2414,26 @@ hash = "15df99860f705092e8e0edfcfed062befdc5c258665e90e8d776be32d9b5975e"
 metafile = true
 
 [[files]]
+file = "mods/animal-barn.pw.toml"
+hash = "ce5d9da05502140b7c861577b4b1a3c183ba48f11cd2b563aa98eb2da4c1664b"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-owl.pw.toml"
+hash = "1d7776f35a5406ea0ee35188520f9313ff738491009b4e1707a81870d90eba29"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-porcupine.pw.toml"
+hash = "76a2fabd1c8c02edd4d36b6cfe4e8bae419a8f799f82400c2b79bfd0532f9f88"
+metafile = true
+
+[[files]]
+file = "mods/animated-loading-screen.pw.toml"
+hash = "849b607eab929c9f8be8fcbe1901eeef5a87ca8bf440041d4aac620725dd06d7"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
@@ -2593,6 +2609,11 @@ hash = "8a8934f5bea073d7665beb4c377e2eca65686bb38f990f344d3fb94c695d69ce"
 metafile = true
 
 [[files]]
+file = "mods/black-moon-fabric.pw.toml"
+hash = "1efda12eed43821bc1974cc10b77a6ef7f014b774262333ee4a6c70981e61c96"
+metafile = true
+
+[[files]]
 file = "mods/blahaj-fabric.pw.toml"
 hash = "3be4d8184379525c27fee02066e56149bc701189a4b8b4c5ec5deff189f1422d"
 metafile = true
@@ -2738,11 +2759,6 @@ hash = "463940fb8de3fb34480eec0d2405428dfd70732cfda966bcf6de2a9e846e7fff"
 metafile = true
 
 [[files]]
-file = "mods/chickensshed.pw.toml"
-hash = "7098a90503aac56aa8874ea2c41795d3563d82d493ed6d86d6642cda79c88fd3"
-metafile = true
-
-[[files]]
 file = "mods/chimes.pw.toml"
 hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
@@ -2863,6 +2879,11 @@ hash = "094234e9723ba70c57f2ca216f5bf03f5a904e9032058b3500f8f6398cceac7e"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "c2ac9db3b56ebf7108eb377b97162ec4e5dc4d230e5a84ede8b654dc10b0d5b4"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight-fabric.pw.toml"
 hash = "befc3fa08d5a6cd8634e00361eb7a172f6e2927252a916d2d035c561d253d2a2"
 metafile = true
@@ -2963,6 +2984,11 @@ hash = "9923b5b80ca725f838e3298d412376cfef3646ad88666c4d1402aa1181673cd5"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "30cee54df56777a055b2451411cce235a80248ccc4cf7b9c7dcd3ec745e05714"
+metafile = true
+
+[[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "341d4bd73779d7c47f465a5fefd3ed144823f529da497e7e9318670eba662eab"
 metafile = true
@@ -3023,6 +3049,11 @@ hash = "0e75b4b34ce81932c6fb09d7ace7cb162664c1cfee88420d3daac07429a4b917"
 metafile = true
 
 [[files]]
+file = "mods/ender-moon-fabric.pw.toml"
+hash = "73a69ae49b31d084e8fd1d767d810547f704d76d726fa2db270e50ef6b626381"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "645057017936ddc2d2712164654ad63726da0d94632ea4fc09d990bddab95da0"
 metafile = true
@@ -3045,6 +3076,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials-fabric.pw.toml"
 hash = "7d523926feb744651125d7287a05908724f39d2dc0e2e08f1a78e7ad8424e927"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-shader-support.pw.toml"
+hash = "fe874b610cc23f9a57b57fedca55972fd321dfcb3c47534a55bc9ac410e1092e"
 metafile = true
 
 [[files]]
@@ -3105,6 +3141,11 @@ metafile = true
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
 hash = "8eb76eb0e6159bc06f152ab340750fb2b46e7fb4c6e0ec4b41657782fbc9d945"
+metafile = true
+
+[[files]]
+file = "mods/extreme-horde-moon-fabric.pw.toml"
+hash = "c5f7f61bd85ef24909cb22fdff402fed9f7aaf8fbeaf8575e49cb529bef4b7ae"
 metafile = true
 
 [[files]]
@@ -3303,6 +3344,11 @@ hash = "c627312829eccf7651b294130f38db03e42e4ed447b19c04889f35cafa8865ba"
 metafile = true
 
 [[files]]
+file = "mods/horde-moon-fabric.pw.toml"
+hash = "dbf4f41cf5006b187f5059c76476cf55ed8361d3f8aa7de46e6041befb1b65df"
+metafile = true
+
+[[files]]
 file = "mods/icarus.pw.toml"
 hash = "725249341624dc3f3947ba971bfc136074eb7e0938e81c067f490e3818db3d6a"
 metafile = true
@@ -3400,6 +3446,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "c5b4553ad9250281b03636917cd21c26a0e58aa49d88712dac5750cacdf9cb66"
+metafile = true
+
+[[files]]
+file = "mods/japanese-residence.pw.toml"
+hash = "b5ff5674bd34df82805b3097f167641ac4c80d8b273d63ee825e175d67d3d4ec"
 metafile = true
 
 [[files]]
@@ -3530,6 +3581,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "a392270cd578668a88e949559bb1d20ca150e954097e3d7e8237239aaed92dc5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "705e755854d844906d09701337717e142077ef0c33c5741a9308f7892ca925d9"
 metafile = true
 
 [[files]]
@@ -3818,6 +3874,11 @@ hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
 
 [[files]]
+file = "mods/peaceful-moon-fabric.pw.toml"
+hash = "ab554d35ec4ee54628cdef73297ef2d3f79032e7a16796063ac2336893091b0a"
+metafile = true
+
+[[files]]
 file = "mods/perfect-birbs.pw.toml"
 hash = "6bc5c3705fe404cdc8359f1c1792e722fc83dcef06606d5020dbe065c5c4df17"
 metafile = true
@@ -3905,6 +3966,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0262df78f767ee3ef2d32c1815b82b2f5710ea7c934bd875639a711197f27342"
+metafile = true
+
+[[files]]
+file = "mods/ready-player-fun.pw.toml"
+hash = "74494d5ca55442414d28ab734ce25294df47d71499e80b4c71ab2620a11522dc"
 metafile = true
 
 [[files]]
@@ -4035,6 +4101,11 @@ metafile = true
 [[files]]
 file = "mods/simple-armor-hud.pw.toml"
 hash = "640a2d49662527c9bec1b18c1db5df3ae9a7a2fdb99a5278106545146ad7e2c3"
+metafile = true
+
+[[files]]
+file = "mods/simple-concrete.pw.toml"
+hash = "983dfdda5215eb70b8c8128812c0528aa99534b771d20cd9fdfb83cfae317615"
 metafile = true
 
 [[files]]
@@ -4223,6 +4294,11 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
+file = "mods/terrastorage.pw.toml"
+hash = "c313a4cf1bb0867a8d91c33afd66f75071f61b04906499ab1e07ad24aae65a2f"
+metafile = true
+
+[[files]]
 file = "mods/tesseract.pw.toml"
 hash = "f31db0bfa04cbe717c2ec6d65711b5fc63ad6e2329950efd8ea5121a1012ec1c"
 metafile = true
@@ -4293,6 +4369,11 @@ hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "6699d757d322c4fa96a884a34b103d3d54de03d1e822ba41458db7476317f0ed"
+metafile = true
+
+[[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "7f644ba731332d9ab2305b05014bf7f0bd22d44fa6997b5bbeca4eef4a84bceb"
 metafile = true
@@ -4335,6 +4416,11 @@ metafile = true
 [[files]]
 file = "mods/waystones-fabric.pw.toml"
 hash = "4dbd3d073cada45b717b8e2273b9b0e915d9c0d054a3319d81ee84b320569fa2"
+metafile = true
+
+[[files]]
+file = "mods/well-rested.pw.toml"
+hash = "27d954009004c92b391b5b898afdfe7417397387e7f851e7d165bf689a367c01"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Extreme Horde Moon [Fabric]"
+filename = "ExtremeZombieMoon-fabric-1.20-1.0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e32b0c7d73760c0b7584c844e4c2b8b35a003a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6057909
+project-id = 1121849

@@ -1,0 +1,13 @@
+name = "Peaceful Moon [Fabric]"
+filename = "PeacefulMoon-fabric-1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c0387bcd6e8459d3bdd5ecc5fd85595e4e360ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5813258
+project-id = 1121865

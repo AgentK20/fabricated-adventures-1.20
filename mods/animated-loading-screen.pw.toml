@@ -1,0 +1,13 @@
+name = "Animated Loading Screen"
+filename = "animated-logo-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "289e41a19408554625d88d557f9be81c1d9aee81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6063169
+project-id = 1127360

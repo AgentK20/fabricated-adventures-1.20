@@ -1,0 +1,13 @@
+name = "Black Moon [Fabric]"
+filename = "BlackMoon-fabric-1.20-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "889f74d61f6562bd7f56b699050ed8ff63ecc22b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5813250
+project-id = 1121863

@@ -1,0 +1,13 @@
+name = "Ender Moon [Fabric]"
+filename = "EnderMoon-fabric-1.20-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c0ec39fdc4fec9889939e654d4b4e9a825694e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5813207
+project-id = 1121850

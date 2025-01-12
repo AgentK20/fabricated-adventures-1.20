@@ -1,0 +1,13 @@
+name = "Terrastorage"
+filename = "Terrastorage-1.2.2+1.20-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdc8c302049478b2eeed99a52b9ca46374e3eed4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6077774
+project-id = 1105569

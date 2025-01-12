@@ -1,0 +1,13 @@
+name = "Simple Concrete"
+filename = "simple-concrete-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53c696db411c22b01531b6b48f8c9f2b527359b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5807941
+project-id = 1120613

@@ -1,0 +1,13 @@
+name = "Horde Moon [Fabric]"
+filename = "ZombieMoon-fabric-1.20-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83eba0868a88ccbd0a4724d76d72ba46e825dc3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5813172
+project-id = 1121843
