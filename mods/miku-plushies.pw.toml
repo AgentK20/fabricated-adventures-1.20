@@ -1,0 +1,13 @@
+name = "Miku Plushies"
+filename = "miku-plushie-1.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1f9109a005a3b32b26a752ad225893a1db949b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6024702
+project-id = 1100312

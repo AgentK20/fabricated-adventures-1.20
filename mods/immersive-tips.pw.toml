@@ -1,0 +1,13 @@
+name = "Immersive Tips"
+filename = "immersivetips-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69e2baf3889bd2250f9cc2c41f73e74cf85fdbd0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6057676
+project-id = 1172669

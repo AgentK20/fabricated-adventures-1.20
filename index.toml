@@ -2784,6 +2784,11 @@ hash = "ccd8f9122da261c9b652ffae983fc5778550d34a241bd3df935632e51e696f56"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough-plus.pw.toml"
+hash = "d092d68bc34307b0682cf8f0bf12c66de22a1b22079d3a60b8d4ec85d9b288d9"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
 hash = "bfb26b3f2ad39320923182fbdafe302dca19b5ecf4eb5b9f92664b59607d1e64"
 metafile = true
@@ -3019,6 +3024,11 @@ hash = "dde25c12063ad9d05cb3f0db21176fef6e93a5d739f255a694c67300f3ef3d1e"
 metafile = true
 
 [[files]]
+file = "mods/el-and-ls-dyes.pw.toml"
+hash = "7458190e86d91abdbd9b296734788212fd6deff68d8a45ef47c00a352d85e960"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "436f208cf8f63df864c0b6ffa6baa774e214db1c5745a7115fa060122ceeb089"
 metafile = true
@@ -3076,11 +3086,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials-fabric.pw.toml"
 hash = "7d523926feb744651125d7287a05908724f39d2dc0e2e08f1a78e7ad8424e927"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-celestials-shader-support.pw.toml"
-hash = "fe874b610cc23f9a57b57fedca55972fd321dfcb3c47534a55bc9ac410e1092e"
 metafile = true
 
 [[files]]
@@ -3164,9 +3169,8 @@ hash = "f9efc3a8b92991d29b7117b9a0d9fd7a3f7d567d0139243f35c6257f56068b75"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "3464cc256356dd6c7414ee90fe68c39c4c22516c63b84c71c8bce4d02986d6d3"
-metafile = true
+file = "mods/fabric-seasons-extras-1.3.2-BETA+1.20.jar"
+hash = "4de21d44ffe69a160b75a03fe331934f14ca333e697a52e185e085f045fd40d2"
 
 [[files]]
 file = "mods/fabric-seasons-terralith-compat.pw.toml"
@@ -3374,8 +3378,23 @@ hash = "cfc0100ae31dea1e76f00193ce7d3f27d46e9c58fac235ccc306954a34b200a7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-messages-api.pw.toml"
+hash = "53b215011444562f6d906cd8ce27cba65466cbbf8d1af9f564cc049b3de4b9d9"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "594134d837f6eeec1475b436713ddc56066bde03efdbcbc14d15498033592d17"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-mod.pw.toml"
+hash = "d5fc01eaabb7f27b207b9f0890ff211de6de01cddfdf6aac4ecb0a7f200c1655"
+metafile = true
+
+[[files]]
+file = "mods/immersive-tips.pw.toml"
+hash = "2f99941e1b11c8624bc8103c239cbb7b68ce56be2657e2a46db3c578d862e5ae"
 metafile = true
 
 [[files]]
@@ -3385,7 +3404,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
+hash = "4e9d190943f9c886c33e79e2d42247fbdab0c731adc18322e9d18067c6ec7c39"
 metafile = true
 
 [[files]]
@@ -3424,8 +3443,13 @@ hash = "cfa136249e3374d9de1e7c6e80f7730c814fe7b538fbd3c91ba856a69018c793"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "71a26ef25c317259238a5ec2e5929f68073ced1882145d1122815d33711d2ab2"
+file = "mods/iris.pw.toml"
+hash = "3154ee632b385645dd0f475997c1fd7ce30c670ae14e422cb9c8e2b0c5d67cab"
+metafile = true
+
+[[files]]
+file = "mods/it-takes-a-pillage-continuation.pw.toml"
+hash = "94a50c7180fca34559d64a759df1ac85f8f810ae603b58f1a6d71167684c9955"
 metafile = true
 
 [[files]]
@@ -3486,6 +3510,11 @@ metafile = true
 [[files]]
 file = "mods/keybind-fix.pw.toml"
 hash = "1567dc7a6628a5aed513e6c1804d3e3e5b78510d5ac1732ddefee2ce1069f746"
+metafile = true
+
+[[files]]
+file = "mods/keybindspurger.pw.toml"
+hash = "a716e6fab721baacee9e4a898eb7dcd22087b5734761527c10361bc7d94b1b5d"
 metafile = true
 
 [[files]]
@@ -3651,6 +3680,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
+metafile = true
+
+[[files]]
+file = "mods/miku-plushies.pw.toml"
+hash = "46fd9b5b74a5395c33b0bf36fe232f74346bae7128a16440e5cc245e561a4437"
 metafile = true
 
 [[files]]
@@ -3979,11 +4013,6 @@ hash = "8515079e00355e8e6010a6a18b53e6f19593d19c649a84d02afe6ea4b5a7b9d8"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "2937f8044610c554d49b4617210885a76d3f81cb9325a36dba6bfbd131cc45ab"
 metafile = true
@@ -4149,13 +4178,8 @@ hash = "c07ad9f2f8345696989130aceeebda2e370081b3031f1c56009746cfa190fa67"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "f9c12cedd5e47afe5480e32940b331bf41595c050b2bf7ac4c008add24edb549"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "607e46ceb8ff9140a7a928734a10fdce835d1b4fbb0d49226d83f39e60d42e44"
+hash = "03120897f0dd10a4139a0a36aa0cfe854346be72d056fa9f42a7019098820576"
 metafile = true
 
 [[files]]
@@ -4209,8 +4233,8 @@ hash = "6e8f076977f714b19d6a5fde1e8c861e09a23712c36328ee17026f96a24dbd1c"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "b927c53d954f1faf0bd11067eeacf0f1ea8b986c14660b49654dae2662213ff7"
+file = "mods/spice-of-life-valheim-updated.pw.toml"
+hash = "5b33c25dbac1bf31116addb14e984dfba9147cef9e8bcbd50171c006f81b80ff"
 metafile = true
 
 [[files]]
@@ -4314,6 +4338,11 @@ hash = "110d58fda49184f8aec979a24d5cad49df27fc9c5de31c3208cb1e6627767cc6"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest-unofficial.pw.toml"
+hash = "c3cf76cdc7cc21c35b81ee422a23ce1c09c17b439680a046b14c31253ef5096c"
+metafile = true
+
+[[files]]
 file = "mods/things-fabric.pw.toml"
 hash = "69de4325ba4dfcf9dca1b78f54f2aed2a1f47d6353644065b88a2404cfb153a9"
 metafile = true
@@ -4331,11 +4360,6 @@ metafile = true
 [[files]]
 file = "mods/timeoutout-fabric.pw.toml"
 hash = "aa30fa9ce08bc01bf1d858b7d0c020b0955954e29f7c560fbacb7e90318308f0"
-metafile = true
-
-[[files]]
-file = "mods/tips.pw.toml"
-hash = "b45567da0b3a992bc7e80a447d57709b4afce4e0d52adeb0d9495f84a2052ef2"
 metafile = true
 
 [[files]]

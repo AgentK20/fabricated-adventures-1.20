@@ -1,0 +1,13 @@
+name = "ClickThrough Plus"
+filename = "clickthrough-plus-3.2+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6a60fb788fc59c9b6c9baefac38c9acbc6afb82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6030632
+project-id = 1122678
