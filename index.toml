@@ -714,7 +714,7 @@ hash = "4ff118c3bf2614ef4e86187f1c0b05551324507a136f8932153ca65537fb95a6"
 
 [[files]]
 file = "config/configurablesplashtexts/general.json5"
-hash = "7cd2c7b05d52460a46b38955f90e67e49afd23fd2d7f5658dfa8338737167144"
+hash = "4f6f277e02ebc65f2d496bd70eb734b4339e357f36972366e2eb9cba712c5864"
 
 [[files]]
 file = "config/constructionwand-client.toml"
@@ -3509,6 +3509,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "7b106db2cfb5a2aad5ac0f3f9282af7b1fcae68cee63f98e50764c38972bf5c6"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-lilis-lucky-lures.pw.toml"
+hash = "75961d91bbbdfc8b9f78f1e09eb4840ab76f47d1ceace83de343620a0946637e"
 metafile = true
 
 [[files]]
