@@ -1,0 +1,13 @@
+name = "Female Plastic Surgery: Bust Limit Tweaker"
+filename = "FemalePlasticSurgery-fabric-1.20.1-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b7af4fffaf2da4d49fad3b87b98a131d4b99c04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6175125
+project-id = 1178067

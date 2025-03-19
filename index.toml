@@ -2349,10 +2349,6 @@ file = "kubejs/startup_scripts/example.js"
 hash = "065b1dbf91d6b7c249c83ed059062589ed69e4de8d9b30bddd7b6a15210e1671"
 
 [[files]]
-file = "mods/Hephaestus-1.20.1-3.6.4.DEV.16dba0a78.jar"
-hash = "bd805a4ef4b7134d4c54fb850e2b25ec76ba18a646d3a41702d4a7c56fc0d323"
-
-[[files]]
 file = "mods/a-man-with-plushies.pw.toml"
 hash = "741f4cc48c6dd8f6e3dfeabadc7b01b004d402b972670184f30e0774ec713cdb"
 metafile = true
@@ -3002,6 +2998,11 @@ hash = "dde25c12063ad9d05cb3f0db21176fef6e93a5d739f255a694c67300f3ef3d1e"
 metafile = true
 
 [[files]]
+file = "mods/elytra-physics.pw.toml"
+hash = "602af39257449aeed4b745c8229167f00613efbe1cb5fe3df4a16154f68a7118"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b1db3ea8c8a1db908208455a446beaad8519683a6185fc8c66390f933bb19d06"
 metafile = true
@@ -3079,11 +3080,6 @@ metafile = true
 [[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "655c5cc1d5160fcfa12f302e5cf28c11e42b5898fb9853fb3b7b8435de343a3c"
-metafile = true
-
-[[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "616330455807730dff4ecf364a57d4b6282ec214af82e8d5a49be4e686408c6e"
 metafile = true
 
 [[files]]
@@ -3202,6 +3198,11 @@ hash = "2fe5c3b7249e3f5fc2f2208010a92f57d853cde64d8bc87f985d938f767647a8"
 metafile = true
 
 [[files]]
+file = "mods/female-plastic-surgery-bust-limit-tweaker.pw.toml"
+hash = "e5f24833fd6495960799da1a732112c11b42641a12fc2d312c4f0a2e4032ceea"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
@@ -3219,6 +3220,11 @@ metafile = true
 [[files]]
 file = "mods/flat-bedrock.pw.toml"
 hash = "50b746a28c8ac8c123b02c6ca319b25855c2eb2112e7e67a336ea5245dfd7ea2"
+metafile = true
+
+[[files]]
+file = "mods/flight-affinity.pw.toml"
+hash = "41eaaa550a8ecbf16073085c7df972a2975dcfacecfb42b74d45820c630a7d4d"
 metafile = true
 
 [[files]]
@@ -3311,11 +3317,6 @@ hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
 metafile = true
 
 [[files]]
-file = "mods/hephaestusplus.pw.toml"
-hash = "9c3c544bdc1aa3c52b709b9fcec8e2f5bb7959c966f3e733ca156fa7410a4a28"
-metafile = true
-
-[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "840255d4c3fb4e6c5645718a721bc52f1f6fbba91762597877bc4c89295e5581"
 metafile = true
@@ -3323,6 +3324,11 @@ metafile = true
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "c627312829eccf7651b294130f38db03e42e4ed447b19c04889f35cafa8865ba"
+metafile = true
+
+[[files]]
+file = "mods/ia-remaining-airborne.pw.toml"
+hash = "945e10df90f6fe7f3cb8a06689a82ffefb0380e9182cd08cbbbac58b4d13cb3a"
 metafile = true
 
 [[files]]
@@ -3347,7 +3353,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "cdc030a4636da8d8bd188de562c09cd10c7d33ebdde720ec276f5f66018ecaec"
+hash = "7f860e54624a615c1f4411142cb840631d011a042bb9c9af982d5f4e72e1102f"
 metafile = true
 
 [[files]]
@@ -4339,10 +4345,6 @@ metafile = true
 file = "mods/universal-ores-fabric.pw.toml"
 hash = "794fd726546cd520ac7c9be010dbaf991bfb9fe0c3d971fc89d421f18a47306d"
 metafile = true
-
-[[files]]
-file = "mods/valkyrienskies-120-2.3.0-beta.5+a36c9fe8f3.jar"
-hash = "546593b883cda70c170e2b7e0365d104fdd31b3b23ee2ed1118a866bb80d20d5"
 
 [[files]]
 file = "mods/vein-mining.pw.toml"
