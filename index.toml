@@ -3188,6 +3188,11 @@ hash = "42069309eefb11158a1072514fd76140ca349f1355189a2734967bdf3aedb22d"
 metafile = true
 
 [[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "ecdce8ff3bd80e073a87dd9b3ee9b697a894cc05a1dcd52d5ef625f49dc75282"
+metafile = true
+
+[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "8629f55ffd91cfa46eb26611afc3b188dbccc7164277c3d9b7df2dc09b219932"
 metafile = true
@@ -4254,6 +4259,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/terrastorage.pw.toml"
+hash = "57a8d0cdbc1db827233ae8570061928d76ac1874f8d291cdd59e0349ca242a94"
 metafile = true
 
 [[files]]
