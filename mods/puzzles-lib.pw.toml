@@ -1,13 +1,13 @@
 name = "Puzzles Lib [Forge & Fabric]"
-filename = "PuzzlesLib-v8.1.21-1.20.1-Fabric.jar"
+filename = "PuzzlesLib-v8.1.29-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1e3782d36fbf569d1505b7763a6d416bcc101847"
+hash = "c4936314a0ecc13a4f2cbaa0c164887ae5535931"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5475404
+file-id = 6283736
 project-id = 495476
