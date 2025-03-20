@@ -1,0 +1,13 @@
+name = "Cloudflared"
+filename = "Cloudflared-19.2.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w5fammEF/versions/lZdA6aLn/Cloudflared-19.2.1-fabric.jar"
+hash-format = "sha512"
+hash = "85ca3381b8b6fd081e7d418e2f85753c0a4c2518bb0ddff5ce91aee06bcc85076c376d33886b732183808a93ba819955e832bedb88073c273fc42f24428faac4"
+
+[update]
+[update.modrinth]
+mod-id = "w5fammEF"
+version = "lZdA6aLn"

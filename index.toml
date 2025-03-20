@@ -2499,6 +2499,11 @@ hash = "94918d5613a4e0e8490b7e19b575f7b4843d8557889d71b6bfd54641dcbc0205"
 metafile = true
 
 [[files]]
+file = "mods/awesome-sheep-swell.pw.toml"
+hash = "79771cfda06ddd25eff909916964989d54c4ee162b23ebbe6f80549c01829cbc"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "a81054022290ba2d5614eb534884b3b2842ce776342fb6d30ed9abfec1a76978"
 metafile = true
@@ -2536,6 +2541,11 @@ metafile = true
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "2f0c572f52bd5508491258b40a1d18e3b5c93dfba89848d09ca68d43e0d3a8ee"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "166cbf150444039f6e0b4bce17ff3dd910c2e7b3cd7c87ef39fa2fbff86ff2cf"
 metafile = true
 
 [[files]]
@@ -2679,6 +2689,11 @@ hash = "0deaa67036486340006ecb314dd9298185bf86d4b50b969dd742ab3e6691ea9e"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
+metafile = true
+
+[[files]]
 file = "mods/caracal-mod.pw.toml"
 hash = "94e204767f359098242ab3354f11e048e107019c84344a8a2310c0092a02f111"
 metafile = true
@@ -2784,6 +2799,11 @@ hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
 
 [[files]]
+file = "mods/cloudflared.pw.toml"
+hash = "d964b80b5d184a686136623368f3929a9641e90c4e14f48434b269d90e023e7f"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
 metafile = true
@@ -2826,6 +2846,11 @@ metafile = true
 [[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "78cf7bf83f42f6107c63edeb90a439b44f29c37a418fe188e2ba5cf3d4f98e03"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "0a3073eaf2d516ba340aee41f51ff43507d3979a4f8c7e0abcad2236ab860949"
 metafile = true
 
 [[files]]
@@ -3307,6 +3332,11 @@ hash = "4f703c97ac8821bdf17a785bbc6a636fa698afe56ee106d194bb9c40e6f7efa2"
 metafile = true
 
 [[files]]
+file = "mods/glowing-eyes.pw.toml"
+hash = "8f1eda48e2251e0f2584d00f6c43c80eeaeb274adcc5f8aaf89764c121ebe583"
+metafile = true
+
+[[files]]
 file = "mods/gotta-go-fast-fabric.pw.toml"
 hash = "d1f74577a5da437e4ef87953b624b088c96222a998efeea2376c4f4158554693"
 metafile = true
@@ -3339,6 +3369,11 @@ metafile = true
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "c627312829eccf7651b294130f38db03e42e4ed447b19c04889f35cafa8865ba"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "cb69083fc0f4d0ed0dd32c680194f1d337d86a452268ee5546aeb326d4bd7708"
 metafile = true
 
 [[files]]
@@ -3379,6 +3414,11 @@ metafile = true
 [[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
+metafile = true
+
+[[files]]
+file = "mods/incapacitated.pw.toml"
+hash = "5739f89b97fc99a7d62603e881687ce6331e670c9fa28396bfdbece4eff09c33"
 metafile = true
 
 [[files]]
@@ -4548,6 +4588,11 @@ metafile = true
 [[files]]
 file = "mods/zephyr.pw.toml"
 hash = "d5be306b16aac248c3d5084dfb0ab53be3ec9ca783d7a9eb6da31531145c55be"
+metafile = true
+
+[[files]]
+file = "mods/zipline.pw.toml"
+hash = "46ca8b6dee5fa6bcf709ef4039ef0ae894ed7c99999bf22af5f8e133d55156df"
 metafile = true
 
 [[files]]

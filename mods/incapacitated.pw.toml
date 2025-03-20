@@ -1,0 +1,13 @@
+name = "Incapacitated"
+filename = "Incapacitated-fabric-1.20.1-1.9.3LTS.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13bc5ccc53111a15d97f86fa009f798afcb5fcf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6078220
+project-id = 528135
