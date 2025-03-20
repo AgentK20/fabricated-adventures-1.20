@@ -2354,6 +2354,11 @@ hash = "810a57c3cd7e97a5267bf5490d5c8f73cd9ebb4d11db2f85a92998505239e73c"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "18c2846397216a89b70784d74fe4cab613ba7b58269bf0668a682fdba5c5e7a0"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-delight.pw.toml"
 hash = "87c902da5ae421cba235f11c8257279cb1c2270fb4350fd7ee23bd1d321c6849"
 metafile = true
@@ -2381,6 +2386,11 @@ metafile = true
 [[files]]
 file = "mods/ae2-emi-crafting-integration.pw.toml"
 hash = "5ed5dc27fa616884f1a26e9aae94bd815f37d78d4f66af1c82ebb88b8f3a7d79"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "c13ed9ca54fe138496b476ebbe405fbcf39ac4a3a0ffcdf359806d72c19a31db"
 metafile = true
 
 [[files]]
@@ -2459,6 +2469,11 @@ hash = "cc46b494fef0cbb9d23e9bf8877e9ae4fa16dc269c401712710db907afe44b72"
 metafile = true
 
 [[files]]
+file = "mods/astrocraft-mod.pw.toml"
+hash = "bf98dd312f025b68e3e3296bb7583b86766425ed4897897fdae6c65213319112"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
 metafile = true
@@ -2476,6 +2491,11 @@ metafile = true
 [[files]]
 file = "mods/auto-config-updated-api.pw.toml"
 hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "94918d5613a4e0e8490b7e19b575f7b4843d8557889d71b6bfd54641dcbc0205"
 metafile = true
 
 [[files]]
@@ -3148,11 +3168,6 @@ hash = "0cae371213e7998e966a153ae214fcf7bd7ac8687e353c4447a20c5ba84b6e6c"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "70d97418891fbd1e05361190d08f45394a30c91e461048c73cf2a54e98dc69d9"
-metafile = true
-
-[[files]]
 file = "mods/factory-api.pw.toml"
 hash = "514152757cee3f2485fef96a8bdf063eb9b3c2b98ba37de6157951cedd9e8ec0"
 metafile = true
@@ -3314,6 +3329,11 @@ metafile = true
 [[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "840255d4c3fb4e6c5645718a721bc52f1f6fbba91762597877bc4c89295e5581"
+metafile = true
+
+[[files]]
+file = "mods/him.pw.toml"
+hash = "b1b9fd4b72e8dce008f78f180063c7fcc588c9dac92a26a4a9b1f6f8953642f7"
 metafile = true
 
 [[files]]
@@ -3552,6 +3572,11 @@ hash = "e7f748c45bab5a2d9c6c34d99703b9c8aa09e0c5e8069938cad9de693a9965e1"
 metafile = true
 
 [[files]]
+file = "mods/luna-slimes.pw.toml"
+hash = "9856123628a7ed01697c5a1fa2de13331577f355ceeac3f1c1577b4aeb116b63"
+metafile = true
+
+[[files]]
 file = "mods/lychee-fabric.pw.toml"
 hash = "96bd5caf13c9368b29d57c244b8ab6171f5cb88cb8f585b87ba87fb19353c7fd"
 metafile = true
@@ -3579,6 +3604,11 @@ metafile = true
 [[files]]
 file = "mods/majruszs-progressive-difficulty.pw.toml"
 hash = "fbd10bbd07b460343c8ffedd898a9fe6c1acb62508957f69ed56361d17126696"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "9c75a2572604803f8e03d00c98ef3b971fad40f9560676d564064a26e32b7a20"
 metafile = true
 
 [[files]]
@@ -3889,6 +3919,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
+metafile = true
+
+[[files]]
+file = "mods/plushables.pw.toml"
+hash = "eede1e1f90f52c05e3a5508e8a7fbe465f8f4d0bc2567919c9a1a8c62b3ad249"
 metafile = true
 
 [[files]]
@@ -4222,6 +4257,11 @@ hash = "93cf1fc28d62de1afd142ab6b85359923a8c0d9c6b16ec4322308fa49e8ab153"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "47e922d40ab8a1ebedf7f84b4710b5c8e7dbaf63fbb4dda037dbce291810a27e"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
 metafile = true
@@ -4369,6 +4409,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus-fabric.pw.toml"
 hash = "d07633020f47c59a70cebb55a0fbe620905382bb5fa2546a4167cb60cd19066b"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "92ff12f3e4e4a65898ee8da2fe9928061cfea915cd0829dd5a1a757199101fd8"
 metafile = true
 
 [[files]]
