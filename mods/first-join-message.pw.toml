@@ -1,13 +1,13 @@
 name = "First Join Message"
-filename = "firstjoinmessage-1.20.1-3.6.jar"
+filename = "firstjoinmessage-1.20.1-3.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4e80517d96c3480ec87f2ae0cb55325ef7db1c64"
+hash = "3a88f2ac947c9a88530ff589d067928e0d53bba1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5572581
+file-id = 6185992
 project-id = 390733

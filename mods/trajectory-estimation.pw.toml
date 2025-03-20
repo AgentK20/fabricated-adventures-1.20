@@ -1,13 +1,13 @@
 name = "Trajectory Estimation"
-filename = "trajectory_estimation-fabric-1.0.3-1.20.1.jar"
+filename = "trajectory_estimation-fabric-1.0.3.1-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "092b9024cc7f025ce5c6e7b7fb93c88699152a96"
+hash = "9b70a63c1f43541f7cc9da50032eff6e5b6d9b5e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5676306
+file-id = 5792111
 project-id = 980915
