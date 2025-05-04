@@ -2539,6 +2539,11 @@ hash = "187caed10f17c1205641fe6023e1d7cfd691e10ca21b86cc0a73b1494803aa68"
 metafile = true
 
 [[files]]
+file = "mods/beautiful-enchanted-books.pw.toml"
+hash = "28f90c985b1d3f615cae721601b0398aa88041ea7ac2d352da78c331a7ba0a26"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "2f0c572f52bd5508491258b40a1d18e3b5c93dfba89848d09ca68d43e0d3a8ee"
 metafile = true
@@ -2799,11 +2804,6 @@ hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
 
 [[files]]
-file = "mods/cloudflared.pw.toml"
-hash = "d964b80b5d184a686136623368f3929a9641e90c4e14f48434b269d90e023e7f"
-metafile = true
-
-[[files]]
 file = "mods/clumps.pw.toml"
 hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
 metafile = true
@@ -2911,6 +2911,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1654b5cabc651adcfecc24d0a16cb91a31ed4d81566bdbca8ce073c4533f2ffe"
+metafile = true
+
+[[files]]
+file = "mods/creeper-healing.pw.toml"
+hash = "ebdae4912ef604b43ade3d60b67726a356e348a68377367a5641e250811d00bf"
 metafile = true
 
 [[files]]
@@ -3289,6 +3294,11 @@ hash = "c2934905b39d00182376d62cc0eae4afc1027921b4d73e720fbb3992a4148539"
 [[files]]
 file = "mods/frights-delight.pw.toml"
 hash = "c363395f760b79e0d9641dbeffdeca985716f898082bc95206f5594db6f80525"
+metafile = true
+
+[[files]]
+file = "mods/frostiful.pw.toml"
+hash = "2c48e924f792dd7a1a926c73dea6630e3fc43efe94bbaed34cceb8d1f106befc"
 metafile = true
 
 [[files]]
@@ -4087,6 +4097,11 @@ hash = "69daf6ddd961b270e380f1635edd3feb3bf766dfc537455c25edb9edd8b3ab5a"
 metafile = true
 
 [[files]]
+file = "mods/scorchful.pw.toml"
+hash = "9505a21bbd78707188b82d77a61126ebc20e8e2cb2728f7ee7cdf19512c7328f"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "02ceb41d5f2fd4b2fb8299bb3615a94cd22e621a2ce42992b5227566ec22c6ce"
 metafile = true
@@ -4364,6 +4379,16 @@ metafile = true
 [[files]]
 file = "mods/the-open-sauce-toast-killer.pw.toml"
 hash = "110d58fda49184f8aec979a24d5cad49df27fc9c5de31c3208cb1e6627767cc6"
+metafile = true
+
+[[files]]
+file = "mods/thermoo-patches.pw.toml"
+hash = "7cf7f2bf70b157fe35e5231860f336c05bff87fb98b2ea9498a309bcdbb9dce5"
+metafile = true
+
+[[files]]
+file = "mods/thermoo.pw.toml"
+hash = "538ca4d15cd2c5a895ff5471553306db90bb510a0e2860c953c7b75fdcc2e85f"
 metafile = true
 
 [[files]]
