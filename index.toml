@@ -714,7 +714,7 @@ hash = "4ff118c3bf2614ef4e86187f1c0b05551324507a136f8932153ca65537fb95a6"
 
 [[files]]
 file = "config/configurablesplashtexts/general.json5"
-hash = "4f6f277e02ebc65f2d496bd70eb734b4339e357f36972366e2eb9cba712c5864"
+hash = "670544e4c422e0a077281edc13094919cd26a5bcb13db1d744c99801a906ce25"
 
 [[files]]
 file = "config/constructionwand-client.toml"
@@ -3377,6 +3377,11 @@ hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
 metafile = true
 
 [[files]]
+file = "mods/harder-difficulty.pw.toml"
+hash = "a83d697f3504dd10af2cb35ac054bbe8523d2df4a02931940242f06a77105db4"
+metafile = true
+
+[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "840255d4c3fb4e6c5645718a721bc52f1f6fbba91762597877bc4c89295e5581"
 metafile = true
@@ -3827,6 +3832,11 @@ hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "4b8d3024f7dd00a544fafef1ac02eb066332d0f71b179ef953ed39f0fe6779f2"
+metafile = true
+
+[[files]]
 file = "mods/nebulus-cherryblossom-tree.pw.toml"
 hash = "13c053ce9769bb9c3ec685d98f16532c5707646d805bd517a705f4f1c9aa1f0f"
 metafile = true
@@ -3854,6 +3864,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight-refabricated.pw.toml"
 hash = "43c7de5a26ce576577c1684a6b36416a8896a5c96a593149acbc33c61cb38176"
+metafile = true
+
+[[files]]
+file = "mods/nicer-portals.pw.toml"
+hash = "4c52f5a149bd123b98c46f616201b62d0120ac08e1ac731f6062d0b081f62c56"
 metafile = true
 
 [[files]]
@@ -4099,6 +4114,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "f4e27dcb0732e442dc7cc6019e125e3e933baf405bd13e916d837089e80ab109"
+metafile = true
+
+[[files]]
+file = "mods/saturated.pw.toml"
+hash = "b23c31ae447ac87d476c55b1fa40e4822612ed824bc22545550e1b6f1ae793d5"
 metafile = true
 
 [[files]]
@@ -4437,6 +4457,11 @@ hash = "f988539767e9fe907cb5a0f14a35a40d92cbd730cfa3eed6ad5bc097c27c37de"
 metafile = true
 
 [[files]]
+file = "mods/trailtales-delight.pw.toml"
+hash = "ce6a2af6d4558fd85b055a37cc50e89e17a02609658762db699d627963852d29"
+metafile = true
+
+[[files]]
 file = "mods/trajectory-estimation.pw.toml"
 hash = "12b223d6763a8f85aca40352fd85ef5bb1523f35840c526bdceaa623fab4473a"
 metafile = true
@@ -4469,6 +4494,11 @@ metafile = true
 [[files]]
 file = "mods/ucrashedlol.pw.toml"
 hash = "86389e12b7264bd0093cedfb51b18ad6c7eb16ce64833458e4b1c67cfd8d9fe9"
+metafile = true
+
+[[files]]
+file = "mods/underground-villages.pw.toml"
+hash = "8878d2c966a9316a9092aad74a36b8d5396ed710ed514cf1c19073074e5af19e"
 metafile = true
 
 [[files]]

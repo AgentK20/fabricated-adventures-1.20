@@ -1,0 +1,13 @@
+name = "Saturated"
+filename = "saturated-0.12-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eBiNxmRM/versions/yiod76Q4/saturated-0.12-2.jar"
+hash-format = "sha512"
+hash = "752f94d6425dd3effe91c4095f26ea53e5b5b4bd505502c28671d039a0f4aab745add88866f80ac120bfe96d37781c8416d90cbfe292ce5a5c8042b881fb1b64"
+
+[update]
+[update.modrinth]
+mod-id = "eBiNxmRM"
+version = "yiod76Q4"
