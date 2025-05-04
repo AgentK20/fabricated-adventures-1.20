@@ -934,7 +934,7 @@ hash = "65bbd8f702cd03a2b061ebf59c1d90a1046c8c4262cd13a33de7cd11bf67310d"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3b6e73f15a6d97ec82d16d81522089a96debf27642043bd44ede9b0a0aae9972"
+hash = "127ce0eea7bd9c587b8fda367201776dc8e1ec3ca57084a6d55e98e3a49ed22b"
 
 [[files]]
 file = "config/fabricshieldlib.json"
@@ -2405,7 +2405,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "9068c14af412dfc8aa312a2aa4df4d3f8e3c7ee91de80c2a3fac18006c227193"
+hash = "12caf5a79af3afa858013245859bbf49c5753cac6cf58aeb41c4a499df1a380a"
 metafile = true
 
 [[files]]
@@ -2691,6 +2691,11 @@ metafile = true
 [[files]]
 file = "mods/bushier-flowers.pw.toml"
 hash = "0deaa67036486340006ecb314dd9298185bf86d4b50b969dd742ab3e6691ea9e"
+metafile = true
+
+[[files]]
+file = "mods/c2me.pw.toml"
+hash = "99bf8f34b6bff81c977ea6736c58b6df564a7e9ae684fe3ad25e3b5fc91a6c74"
 metafile = true
 
 [[files]]
@@ -3015,6 +3020,11 @@ metafile = true
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "3e11c7210511f5bc23c19c650a38c27be236031b4d969d71d91e6fbc3d6f936b"
+metafile = true
+
+[[files]]
+file = "mods/dwm.pw.toml"
+hash = "a8f86cff44d871f895dda304cba76416c1388cd89a3fc30da6375a3445cded6d"
 metafile = true
 
 [[files]]
@@ -3994,6 +4004,11 @@ metafile = true
 [[files]]
 file = "mods/powah-rearchitected.pw.toml"
 hash = "12da304a791417d7d89ea9104331f455515635d22bcef9cdeeba9f8bcd70bc76"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "22517018388c911b457143b3934634cc6d0b4bfbf26a39fee2a50785892955af"
 metafile = true
 
 [[files]]
