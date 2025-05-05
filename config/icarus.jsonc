@@ -12,8 +12,6 @@
     "exhaustion_amount": 0.03,
     // Type: Float
     "required_food_amount": 6.001,
-    // Type: Float
-    "roll_amount": 1.0,
     "max_height_enabled": true,
     // Type: Integer
     "max_height_above_world": 64,

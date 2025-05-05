@@ -19,6 +19,7 @@
     "crop_progress": true,
     "command_block": true,
     "mob_growth": true,
+    "waxed": true,
     "harvest_tool.new_line": false,
     "entity_health.max_for_render": 40,
     "entity_health.show_fractions": false,
@@ -62,9 +63,6 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "fruitfulfun": {
-    "inspector": true
-  },
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
@@ -73,6 +71,9 @@
     "hide_secret_buttons": true,
     "hide_lantern_buttons": true,
     "hide_torch_buttons": true
+  },
+  "balm": {
+    "jade": true
   },
   "ae2": {
     "part_icon": true,
