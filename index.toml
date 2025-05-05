@@ -1890,7 +1890,7 @@ hash = "fd04bd6fefae8634aff94c993ccf15b43f59245879a96362372fb7c0daefe8b5"
 
 [[files]]
 file = "config/shetiphiancore/common.json5"
-hash = "69ed1422c1473ff9f0e7451f84ca0c22f1ce66d9ffaf2004830b91e5b9993c34"
+hash = "c2f3639f7de6ec4f460e1623029e7871bc18374f52cd6a86edeb5e4c5384db7c"
 
 [[files]]
 file = "config/showmeyourskin-server.json"
@@ -2646,11 +2646,6 @@ metafile = true
 [[files]]
 file = "mods/ae2-emi-crafting-integration.pw.toml"
 hash = "5ed5dc27fa616884f1a26e9aae94bd815f37d78d4f66af1c82ebb88b8f3a7d79"
-metafile = true
-
-[[files]]
-file = "mods/aether.pw.toml"
-hash = "c13ed9ca54fe138496b476ebbe405fbcf39ac4a3a0ffcdf359806d72c19a31db"
 metafile = true
 
 [[files]]
