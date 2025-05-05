@@ -4312,6 +4312,26 @@ hash = "2a4029d68de71092a9b9c7d22539760d531f1f7ad1d14ebf96f49dedbd9a42e2"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-broadcast.pw.toml"
+hash = "9b445fae6ae0673476f38c4385de592575138d2894eb47d927d6a92396ab7435"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-groups.pw.toml"
+hash = "43c15115aa3a05912a943f022bb850e72931fe8f4e01c005181dc99a673cb527"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "3a74619a6bffdff64959073e38393bed1c79ccee30b87e4d88f018ae0c2efa04"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "8515079e00355e8e6010a6a18b53e6f19593d19c649a84d02afe6ea4b5a7b9d8"
 metafile = true
