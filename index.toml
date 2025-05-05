@@ -4402,11 +4402,6 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
-file = "mods/terrastorage.pw.toml"
-hash = "57a8d0cdbc1db827233ae8570061928d76ac1874f8d291cdd59e0349ca242a94"
-metafile = true
-
-[[files]]
 file = "mods/tesseract.pw.toml"
 hash = "9ecdcadebfe590c95ce0406a2293166192fa7d9c50ed50e4228df87d1e4de2d5"
 metafile = true
