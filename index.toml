@@ -3333,6 +3333,11 @@ hash = "0e75b4b34ce81932c6fb09d7ace7cb162664c1cfee88420d3daac07429a4b917"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-level-cap-indicator.pw.toml"
+hash = "a8e7ffabf346780dcb4ec8b2039875f280f06014696447f92007f87d890b1ff6"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "645057017936ddc2d2712164654ad63726da0d94632ea4fc09d990bddab95da0"
 metafile = true
