@@ -3258,6 +3258,11 @@ hash = "0ba91e06816df6a6baf1286e274b20e2291155ef0fb5ca4991f6a896d554d6e2"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+metafile = true
+
+[[files]]
 file = "mods/distorted-discs.pw.toml"
 hash = "9923b5b80ca725f838e3298d412376cfef3646ad88666c4d1402aa1181673cd5"
 metafile = true
@@ -3564,6 +3569,11 @@ metafile = true
 [[files]]
 file = "mods/frostiful.pw.toml"
 hash = "2c48e924f792dd7a1a926c73dea6630e3fc43efe94bbaed34cceb8d1f106befc"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "5372b7626e4561e7a6bc5666c63c1dda90e3ceec727edebc4c96a584dd2ba70f"
 metafile = true
 
 [[files]]
@@ -4017,6 +4027,11 @@ hash = "adc8fd3abb94de7a1b65ec610bd5a082308af1d9edcb03a1c7f46aecfdf44d84"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "e04c175670026019fee3c6ed4b97779aa5136b93e6d70a8121f1ca5fcddc0671"
+metafile = true
+
+[[files]]
 file = "mods/more-axolotls.pw.toml"
 hash = "c46fa000ec966d4058b3e7de5aca4e11ae83dd8298b47ce8255897bc927cffcb"
 metafile = true
@@ -4357,6 +4372,11 @@ hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "b6db84c2fde960f8c358e510a1c9972a0903ff03ed0d004042b2fdf31ac08210"
+metafile = true
+
+[[files]]
 file = "mods/respawning-structures-forge-fabric.pw.toml"
 hash = "881688be47f05a34903c6e1294693c582d85570c83f52addb9d4cab1a57716b7"
 metafile = true
@@ -4442,11 +4462,6 @@ hash = "b844b9ee65afa7f4893161c3942288a6e0ead1ae5f24c8c101c62e99c8aaf8bf"
 metafile = true
 
 [[files]]
-file = "mods/shader-toggle.pw.toml"
-hash = "66839768d218f26b1890aee950ae69658bcdd3a754d5ddad593454410d989918"
-metafile = true
-
-[[files]]
 file = "mods/shetiphiancore-fabric.pw.toml"
 hash = "3b03f4b7b60406fcff6574b001f77f7bf2daf00bc0c6ba04824e2edcd54ae822"
 metafile = true
@@ -4499,6 +4514,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "e1bdd79c888029b8c0c79576e63a7ca00f293b6365f53a42b1ec08432c4cad9b"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "bd947e3ce3578234db935ad9a24c2e9c00c4d686bfb521e2a200b4cac483a7e1"
 metafile = true
 
 [[files]]
@@ -4557,6 +4577,16 @@ hash = "7c872adce752a4a6efe3d220fac7cdc1d429a0e8b47f42b19557f4d15d0893ca"
 metafile = true
 
 [[files]]
+file = "mods/spawn-animations-compats.pw.toml"
+hash = "01877519ced0a04c2faa7aad26df7237e2a8e26961c49afcf2150379a016ab7c"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "658f2f78263d779d2c988d548b09af015c4ef8e51819acf5f18bb1bfd1c5ee82"
+metafile = true
+
+[[files]]
 file = "mods/spawn-balance-utility.pw.toml"
 hash = "27a3e3e13aa6a67c36b00daacfce204837ff9a0e5d1f8e7679dec33b2c9fba3a"
 metafile = true
@@ -4604,6 +4634,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "bcd20f96626401ce2deaa104187952027372203cce06ce02cb830318efc37eeb"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "5267cd0ff94e2695e70720e94c8940045a6a7371c89c3adcad48660b303698dd"
 metafile = true
 
 [[files]]
