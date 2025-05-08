@@ -1,0 +1,13 @@
+name = "Deltabox Lib"
+filename = "deltaboxlib-2.1.1-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c67fe294466f5e9b509c4b9063bb456463af9d41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6473583
+project-id = 973463

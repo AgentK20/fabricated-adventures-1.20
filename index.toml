@@ -2884,6 +2884,11 @@ hash = "3be4d8184379525c27fee02066e56149bc701189a4b8b4c5ec5deff189f1422d"
 metafile = true
 
 [[files]]
+file = "mods/blast.pw.toml"
+hash = "e15f84d436ede8b7358ac2c404a54a410f57896509c73762bd7133c6bc129924"
+metafile = true
+
+[[files]]
 file = "mods/block-runner-forge.pw.toml"
 hash = "7853589588046b716f7e76007bcb0d40aa3b27b303011fe27089458e9514a3de"
 metafile = true
@@ -3056,6 +3061,11 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "ccd8f9122da261c9b652ffae983fc5778550d34a241bd3df935632e51e696f56"
+metafile = true
+
+[[files]]
+file = "mods/civilizations.pw.toml"
+hash = "ce5d3aac88fe59fcd7b5acef465e449c0815f8ebbf56b7ceee7a63fa460a15c6"
 metafile = true
 
 [[files]]
@@ -3269,8 +3279,18 @@ hash = "326cadd8aba6b045c298fb8b2ccc6943f3d74c6ac20953ed1bded1c3e6dd898e"
 metafile = true
 
 [[files]]
+file = "mods/deltaboxlib.pw.toml"
+hash = "7ad72ed7c954418027bd992ae4cb57759f841314dc624d04f087313dfd2637ce"
+metafile = true
+
+[[files]]
 file = "mods/ding-for-fabric.pw.toml"
 hash = "25f52c263f75f7e39d3f062d56e3488acff6fd962cf02284e09ee37a987772a9"
+metafile = true
+
+[[files]]
+file = "mods/disable-end-portals.pw.toml"
+hash = "afbcc29cd08a39a22a421612d1bbd081878f0474e764167b9f1b51c53d6bd5c3"
 metafile = true
 
 [[files]]
@@ -3752,6 +3772,11 @@ hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
 metafile = true
 
 [[files]]
+file = "mods/impersonate.pw.toml"
+hash = "81c3305d4610b45f5ea99c1855927e7d962c337c9f6ae98466599925ae0d3486"
+metafile = true
+
+[[files]]
 file = "mods/incapacitated.pw.toml"
 hash = "5739f89b97fc99a7d62603e881687ce6331e670c9fa28396bfdbece4eff09c33"
 metafile = true
@@ -4052,6 +4077,11 @@ hash = "bedc185732e8142cc94e42cbce04d5fdbed662231b432fa76fd963767e581078"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "60419317ac405bf60e965457461834b4d2eab095aa08889eb323b704261cb9ea"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
@@ -4202,6 +4232,11 @@ hash = "4c52f5a149bd123b98c46f616201b62d0120ac08e1ac731f6062d0b081f62c56"
 metafile = true
 
 [[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "967301c625cd4499dced8d62e137c60c7b8b8f3dee9d377766518784194e0bc8"
+metafile = true
+
+[[files]]
 file = "mods/nightlights.pw.toml"
 hash = "fbe054ec4425d48b76c89216ba087c3ef48044db64fde9a763645ef09fab92a7"
 metafile = true
@@ -4272,6 +4307,11 @@ hash = "c5fb0b6a5be045f581c5b967253dc44800962c2ccaf464ef66c727177ef38e58"
 metafile = true
 
 [[files]]
+file = "mods/pale-garden-backport.pw.toml"
+hash = "59d2ba00092e87d7c32259e3a9b0f4e659d33ce41a13f2fdece669205c5140a8"
+metafile = true
+
+[[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "7353f81246fc643a2545de0849f2ad29026832051f09b95c5b8fd255243a87cb"
 metafile = true
@@ -4304,6 +4344,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "7aa88c3736f441c44c44457e337d0c45eaa4302efd807f5023757ddd44d6de20"
+metafile = true
+
+[[files]]
+file = "mods/pick-your-poison.pw.toml"
+hash = "0cb9b00b492d8dac3931eac50e9583622a183ab95cb5531858c1d92048680110"
 metafile = true
 
 [[files]]
