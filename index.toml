@@ -2939,6 +2939,11 @@ hash = "b25295ce5fb283a09477ad06072d540070f7e27c1b01177f9f18f136fdefccb2"
 metafile = true
 
 [[files]]
+file = "mods/buildpaste.pw.toml"
+hash = "d5c5f904c47b43b095241dd354951f34dcdd296528ac2f53af90008d616fe979"
+metafile = true
+
+[[files]]
 file = "mods/builtin-servers.pw.toml"
 hash = "aac36f200fd2fe3d73bea8d927dcf7dcb68cd327b88801c5fb2fb03f536d92a3"
 metafile = true
@@ -3146,6 +3151,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "9ccac4c94642a5eeca243037553fdb967a4b0849dc4139396ad705e2752f6087"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "55d6757ad5dfca007c5101319f94a45030de1970e697fcc34830311a6974204b"
 metafile = true
 
 [[files]]
@@ -3558,6 +3568,16 @@ hash = "c1b2e3dd94af63a282fce3acc993cbbed8cd680eb298ef78f95e56fbbd24b2a2"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
+hash = "be27c9f5c78d11f671f3d5673bbd8fafb45c615ee542fe5d8a8f4f44c6bdaadd"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+hash = "20c0294134def2e3d0bf739e7c5b6860ed374d1658017df47bd3ff1eb1b7176e"
+metafile = true
+
+[[files]]
 file = "mods/friendsandfoes-fabric-mc1.20.1-3.0.2.jar"
 hash = "c2934905b39d00182376d62cc0eae4afc1027921b4d73e720fbb3992a4148539"
 
@@ -3912,6 +3932,11 @@ hash = "96bd5caf13c9368b29d57c244b8ab6171f5cb88cb8f585b87ba87fb19353c7fd"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "52474049a6eef09eb3cbd35d92c4249808f4d2338bd4da272991f2924da3c47f"
+metafile = true
+
+[[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "44304cfd2ffa424228873d39e50430b2165bc7cc1e11a2a331add846e3f1635e"
 metafile = true
@@ -3944,6 +3969,11 @@ metafile = true
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
 hash = "24cf230787641ebfb251c4b140b7f107d4f0af299f7d0c7373f5e3e2189114bb"
+metafile = true
+
+[[files]]
+file = "mods/mariums-soulslike-weaponry.pw.toml"
+hash = "f996acc77564a0e43e8dc87f3471218bf459c99a4a09cfef80f10312d65a4858"
 metafile = true
 
 [[files]]
@@ -5003,11 +5033,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/remove-terralith-intro-message.pw.toml"
 hash = "1762087dcdfa49f91037d463b001f0c56d07d9cf2cf8b84605acbfd4bd745d7c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/spawn-animations.pw.toml"
-hash = "a9b79bbf4c6ba3382de55ca097ad14b43a6fdbd95987cf5c9ba59a44b4f6921b"
 metafile = true
 
 [[files]]
