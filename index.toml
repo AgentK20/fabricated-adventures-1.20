@@ -2639,6 +2639,11 @@ hash = "2d26871572db1ecbd2b3f687ab671acc64fa2829852a885a1e69a0be08911259"
 metafile = true
 
 [[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "333c52ff72729f603d975a0d1652cedcffa49735537dbd0628f85a77222add62"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "073d82755fce8e9fb28ab08327e0b062878c87ee727f9278793a0c297757e3d2"
 metafile = true
@@ -3124,6 +3129,11 @@ hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
 metafile = true
 
 [[files]]
+file = "mods/copperrails.pw.toml"
+hash = "ff0d139ac26ac270d2e5273f582ffa09bb628d8ddfceed7fb92be3c509764506"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "2e9f0cf136e33806f330dbbd3ae665cbc5796ae78d1061d3c8b6ecd48a30f4ed"
 metafile = true
@@ -3216,6 +3226,11 @@ metafile = true
 [[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "ab4ba7a7b76b5ffc0480d74db8b065a555a41e56ddbdd812dad9dc7913bdb9f4"
+metafile = true
+
+[[files]]
+file = "mods/dawn-of-time-builder-edition.pw.toml"
+hash = "3aad6d2ccc44b5b43366218951f1b279e10253870b4b9b0fdb018d07fb652cce"
 metafile = true
 
 [[files]]
@@ -3513,6 +3528,11 @@ hash = "8629f55ffd91cfa46eb26611afc3b188dbccc7164277c3d9b7df2dc09b219932"
 metafile = true
 
 [[files]]
+file = "mods/fbp-renewed.pw.toml"
+hash = "716a320b7e7f93ca7f93f4d36bbb428ab3e48024d3d2068011260d9a9952b266"
+metafile = true
+
+[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "2fe5c3b7249e3f5fc2f2208010a92f57d853cde64d8bc87f985d938f767647a8"
 metafile = true
@@ -3659,6 +3679,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
+metafile = true
+
+[[files]]
+file = "mods/happy-ghast-backport.pw.toml"
+hash = "43da9c3eb6b1ba077e6102bfd0825d2d119806cbc5ab446de33816de4e2c622b"
 metafile = true
 
 [[files]]
@@ -3814,6 +3839,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "2e0b95a2e452ba4e42417bcae1d201c8c80ffaca9c0a6f37e0c7493fd45655ad"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "fdd5bb8db6166ec641236cffa0a6a098387ecc6921474ebc56225ca1704b3de9"
 metafile = true
 
 [[files]]
@@ -4382,6 +4412,11 @@ hash = "3a74619a6bffdff64959073e38393bed1c79ccee30b87e4d88f018ae0c2efa04"
 metafile = true
 
 [[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "8515079e00355e8e6010a6a18b53e6f19593d19c649a84d02afe6ea4b5a7b9d8"
 metafile = true
@@ -4534,6 +4569,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "b1dd6ac8ea2df432d01c0c2f93634f96d5e7b15439c41f0d8b050bca8714bace"
 metafile = true
 
 [[files]]

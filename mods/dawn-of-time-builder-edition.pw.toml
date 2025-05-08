@@ -1,0 +1,13 @@
+name = "Dawn of Time"
+filename = "Dawn Of Time-fabric-1.20.1-1.5.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RgWXq0La/versions/vyr1xF1J/Dawn%20Of%20Time-fabric-1.20.1-1.5.13.jar"
+hash-format = "sha512"
+hash = "b0d2dc3226f903653aa5144df54a0ad4353b69223f3bae198dd57cffc947b0a1cccc701e501aa6f8a4ba4ad99f7159b35aa6e57b7e770223a39d6205246ba45d"
+
+[update]
+[update.modrinth]
+mod-id = "RgWXq0La"
+version = "vyr1xF1J"

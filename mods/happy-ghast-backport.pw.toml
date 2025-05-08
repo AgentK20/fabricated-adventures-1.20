@@ -1,0 +1,13 @@
+name = "Happy Ghast Backport"
+filename = "happy_ghast-3.0.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58dde227cd75a15d36144d4b84d576d81b67855c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6355911
+project-id = 1225630
