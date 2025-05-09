@@ -645,6 +645,22 @@ file = "config/blockrunner.json"
 hash = "e6ce82a31c9f825f26e0073b4e241fa8092c8451f57b058a067cac32e8bea83b"
 
 [[files]]
+file = "config/bluemap/packs/BetterEnd.Bluemap.zip"
+hash = "350d01e4e513a680395fa47faffa7a0e9f8e6ac826b478cac30293c061dc4bc2"
+
+[[files]]
+file = "config/bluemap/packs/Rechiseled.Bluemap.zip"
+hash = "b583a854319370f558d10ce989c9e8f842e14481dc1644a9187056afe8f2ffdf"
+
+[[files]]
+file = "config/bluemap/packs/SophisticatedBackpacks.Bluemap.zip"
+hash = "88dc40a8137c246d30f5226e413385bcd9f83159aa99d24ef7e5ad3f6264684a"
+
+[[files]]
+file = "config/bluemap/packs/SophisticatedStorage.Bluemap.zip"
+hash = "3820d29bd8334fda3264eb7c44fa2bafde4f281cd048915a5ded117523010992"
+
+[[files]]
 file = "config/blur.json"
 hash = "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a"
 
@@ -2639,11 +2655,6 @@ hash = "2d26871572db1ecbd2b3f687ab671acc64fa2829852a885a1e69a0be08911259"
 metafile = true
 
 [[files]]
-file = "mods/advanced-loot-info.pw.toml"
-hash = "333c52ff72729f603d975a0d1652cedcffa49735537dbd0628f85a77222add62"
-metafile = true
-
-[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "073d82755fce8e9fb28ab08327e0b062878c87ee727f9278793a0c297757e3d2"
 metafile = true
@@ -2804,6 +2815,11 @@ hash = "28f90c985b1d3f615cae721601b0398aa88041ea7ac2d352da78c331a7ba0a26"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "a11b70319c12adadc8444b3883abff9e1bb38278e9c61b79e2988594efeed89c"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "2f0c572f52bd5508491258b40a1d18e3b5c93dfba89848d09ca68d43e0d3a8ee"
 metafile = true
@@ -2891,6 +2907,16 @@ metafile = true
 [[files]]
 file = "mods/block-runner-forge.pw.toml"
 hash = "7853589588046b716f7e76007bcb0d40aa3b27b303011fe27089458e9514a3de"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "2518c345fff3655497ef3a4490b50797d550bbb2490f0e284d5489d27b180c93"
+metafile = true
+
+[[files]]
+file = "mods/bluemapfrontiers.pw.toml"
+hash = "5f8df5124128c084338d76287f1c865d1cbef540cacce9a5574142e6f71fcdee"
 metafile = true
 
 [[files]]
@@ -3061,11 +3087,6 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "ccd8f9122da261c9b652ffae983fc5778550d34a241bd3df935632e51e696f56"
-metafile = true
-
-[[files]]
-file = "mods/civilizations.pw.toml"
-hash = "ce5d3aac88fe59fcd7b5acef465e449c0815f8ebbf56b7ceee7a63fa460a15c6"
 metafile = true
 
 [[files]]
@@ -3274,6 +3295,11 @@ hash = "fd5e34a06a44e05049fda34d2885dfd237e1a7a5be99ee12cb2d8745f55d01e5"
 metafile = true
 
 [[files]]
+file = "mods/deimos.pw.toml"
+hash = "a7cb24330b9a2f1c6e167b6b54f358cf8d60436e2bd75bb708b3652f1a9dbd78"
+metafile = true
+
+[[files]]
 file = "mods/delightful-froge.pw.toml"
 hash = "326cadd8aba6b045c298fb8b2ccc6943f3d74c6ac20953ed1bded1c3e6dd898e"
 metafile = true
@@ -3286,11 +3312,6 @@ metafile = true
 [[files]]
 file = "mods/ding-for-fabric.pw.toml"
 hash = "25f52c263f75f7e39d3f062d56e3488acff6fd962cf02284e09ee37a987772a9"
-metafile = true
-
-[[files]]
-file = "mods/disable-end-portals.pw.toml"
-hash = "afbcc29cd08a39a22a421612d1bbd081878f0474e764167b9f1b51c53d6bd5c3"
 metafile = true
 
 [[files]]
@@ -3405,11 +3426,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-celestials-fabric.pw.toml"
-hash = "7d41981d1e2294e9b057aaa847cfa74176a7a0471825f21f590f9db9760ffb68"
 metafile = true
 
 [[files]]
@@ -3982,6 +3998,11 @@ hash = "9856123628a7ed01697c5a1fa2de13331577f355ceeac3f1c1577b4aeb116b63"
 metafile = true
 
 [[files]]
+file = "mods/lunar.pw.toml"
+hash = "66ddbcf0308764ea49723132637807dc98868c116d52cedc3997f678af480dca"
+metafile = true
+
+[[files]]
 file = "mods/lychee-fabric.pw.toml"
 hash = "96bd5caf13c9368b29d57c244b8ab6171f5cb88cb8f585b87ba87fb19353c7fd"
 metafile = true
@@ -4134,6 +4155,11 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "60cf6a091f6b0b0385fa1fef93ea36dbaec9d175201b7ddb3045387e5f5abcf3"
+metafile = true
+
+[[files]]
+file = "mods/more-music-discs.pw.toml"
+hash = "d333f558aae254579d0962883aab99084adb5ccff885920446352d960848ee0d"
 metafile = true
 
 [[files]]
@@ -4372,6 +4398,11 @@ hash = "bd5db8dd260479ff5a9e938c7d3fa5daedef925893afc76798d13f91620e0473"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "c49371cc67698d08500a5cb03e0341fad2747bba455115efc2ddf25ac223c134"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
@@ -4409,6 +4440,11 @@ metafile = true
 [[files]]
 file = "mods/probejs.pw.toml"
 hash = "aeaed2e0347ef601178e1c900da39328c5a09e43b20aba277ca665eac57fef6a"
+metafile = true
+
+[[files]]
+file = "mods/promenade.pw.toml"
+hash = "c385b5e757bac21a475bdb9237ae31ea34f2d6e342c11d34bafc8823f4854e2a"
 metafile = true
 
 [[files]]
@@ -4517,6 +4553,11 @@ hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
 metafile = true
 
 [[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "86dd30664de6dd1d53e9ecec18ea7c3feb0b8b1e4862616af6fa5207a528c694"
+metafile = true
+
+[[files]]
 file = "mods/rune-crafting.pw.toml"
 hash = "20921407c1c4c2b8627ebc84950ff412f1c8265f578595d10b8e5b1dea4c6d70"
 metafile = true
@@ -4524,6 +4565,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "f4e27dcb0732e442dc7cc6019e125e3e933baf405bd13e916d837089e80ab109"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "1187343aa841668df480b95c643936686c12ba1906edc47e24d92c091d60401b"
 metafile = true
 
 [[files]]
@@ -4614,11 +4660,6 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
-metafile = true
-
-[[files]]
-file = "mods/skinshuffle.pw.toml"
-hash = "b1dd6ac8ea2df432d01c0c2f93634f96d5e7b15439c41f0d8b050bca8714bace"
 metafile = true
 
 [[files]]
@@ -4798,7 +4839,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "56e8e577e8bad4bb8c865227258311c839436b96debd386829ea05de44c45cda"
+hash = "eb896ccd9acaf79e33e57b52f99f14f8be38548e45c3a6aef72a4cabb9fa47a9"
 metafile = true
 
 [[files]]
