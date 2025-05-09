@@ -1577,10 +1577,6 @@ file = "config/libgui.json5"
 hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
-file = "config/lithium.properties"
-hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
-
-[[files]]
 file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
@@ -2990,11 +2986,6 @@ hash = "0deaa67036486340006ecb314dd9298185bf86d4b50b969dd742ab3e6691ea9e"
 metafile = true
 
 [[files]]
-file = "mods/c2me.pw.toml"
-hash = "99bf8f34b6bff81c977ea6736c58b6df564a7e9ae684fe3ad25e3b5fc91a6c74"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
 metafile = true
@@ -3965,6 +3956,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "662512cd3986e81c6cfd75816e9c968f66a2bf60001f82cb27a68c9ef5919c90"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "7fabd6bd7ee1f94d0bbb48a9f0c563eafb0ef878903716f6d989b2c441585bb1"
 metafile = true
 
 [[files]]
