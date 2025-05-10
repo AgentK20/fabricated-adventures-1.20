@@ -3420,11 +3420,6 @@ hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-mob-spawners.pw.toml"
-hash = "1c492ce0ebe7bd1c4fe7398b4056a014414cd9b19bfb9b4f8fa1babaaa4967e0"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "ca5437e7ec18441fddebc8435aa77da5f47a3a48d071da556548cde668c2c102"
 metafile = true
