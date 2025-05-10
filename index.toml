@@ -1669,6 +1669,10 @@ file = "config/moonlight-common.json"
 hash = "516805b2e1c9d36851a890900fa572a077f7bad5869cfe8d9d5816543f73149d"
 
 [[files]]
+file = "config/mtr.json"
+hash = "9e061c230a7f57040f52b76e675d701f854420d0f54c645f0b91d67c604dbd3e"
+
+[[files]]
 file = "config/multibeds/client.json5"
 hash = "8a56071eed6c6555ef0bfc397e16ea6fd9e9f27595ff0fe25e6969a4e8884e92"
 
