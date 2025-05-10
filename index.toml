@@ -438,7 +438,7 @@ hash = "6ce995c6fd196dd820d0e5789bef58ba285aa1c33e626cd6cbe989dc8a119460"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6e15231a3e7d39e376a3319fa3c407b95535ea43f29d02b55c46ae3e18f669d6"
+hash = "40ede86af51b5ddbff5292e9793c726eb98a86a95a6ade15330b07887ed34c0c"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -698,7 +698,7 @@ hash = "8b1a828af5237616a8c1e2b6c0bbc1cb276675d36bb67990f092b25cb149cfcb"
 
 [[files]]
 file = "config/builtinservers.json"
-hash = "09e724bc759479ce52a3a1b787dd409c707e5055557b436be79589b1e6d6b931"
+hash = "324a4a93addd00ddfabc4d1fac8cea30767c37b5e17e42c729d671ad138b6e54"
 
 [[files]]
 file = "config/bwncr.toml"
@@ -1654,7 +1654,7 @@ hash = "fe6660793dcd1ee0eeb7e9a42129b8043487a4dbf626b92ded7b148dc50312a2"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+hash = "bb1e84b317c9c6b0decccfb7f3fa4de155f3a300cebdc4588db0472d4d557d6d"
 
 [[files]]
 file = "config/modonomicon.json5"
@@ -3540,6 +3540,11 @@ hash = "837a4cd76074b9bcec0eca2e4f7dda9e76f058e154e9a203081be573be46da7c"
 metafile = true
 
 [[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "ec572d050630b68f8b10fa0e2afe5aaa08dc95cb4ffa5019552b2d13c30b773c"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "42069309eefb11158a1072514fd76140ca349f1355189a2734967bdf3aedb22d"
 metafile = true
@@ -4174,6 +4179,11 @@ hash = "b27af126c10a49b3c56502dd947e795f47af7fd67453d60bbb0043ad9e0a44e7"
 metafile = true
 
 [[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "634a6a701f019e2b4dcba833c97b47fd17f112666a0f390612ed14eae7bc0d37"
+metafile = true
+
+[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "b350cc83e24f5927ff800af0c21f70713aaff9458f1fb70bac4d13c3e670cf09"
 metafile = true
@@ -4541,6 +4551,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "a89b02e26870be792291f86c441ba28e39bcefd3a47f7b3ba79890fcb18d5d6d"
+metafile = true
+
+[[files]]
+file = "mods/rose-gold-equipment.pw.toml"
+hash = "dd43a5624ea306d69c79a3e3970a1b9e0281faa8b6fc3d8883028a76547894e8"
 metafile = true
 
 [[files]]

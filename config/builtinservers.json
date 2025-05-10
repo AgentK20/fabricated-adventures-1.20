@@ -3,12 +3,12 @@
   "builtinServers": [
     {
       "name": "The Mines",
-      "address": "99.56.12.73:25595",
+      "address": "mc.agentk.dev:25595",
       "forced": true
     },
     {
       "name": "The Mines (Beta)",
-      "address": "99.56.12.73:25596",
+      "address": "mc.agentk.dev:25596",
       "forced": false
     },
     {
