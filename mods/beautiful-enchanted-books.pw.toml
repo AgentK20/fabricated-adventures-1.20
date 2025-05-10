@@ -1,13 +1,13 @@
-name = "Beautiful Enchanted Books [MOD EDITION] | 3.0 UPDATE! - "
-filename = "BEB-Fabric-1.20.1-3.0.0.jar"
+name = "Beautiful Enchanted Books [MOD EDITION] | 4.0 UPDATE!"
+filename = "BEB-Fabric-1.20.1-4.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9748849ea8dcfd6284541264912040846a11ce65"
+hash = "32c200bc4f778415c63a7ee09e51b0f947a96ad4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6289363
+file-id = 6481363
 project-id = 1083202

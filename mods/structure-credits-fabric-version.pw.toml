@@ -1,13 +1,13 @@
 name = "#Structure Credits | Fabric Version"
-filename = "structurecredits-2.2.1.jar"
+filename = "structurecredits-LASTVERSION.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "81026825c099381af41d64be5cf3d72602b63cb4"
+hash = "ae06f1b664e13d9ca16b7e444b9a4cdd7f635a02"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6095569
+file-id = 6414526
 project-id = 978221

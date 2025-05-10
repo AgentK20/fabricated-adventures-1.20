@@ -1,13 +1,13 @@
 name = "[IA] Remaining Airborne"
-filename = "remaining_airborne-1.20.1-fabric-v1.0.jar"
+filename = "remaining_airborne-1.20.1-fabric-v1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c5e9d1fa127cdb368a7509b22bc15ebb379494f9"
+hash = "b039302529f511bcaa8c24c0bfa1e64c653723c3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6144826
+file-id = 6512224
 project-id = 1190971

@@ -1,13 +1,13 @@
 name = "MobZ"
-filename = "mobz-4.0.2-fabric.jar"
+filename = "mobz-4.2.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "db74a6a0cd4f8caac1cea7d7be5a28eaf6cb6fe6"
+hash = "40e3cc94af0904aa2786e499645f89e9d19f165c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5730781
+file-id = 6495912
 project-id = 336554

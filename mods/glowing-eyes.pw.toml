@@ -1,13 +1,13 @@
 name = "Glowing Eyes"
-filename = "glowingeyes-fabric-1.20.1-2.0.1.jar"
+filename = "glowingeyes-fabric-1.20.1-2.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "59b28cc424106520335ff13fb4ca06462a91d805"
+hash = "13aa6528eba19d931fba21723e3e17f221c93661"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6311191
+file-id = 6418497
 project-id = 921929
