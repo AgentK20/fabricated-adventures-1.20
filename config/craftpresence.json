@@ -42,7 +42,9 @@
       "default": {
         "textOverride": "Playing on {server.motd.raw}"
       }
-    }
+    },
+    "pingRateInterval": 5,
+    "pingRateUnit": "minutes"
   },
   "statusMessages": {
     "mainMenuData": {
@@ -99,7 +101,8 @@
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
     "allowDuplicatePackets": false,
     "maxConnectionAttempts": 10,
-    "enableClassGraph": false
+    "enableClassGraph": false,
+    "useClassLoader": false
   },
   "accessibilitySettings": {
     "languageId": "en_us",
@@ -131,7 +134,8 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "AgentKid": "https://mc-heads.net/avatar/0b3ee6ed95f941b4884ff3fb0a6156e4"
     },
     "dynamicVariables": {
       "default": "Example Text",

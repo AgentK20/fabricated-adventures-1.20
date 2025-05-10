@@ -1,0 +1,13 @@
+name = "[Let's Do] Lili's Lucky Lures"
+filename = "letsdo-lilis_lucky_lures-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0960c3454e19eaff09001b4381e3620fd7d3a8e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6195752
+project-id = 1197637

@@ -1,0 +1,13 @@
+name = "Plushables"
+filename = "plushables-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f435a641a68c788681d4af816f6005ccd7b5f674"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6197185
+project-id = 318603

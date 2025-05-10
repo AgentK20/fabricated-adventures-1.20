@@ -1,0 +1,13 @@
+name = "Rose Gold Equipment"
+filename = "rose-gold-equipment-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZpZffQVs/versions/EuQ16Hya/rose-gold-equipment-1.2.jar"
+hash-format = "sha512"
+hash = "6f5953594b50a6820ccd81ea69f76759815a747cdb06a0f8c260cdb127905ed222a1848e9ef609b42f52932f198d62e2c146903eba9be1b83571a500dff04352"
+
+[update]
+[update.modrinth]
+mod-id = "ZpZffQVs"
+version = "EuQ16Hya"

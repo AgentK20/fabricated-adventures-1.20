@@ -1,13 +1,13 @@
 name = "Supplementaries Squared"
-filename = "suppsquared-1.20-1.1.14-fabric.jar"
+filename = "suppsquared-1.20-1.1.21-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "32c159ab7fb6ad061cb04e9c656871722d63159e"
+hash = "1767c7f3b52ca57dd7479da4b26368fc155e8219"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5130384
+file-id = 6280153
 project-id = 838411

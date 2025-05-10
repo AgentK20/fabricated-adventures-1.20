@@ -148,3 +148,17 @@
 	#work, add restrictions how Dogs can breed. Therefore, only Dogs whose gender is Biologically Opposed
 	#can mate with each other. Set this to true to disable this behaviour.
 	disable_dog_gender = false
+	#By default, Injured Dogs won't block portal, allowing them to
+	#be brought back from another dimension. Enable this
+	#to make Injured Dogs still block portals.
+	injured_dog_block_portal = false
+	#By default, Wandering Dogs will not respond to the stay/stand whistle.
+	#Enable this to make them respond as usual.
+	wandering_dog_whistle = false
+	#Prevent all Dogs' kills from being recorded into its Kill Stats.
+	disable_kill_stats = false
+	#Disable all Wolf Armor Protection for DTN Dogs. They can still be
+	#used for Style.
+	disable_wolf_armor_protection = false
+	#Prevent Wild Wolves from being angry when you accidentally hit them.
+	prevent_wild_wolves_angry = false

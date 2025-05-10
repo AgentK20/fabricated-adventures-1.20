@@ -2,7 +2,20 @@
   "cache": {
     "rpg_series:tier_4_weapons": [],
     "rpg_series:tier_1_armors": [],
-    "rpg_series:tier_2_armors": [],
+    "rpg_series:tier_2_armors": [
+      "spellbladenext:runeblazing_head",
+      "spellbladenext:runeblazing_chest",
+      "spellbladenext:runeblazing_legs",
+      "spellbladenext:runeblazing_feet",
+      "spellbladenext:runegleaming_head",
+      "spellbladenext:runegleaming_chest",
+      "spellbladenext:runegleaming_legs",
+      "spellbladenext:runegleaming_feet",
+      "spellbladenext:runefrosted_head",
+      "spellbladenext:runefrosted_chest",
+      "spellbladenext:runefrosted_legs",
+      "spellbladenext:runefrosted_feet"
+    ],
     "rpg_series:tier_3_armors": [],
     "rpg_series:tier_0_accessories": [],
     "rpg_series:tier_1_accessories": [],

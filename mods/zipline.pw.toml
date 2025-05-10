@@ -1,0 +1,13 @@
+name = "Zipline"
+filename = "zipline-1.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14b825cc370152740c7e4786f685e83f14b1b5c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6106767
+project-id = 1182075

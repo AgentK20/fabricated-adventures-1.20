@@ -19,6 +19,7 @@
 	#Wand destruction block limit (0 to disable destruction core)
 	#Range: > 0
 	destruction = 0
+
 [iron_wand]
 	#Allow wand upgrading by putting the wand together with a wand core in a crafting grid.
 	upgradeable = true
@@ -34,6 +35,7 @@
 	#Wand destruction block limit (0 to disable destruction core)
 	#Range: > 0
 	destruction = 9
+
 [diamond_wand]
 	#Allow wand upgrading by putting the wand together with a wand core in a crafting grid.
 	upgradeable = true
@@ -49,6 +51,7 @@
 	#Wand destruction block limit (0 to disable destruction core)
 	#Range: > 0
 	destruction = 25
+
 [infinity_wand]
 	#Allow wand upgrading by putting the wand together with a wand core in a crafting grid.
 	upgradeable = true
@@ -61,6 +64,7 @@
 	#Wand destruction block limit (0 to disable destruction core)
 	#Range: > 0
 	destruction = 81
+
 [misc]
 	#Maximum placement range (0: unlimited). Affects all wands and is meant for lag prevention, not game balancing.
 	#Range: > 0
@@ -75,6 +79,7 @@
 	InfinityWandCreative = 2048
 	#Place blocks below you while falling > 10 blocks with angel core (Can be used to save you from drops/the void)
 	AngelFalling = false
+
 [tileentity]
 	#If set to TRUE, treat TEList as a whitelist, otherwise blacklist
 	TEWhitelist = false

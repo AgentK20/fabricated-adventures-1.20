@@ -91,3 +91,5 @@
 	#show Ammy instead of Classical Pale. Disable this
 	#to force the icon to always show Classical Pale.
 	ammy_spinna = true
+	#Enable this to hide Wolf Mount Dog's Status Overlay when riding it.
+	hide_wolf_mount_status = false

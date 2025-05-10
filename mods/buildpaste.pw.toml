@@ -1,0 +1,13 @@
+name = "BuildPaste - Instant Structures"
+filename = "BuildPasteFabric-1.20.4v1.5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9kNC5Mrh/versions/vgT2XBmN/BuildPasteFabric-1.20.4v1.5.1.1.jar"
+hash-format = "sha512"
+hash = "af5e79cb49073a071c97af579c7c450b901df1b3c2597f1d5df034a2de0f60f96f9229fe7d7fb96daaec6a4736b13d143593e3cca3b4a1cab5975cedc195d07d"
+
+[update]
+[update.modrinth]
+mod-id = "9kNC5Mrh"
+version = "vgT2XBmN"

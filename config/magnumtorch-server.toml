@@ -45,6 +45,7 @@
 	#Range for preventing mob spawns on x-z-plane.
 	#Range: > 0
 	horizontal_range = 64
+
 [emerald_torch]
 	#Types of mob spawns to block (provided by vanilla, some seem a little arbitrary). By default this is configured to only affect natural spawns occurring without player interaction and to not disrupt any game events such as raids.
 	#NATURAL: monsters spawned during night time, cats in villages, phantoms in the sky
@@ -92,6 +93,7 @@
 	#Range for preventing mob spawns on x-z-plane.
 	#Range: > 0
 	horizontal_range = 128
+
 [amethyst_torch]
 	#Types of mob spawns to block (provided by vanilla, some seem a little arbitrary). By default this is configured to only affect natural spawns occurring without player interaction and to not disrupt any game events such as raids.
 	#NATURAL: monsters spawned during night time, cats in villages, phantoms in the sky

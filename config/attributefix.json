@@ -297,6 +297,17 @@
         "value": 16
       }
     },
+    "thermoo:generic.min_temperature": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 8192,
+        "value": 8192
+      }
+    },
     "minecraft:zombie.spawn_reinforcements": {
       "enabled": true,
       "min": {
@@ -394,6 +405,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "thermoo:generic.heat_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -10,
+        "value": -10
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "zenith_attributes:overheal": {
@@ -792,6 +814,17 @@
         "value": 2048
       }
     },
+    "thermoo:generic.frost_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -10,
+        "value": -10
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "dml-refabricated:fly": {
       "enabled": false,
       "min": {
@@ -933,6 +966,17 @@
       "max": {
         "default": 5,
         "value": 1000000
+      }
+    },
+    "spell_power:resistance.generic": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "dml-refabricated:shulker_friendly": {
@@ -1230,6 +1274,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "thermoo:generic.max_temperature": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 8192,
+        "value": 8192
       }
     },
     "dml-refabricated:feather_falling": {

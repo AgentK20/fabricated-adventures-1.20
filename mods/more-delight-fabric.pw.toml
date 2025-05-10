@@ -1,13 +1,13 @@
 name = "More Delight (Fabric)"
-filename = "moredelight-24.8.21-1.20.1-fabric.jar"
+filename = "moredelight-25.01.13-1.20-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d85cae99b9e4ff38664dec9b4c73402879db568a"
+hash = "a4cbce0fe5f0fad4e3c130d1a638a56338ea905a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5651710
+file-id = 6082568
 project-id = 964408

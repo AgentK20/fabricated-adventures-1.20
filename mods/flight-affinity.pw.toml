@@ -1,0 +1,13 @@
+name = "Flight Affinity"
+filename = "flight-affinity-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2274e098ca99a90b7d8533f5d99081045925ea3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6089493
+project-id = 1180063

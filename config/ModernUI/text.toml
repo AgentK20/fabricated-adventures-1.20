@@ -1,6 +1,6 @@
 #Text Engine Config
 [text]
-	#Allow text layout to be computed from background threads, which may lead to inconsistency issues.
+	#Allow text layout to be computed from background threads (not cached).
 	#Otherwise, block the current thread and wait for main thread.
 	allowAsyncLayout = true
 	#Control base font size, in GUI scaled pixels. The default and vanilla value is 8.
@@ -34,7 +34,7 @@
 	#When disabled, Modern UI will use SDF text rendering if appropriate.
 	#This option only applies to TrueType fonts.
 	computeDeviceFontSize = true
-	#The bidirectional text heuristic algorithm.
+	#The bidirectional text heuristic algorithm. The default is FirstStrong (Locale).
 	#This will affect which BiDi algorithm to use during text layout.
 	#Allowed Values: FIRST_STRONG, ANY_RTL, LTR, RTL, LOCALE, FIRST_STRONG_LTR, FIRST_STRONG_RTL
 	textDirection = "FIRST_STRONG"
@@ -77,3 +77,19 @@
 	#See CSS line-break property, https://developer.mozilla.org/en-US/docs/Web/CSS/line-break
 	#Allowed Values: AUTO, LOOSE, NORMAL, STRICT
 	lineBreakStyle = "AUTO"
+	#When enabled, the outline of the experience level text will be tweaked.
+	tweakExperienceText = true
+	#Control the anti-aliasing of raw glyph rasterization.
+	antiAliasing = true
+	#Control the FreeType linear metrics and font hinting of raw glyph metrics.
+	#Disable if on low-res monitor; enable for linear text.
+	linearMetrics = true
+	#Control the minimum pixel density for SDF text and text in 3D world rendering.
+	#This value will be no less than current GUI scale.
+	#Recommend setting a higher value on high-res monitor and powerful PC hardware.
+	#Range: 4 ~ 10
+	minPixelDensityForSDF = 4
+	#Enable linear sampling for A8 font atlases with mipmaps, mag filter will be always NEAREST.
+	#We prefer computeDeviceFontSize and allowSDFTextIn2D, then setting this to false can improve performance.
+	#If either of the above two is false or Shaders are active, then setting this to true can improve quality.
+	linearSamplingA8Atlas = false

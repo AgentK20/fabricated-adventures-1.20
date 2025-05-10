@@ -1,13 +1,13 @@
 name = "A Man With Plushies (AMWPlushies)"
-filename = "amwplushies-fabric-1.20.1-4.2.0.jar"
+filename = "amwplushies-fabric-1.20.1-4.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "596a786602ff9aa6bf0ae34760ece7e9d8c30b7a"
+hash = "b1d18bff8a362d7260916c072686dd310cae3ae9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5559054
+file-id = 6260416
 project-id = 441249

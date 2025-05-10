@@ -1,0 +1,13 @@
+name = "Him"
+filename = "him-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dec146bf2c0c5b0d2bff7335c050e7ec3659ab4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5527599
+project-id = 895308
