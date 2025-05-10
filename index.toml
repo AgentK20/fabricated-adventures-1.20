@@ -4754,16 +4754,6 @@ hash = "27a3e3e13aa6a67c36b00daacfce204837ff9a0e5d1f8e7679dec33b2c9fba3a"
 metafile = true
 
 [[files]]
-file = "mods/spectrum-jetpacks.pw.toml"
-hash = "63df560bcc0432ec3b955627e2044ee54148897638e4bd8d13565ebd7ea0c554"
-metafile = true
-
-[[files]]
-file = "mods/spectrum.pw.toml"
-hash = "8dac67ba557e116f3ff8322ca4c6c67a903e3d23b713570a4e5812ed89c0695b"
-metafile = true
-
-[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "2ed550b63e5149b07b09a20f708696c8d41bdff7dfcc85550263584a7de4d7b5"
 metafile = true
