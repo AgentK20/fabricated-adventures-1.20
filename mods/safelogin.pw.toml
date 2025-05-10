@@ -1,0 +1,13 @@
+name = "SafeLogin"
+filename = "safelogin-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcTIw4RZ/versions/CMMhudnY/safelogin-1.0.0.jar"
+hash-format = "sha512"
+hash = "5c72d15b04a95e143c9ea9cc3f4d8986162d0560ce97eab0f60cc8c4d396d14f35cf05000334c2f6c1e1fb5c4c81b03d74a374c9ff88f56df2438287b06ceed9"
+
+[update]
+[update.modrinth]
+mod-id = "pcTIw4RZ"
+version = "CMMhudnY"

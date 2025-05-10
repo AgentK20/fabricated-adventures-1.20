@@ -4573,6 +4573,11 @@ hash = "f4e27dcb0732e442dc7cc6019e125e3e933baf405bd13e916d837089e80ab109"
 metafile = true
 
 [[files]]
+file = "mods/safelogin.pw.toml"
+hash = "6b973bb09767ef59e3ccc96c96962c8324ed2170b00a8801e634331875cd59ab"
+metafile = true
+
+[[files]]
 file = "mods/satin-api.pw.toml"
 hash = "1187343aa841668df480b95c643936686c12ba1906edc47e24d92c091d60401b"
 metafile = true
