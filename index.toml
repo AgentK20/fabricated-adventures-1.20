@@ -1670,7 +1670,7 @@ hash = "516805b2e1c9d36851a890900fa572a077f7bad5869cfe8d9d5816543f73149d"
 
 [[files]]
 file = "config/multibeds/client.json5"
-hash = "a76235f15e52e47b54b62acc4c09957c9d3f25256c68a3ea1e1f52b25cc76e16"
+hash = "8a56071eed6c6555ef0bfc397e16ea6fd9e9f27595ff0fe25e6969a4e8884e92"
 
 [[files]]
 file = "config/multibeds/common.json5"
