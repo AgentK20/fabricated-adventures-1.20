@@ -33,10 +33,11 @@
 		// default: false
 		enable: true
 		// default: 0.6 * baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
-		health-formula: (baseHealth - 10) + (5 * (floor(uniqueFoodsEaten/5) * (1 + signum(25 - uniqueFoodsEaten)) / 2 + (5 + floor((uniqueFoodsEaten-25)/10)) * (1 + signum(uniqueFoodsEaten - 25)) * (1 - signum(uniqueFoodsEaten - 55)) / 4 + (8 + floor((uniqueFoodsEaten-55)/15)) * (1 + signum(uniqueFoodsEaten - 55)) / 2))
+		health-formula: 0.6 * baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
+		// health-formula: (baseHealth - 10) + (5 * (floor(uniqueFoodsEaten/5) * (1 + signum(25 - uniqueFoodsEaten)) / 2 + (5 + floor((uniqueFoodsEaten-25)/10)) * (1 + signum(uniqueFoodsEaten - 25)) * (1 - signum(uniqueFoodsEaten - 55)) / 4 + (8 + floor((uniqueFoodsEaten-55)/15)) * (1 + signum(uniqueFoodsEaten - 55)) / 2))
 		// default: -1
 		// 	Must be inclusively between -1 and 200
-		max-health: -1
+		max-health: 40
 		// default: true
 		uneaten-in-journal: true
 	}

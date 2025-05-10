@@ -2182,7 +2182,7 @@ hash = "10e1607f7ebabbddafef178bacd6f3f215a24f52870f3101809dc2c6bd72113f"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "4ea60d43c1333444fe4ec894de6b69ecd79abdda128c7d11f12ab0383d34fe39"
+hash = "773b0f7239d2f171ae7f8840e9c7058a086ea85d8ebe2c3deee53bbf467eef06"
 
 [[files]]
 file = "config/stackdeobf.json"
@@ -2506,7 +2506,7 @@ hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "8e1348c2fbfa8f1771b611a8ecc6b4dd5582522a778c772836166d32d6554aba"
+hash = "d8c3f90375261ba303bb6ae31ce6a9088437e73ca2b588867e0c7356cf2ecfaf"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
