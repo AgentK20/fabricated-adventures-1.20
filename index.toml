@@ -1898,7 +1898,7 @@ hash = "dfa0418c6d61dca8b65c682ed00713a762f7f183dced233bf60db0d2fcd80ff2"
 
 [[files]]
 file = "config/shetiphiancore/client.json5"
-hash = "fd04bd6fefae8634aff94c993ccf15b43f59245879a96362372fb7c0daefe8b5"
+hash = "f56d7c84439f77a0ec9973dfcd1b260cbaa58d51498686f25983bcf4907ccd8c"
 
 [[files]]
 file = "config/shetiphiancore/common.json5"
