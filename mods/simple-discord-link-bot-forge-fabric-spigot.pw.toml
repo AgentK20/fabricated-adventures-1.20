@@ -1,6 +1,6 @@
 name = "Simple Discord Link Bot"
 filename = "SimpleDiscordLink-Universal-3.3.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
