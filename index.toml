@@ -3230,6 +3230,11 @@ hash = "4a43a88dc6fc605058ed7211999685379fc32bf5341c644593b918a9ffb31361"
 metafile = true
 
 [[files]]
+file = "mods/cucumber-library-refabricated.pw.toml"
+hash = "7b1ee52e3023244373d8163c0c31f2fd42674fb89992675a47539372671b07b5"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
 hash = "c93d71f4a4084a7e643a809bf04e09d9c62562cb159b47f60fe2551e08c063a8"
 metafile = true
@@ -4178,6 +4183,11 @@ hash = "b350cc83e24f5927ff800af0c21f70713aaff9458f1fb70bac4d13c3e670cf09"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture-refabricated.pw.toml"
+hash = "1f1e26a4bc5a978811c569b6b0eb7ba199d49a6987eb5d44fa08ae5fd254faf9"
+metafile = true
+
+[[files]]
 file = "mods/mythic-charms.pw.toml"
 hash = "aca7831c5e08f192d350a666bdfcf273d8d7c8329ef8581666133d1f3b2a50af"
 metafile = true
@@ -4485,6 +4495,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "a16b2f8c67c32106d43ff46657623e2c634e6f8b296eef4a3a449041a1d98b6c"
 metafile = true
 
 [[files]]
