@@ -2406,7 +2406,7 @@ hash = "72d80e964a507f3e428f3a646035a72fbc966d558cb31a4289eb3781d1c2e199"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "ba081d029d228cec362b6310a5a96f7f4bd4de3717776a62516f61d17ffe54c0"
+hash = "1e4ead6c2b181b2afa228a3516c8ab55958683714fee639657da0d170022fb12"
 
 [[files]]
 file = "config/welcomescreen/welcomescreen/welcomescreen.json5"

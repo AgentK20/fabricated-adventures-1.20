@@ -112,7 +112,7 @@ worldGenStyle = "BIOME"
 [xpCost]
 
 # The amount of blocks per xp level requirement. If set to 500, the base xp cost for travelling 1000 blocks will be 2 levels.
-blocksPerXpLevel = 0
+blocksPerXpLevel = 500
 
 # The base xp level cost when travelling between dimensions. Ignores block distance.
 dimensionalWarpXpCost = 100
@@ -127,10 +127,10 @@ inventoryButtonXpCostMultiplier = 5.0
 inverseXpCost = false
 
 # The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
-maximumBaseXpCost = 40.0
+maximumBaseXpCost = 10.0
 
 # The minimum base xp cost (may be subceeded by multipliers defined below)
-minimumBaseXpCost = 25.0
+minimumBaseXpCost = 7.0
 
 # The multiplier applied to the base xp cost when teleporting from a portstone.
 portstoneXpCostMultiplier = 2.0
