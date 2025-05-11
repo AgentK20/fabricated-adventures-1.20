@@ -21,7 +21,8 @@
         ],
         "triggers": {
           "dimensions": [
-            "{regex}.*"
+            "minecraft:the_nether",
+            "minecraft:the_end"
           ],
           "entities": []
         },
