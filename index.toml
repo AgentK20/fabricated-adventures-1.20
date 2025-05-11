@@ -4728,16 +4728,6 @@ hash = "0bec1a2983404d43f32753cd193a620585457e85e624cabf2467afa0796cec0b"
 metafile = true
 
 [[files]]
-file = "mods/spawn-animations-compats.pw.toml"
-hash = "01877519ced0a04c2faa7aad26df7237e2a8e26961c49afcf2150379a016ab7c"
-metafile = true
-
-[[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "658f2f78263d779d2c988d548b09af015c4ef8e51819acf5f18bb1bfd1c5ee82"
-metafile = true
-
-[[files]]
 file = "mods/spawn-balance-utility.pw.toml"
 hash = "27a3e3e13aa6a67c36b00daacfce204837ff9a0e5d1f8e7679dec33b2c9fba3a"
 metafile = true
