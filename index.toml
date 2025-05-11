@@ -3115,6 +3115,11 @@ hash = "e6bfc4fc2fcdeeff8f3ae67b91687bf4d203676a4475d296763eb546c5377809"
 metafile = true
 
 [[files]]
+file = "mods/cme-is-bad.pw.toml"
+hash = "2c0f5984d93d80789a6f5f117b0896912ffce913def53cd7445d310e72b0966d"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "ff2c734786c306f7e415c78c90fa35bc603ff525a2d3e9babac59abfd7fe245a"
 metafile = true
