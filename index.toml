@@ -4783,9 +4783,8 @@ hash = "6e8f076977f714b19d6a5fde1e8c861e09a23712c36328ee17026f96a24dbd1c"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "b927c53d954f1faf0bd11067eeacf0f1ea8b986c14660b49654dae2662213ff7"
-metafile = true
+file = "mods/spiceoffabric-1.6.2+mc1.20.1.jar"
+hash = "27ed9ddd656ad0fc301f460dcf83a67d85016027165ebb4e4568c00eaaf56f83"
 
 [[files]]
 file = "mods/stack-refill.pw.toml"
