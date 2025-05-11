@@ -4913,6 +4913,11 @@ hash = "b45567da0b3a992bc7e80a447d57709b4afce4e0d52adeb0d9495f84a2052ef2"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "70f6a98166861713797757383bb8d23d84cfdca39d771a6a4af333d1c08ec706"
+metafile = true
+
+[[files]]
 file = "mods/trading-post.pw.toml"
 hash = "f988539767e9fe907cb5a0f14a35a40d92cbd730cfa3eed6ad5bc097c27c37de"
 metafile = true
