@@ -3559,11 +3559,6 @@ hash = "8629f55ffd91cfa46eb26611afc3b188dbccc7164277c3d9b7df2dc09b219932"
 metafile = true
 
 [[files]]
-file = "mods/fbp-renewed.pw.toml"
-hash = "716a320b7e7f93ca7f93f4d36bbb428ab3e48024d3d2068011260d9a9952b266"
-metafile = true
-
-[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "2fe5c3b7249e3f5fc2f2208010a92f57d853cde64d8bc87f985d938f767647a8"
 metafile = true
