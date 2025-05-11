@@ -2182,7 +2182,7 @@ hash = "10e1607f7ebabbddafef178bacd6f3f215a24f52870f3101809dc2c6bd72113f"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "773b0f7239d2f171ae7f8840e9c7058a086ea85d8ebe2c3deee53bbf467eef06"
+hash = "576ab7776c8f01bfe4ea5a8448f20bb805b8defba0460d14e10f8accc494f58d"
 
 [[files]]
 file = "config/stackdeobf.json"
