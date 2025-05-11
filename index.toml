@@ -4568,11 +4568,6 @@ hash = "1187343aa841668df480b95c643936686c12ba1906edc47e24d92c091d60401b"
 metafile = true
 
 [[files]]
-file = "mods/saturated.pw.toml"
-hash = "b23c31ae447ac87d476c55b1fa40e4822612ed824bc22545550e1b6f1ae793d5"
-metafile = true
-
-[[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "ae8ad9b8e764c48b48dbb3886634243a0781c172dcd30362b491eb30819f548d"
 metafile = true
