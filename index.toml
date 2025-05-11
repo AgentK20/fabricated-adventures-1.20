@@ -2665,6 +2665,11 @@ hash = "5ed5dc27fa616884f1a26e9aae94bd815f37d78d4f66af1c82ebb88b8f3a7d79"
 metafile = true
 
 [[files]]
+file = "mods/afkplus.pw.toml"
+hash = "a25861315c09cc71516451bf9b52d6e5ce887c293ad24f8906972cfcdb043f23"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "1bc328e5477ce87bb27110fd90258de8767f9ffef86434ae0c0c301292c29fb0"
 metafile = true
@@ -4390,6 +4395,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "82cabdaf45d241b70e90cf0d1d19247c70f322ea7c02f9b62c9afc5f4f1f2a3a"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "3c5a5fe2267f93188d7e41f7a06ea09a64b40224b90f601e42cf666c16f12268"
 metafile = true
 
 [[files]]
