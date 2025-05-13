@@ -1281,14 +1281,6 @@ file = "config/immersive_paintings.json"
 hash = "65503c4720dd1017227041ee6ce26650a75a123af7331d66c5fac0a2cdace94c"
 
 [[files]]
-file = "config/improvedmobs/client.json"
-hash = "b7022ee8bb451c44c26a3c20c281a5fd753cec0e6778c0a505fcc5217bbf318f"
-
-[[files]]
-file = "config/improvedmobs/common.json"
-hash = "3b896dd79d241d7120ffec8238763995eac5dfe5a258643017a03b5a629a898d"
-
-[[files]]
 file = "config/incapacitated.json"
 hash = "9787e3415ef7931a572f45b2288d55c19413a5c9396cdb2ce152d5938e1eedec"
 
@@ -1614,7 +1606,7 @@ hash = "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50"
 
 [[files]]
 file = "config/majruszsdifficulty.json"
-hash = "89ef9a0f8f280149a803116036ba2f54a2af3256bdb285bf5a1ec8a6d74b8cda"
+hash = "8d27efd00f140b9a5bce53ad3dc84fe3e1d2cbb82f917d0fcf77102e54fc012d"
 
 [[files]]
 file = "config/mantle-client.toml"
@@ -2454,7 +2446,7 @@ hash = "fe0bc8c3a04c4f9c39caea44a81d725dbdc02db561b52d6681c10cb34063174a"
 
 [[files]]
 file = "config/zenith/adventure.cfg"
-hash = "09064b8cef1b48714f1bf9124faf9505355eb96976e9498b19db246716656f71"
+hash = "21ddec7cbe54c6056cfd3dc1b500a1fb386692171b2c41e8f549429bf75dd58c"
 
 [[files]]
 file = "config/zenith/ench.cfg"
