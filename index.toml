@@ -3340,9 +3340,8 @@ hash = "3e11c7210511f5bc23c19c650a38c27be236031b4d969d71d91e6fbc3d6f936b"
 metafile = true
 
 [[files]]
-file = "mods/dwm.pw.toml"
-hash = "a8f86cff44d871f895dda304cba76416c1388cd89a3fc30da6375a3445cded6d"
-metafile = true
+file = "mods/dwm.jar"
+hash = "4e86678caeeb5e22cd9d1c0f003c60d56893a0b4ee98ee351ce032e789a81138"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
