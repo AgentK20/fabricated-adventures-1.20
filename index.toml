@@ -1642,7 +1642,7 @@ hash = "f46c406b8b4d11b5456490a38fb81c8130dad1c4609657bd51595d4ea6263dff"
 
 [[files]]
 file = "config/mobz.json5"
-hash = "fe6660793dcd1ee0eeb7e9a42129b8043487a4dbf626b92ded7b148dc50312a2"
+hash = "5aec9b9fe9ac52b1d08961df79343873fe7a52d414ae50cadec7a8546a2e2382"
 
 [[files]]
 file = "config/modmenu.json"
@@ -2243,14 +2243,6 @@ hash = "5522a11e0ec3c48416d9c8d85968ea0a26ee1b8e7f4fb6338be4bbd08e16cdef"
 [[files]]
 file = "config/suppsquared-common.json"
 hash = "4f27eddb687a764ca4f97158366c2c615f5e35d13b7bfae64d451396593d3dfc"
-
-[[files]]
-file = "config/tconstruct-client.toml"
-hash = "deaf9d4c11acfb7755eb7a3b7a44064b03c66f9e193834b0e898ad78a2474efb"
-
-[[files]]
-file = "config/tconstruct-common.toml"
-hash = "0642002cf9a0585924700ab5d606e2dd33bc3b7cf6c9a0eb07698f815245f3a3"
 
 [[files]]
 file = "config/tectonic.json"
