@@ -8,8 +8,6 @@ ServerEvents.recipes(event => {
         { output: "things:displacement_page"},
         // No, you cannot just magically create enchanted apples???
         { id: "zenith:enchanted_golden_apple"},
-        // Also, you can't even craft golden apples! Muahahaha
-        { id: "minecraft:golden_apple"},
         { id: "tconstruct:smeltery/casting/metal/gold/apple"},
         // Remove charm of flying
         { id: "zenith:potion_charm_flying"},

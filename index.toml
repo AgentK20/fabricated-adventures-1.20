@@ -2586,7 +2586,7 @@ hash = "3b1308724999b5a4776aa435e11d9116ee72339dfaef02121525bcb80ab4be72"
 
 [[files]]
 file = "kubejs/server_scripts/bmp/removals.js"
-hash = "ed04108855c32967c392b11f58f8646a8f944dcbf4e56b684112df8b20fd3092"
+hash = "562fc750d63f6e1b4bb7ece6d1a92409150899d254bf576420a226cbc0a00091"
 
 [[files]]
 file = "kubejs/server_scripts/bmp/scanner.js"
