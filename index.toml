@@ -3692,11 +3692,6 @@ hash = "43da9c3eb6b1ba077e6102bfd0825d2d119806cbc5ab446de33816de4e2c622b"
 metafile = true
 
 [[files]]
-file = "mods/harder-difficulty.pw.toml"
-hash = "a83d697f3504dd10af2cb35ac054bbe8523d2df4a02931940242f06a77105db4"
-metafile = true
-
-[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "840255d4c3fb4e6c5645718a721bc52f1f6fbba91762597877bc4c89295e5581"
 metafile = true
