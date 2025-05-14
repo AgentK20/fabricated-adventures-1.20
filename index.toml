@@ -4417,11 +4417,6 @@ hash = "fc30442e9257bae470b857afe6397b85035dca6d27b194f57dd2cf94b76f1ced"
 metafile = true
 
 [[files]]
-file = "mods/protection-balancer.pw.toml"
-hash = "88104237c01df20508143768c9ab71f1461b198693096bcf14714283015aeaad"
-metafile = true
-
-[[files]]
 file = "mods/purediscslofi.pw.toml"
 hash = "9fe3fa00059c2d8eca9926c601be11193a2c664724f688408ea0db9b14e2fb8a"
 metafile = true
