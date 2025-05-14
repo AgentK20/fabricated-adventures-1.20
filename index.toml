@@ -2900,9 +2900,8 @@ hash = "d8767b1f3e4183410d713ab8b6bb0e1a932e1320e054e31f2f8c9d43a9859f99"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-fabric.pw.toml"
-hash = "3be4d8184379525c27fee02066e56149bc701189a4b8b4c5ec5deff189f1422d"
-metafile = true
+file = "mods/blahaj-fabric-1.20.0-pride-0.3.2.jar"
+hash = "e8e911e9ad1b6694bb7e4146e4ec082400bf66e2fdad55da956346ae976eff95"
 
 [[files]]
 file = "mods/blast.pw.toml"
