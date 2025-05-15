@@ -3219,6 +3219,11 @@ hash = "4a43a88dc6fc605058ed7211999685379fc32bf5341c644593b918a9ffb31361"
 metafile = true
 
 [[files]]
+file = "mods/cucumber-library-refabricated-forked.pw.toml"
+hash = "3ba8c31a11889dcef86b65ac246f0e7469875e8bdc28cdc1a2795d5286437670"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
 hash = "c93d71f4a4084a7e643a809bf04e09d9c62562cb159b47f60fe2551e08c063a8"
 metafile = true
@@ -4144,6 +4149,11 @@ metafile = true
 [[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "b350cc83e24f5927ff800af0c21f70713aaff9458f1fb70bac4d13c3e670cf09"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture-refabricated-forked.pw.toml"
+hash = "99f0015e4dd5876dbd4b8d202d5fca4b0147d92f282aadf3e8ec1b8cd28c11c0"
 metafile = true
 
 [[files]]

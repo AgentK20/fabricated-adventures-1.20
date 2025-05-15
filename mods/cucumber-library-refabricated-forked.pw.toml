@@ -1,0 +1,13 @@
+name = "Cucumber Library: Refabricated [Forked]"
+filename = "Cucumber-Refabricated-1.20.1-2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ff4083f297f5c2832d6171977f528dbd23252f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5350209
+project-id = 1000276

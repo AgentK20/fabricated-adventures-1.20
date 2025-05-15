@@ -1,0 +1,13 @@
+name = "Mystical Agriculture: Refabricated [Forked]"
+filename = "MysticalAgriculture-Refabricated-1.20.1-3.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1419111e4e88988e2e1b3210e00b5f5f1a076516"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5350274
+project-id = 1019883
