@@ -4962,6 +4962,11 @@ hash = "01568090b529ca80cf9cc406fb72079d8103f7dfffade4051ab9a0a3e99625a7"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
 file = "mods/xp-storage-trinkets.pw.toml"
 hash = "7e5e0ec5d10220f835c5d6a442e44ce170219360cb44f82f9f20f1aa9f82d62f"
 metafile = true
