@@ -1506,7 +1506,7 @@ hash = "d0677e1cb2577cfddee4624b0a9e5fdc9822d802fa3bb5badc105cba7aa0dcd9"
 
 [[files]]
 file = "config/kibe.json"
-hash = "0863e4a227e3dbbb19e677d3d49f061133b77dc0597d67498be40a3a45b595b4"
+hash = "cc2ce06c09381ad8a6a5040a194ba3daaf23ca0c394dbf130ac45747e2734366"
 
 [[files]]
 file = "config/kiwi-client.yaml"
