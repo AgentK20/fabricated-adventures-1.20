@@ -31,7 +31,7 @@ exhaustionMultiplier = 1.0
 #Allowed Values: CONFIG_LIST, ALL, ORES, ORES_LOGS, ORES_STONE, ORES_STONE_LOGS, NO_BLOCK_ENTITIES
 blocks = "CONFIG_LIST"
 #The blocks or block tags for vein mining if blocks is set to "CONFIG_LIST".
-blocksList = ["#c:ores", "#forge:ores", "#minecraft:logs", "minecraft:sand", "#minecraft:leaves"]
+blocksList = ["#c:ores", "#forge:ores", "#minecraft:logs", "minecraft:sand", "#minecraft:leaves", "#c:tin_ores", "#c:silver_ores", "#c:tungsten_ores", "#c:lead_ores", "indrev:nikolite_ore", "indrev:deepslate_nikolite_ore"]
 #Determines if blocksList contains allowed blocks or denied blocks.
 #Allowed Values: ALLOW, DENY
 blocksListType = "ALLOW"

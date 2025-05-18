@@ -2374,7 +2374,7 @@ hash = "5e45dcf8c8d929e3ac98c64b923823e91e3b79485de2acb9ecd3b6ff27eca487"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "5ca2fba340103bb4f86ae388bf1a1f7e32cd97836db923d6da03661d72a1fa8b"
+hash = "c1f6e7278781bf424c21b57da4e82c9b4aedbbfe83b0cb82d35ec0ba158b9124"
 
 [[files]]
 file = "config/villagersplus/villagersplus-3.0-config.json5"
@@ -2454,7 +2454,7 @@ hash = "32dd3f98a33925e8deba05179be5cc0984c3530bdfb41b6057fdf1142683e358"
 
 [[files]]
 file = "config/zenith/names.cfg"
-hash = "1578b114d1f86fd1926ba01ad3e2c37e7342ae543a4799d0fba113f5c2c6981d"
+hash = "63d9ff88a0fbf47d380ba86bff8eff32d538cd0f73e4c622195bb8654bcba1b4"
 
 [[files]]
 file = "config/zenith/potion.cfg"
