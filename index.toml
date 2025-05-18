@@ -2549,6 +2549,10 @@ file = "kubejs/config/probejs.json"
 hash = "61d61b8ce212f037d2277c18203d6bfebcc049f35b8b29b78fbdcc791da11184"
 
 [[files]]
+file = "kubejs/data/trinkets/slots/head/hat2.json"
+hash = "54e652542bfcb6c05c7e8a7842066454d9cd41441ac6c75785a327123525bcee"
+
+[[files]]
 file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
