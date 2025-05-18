@@ -27,7 +27,7 @@
     "enableTurtleArmorEffects": true,
     "coolingFromIce": 12,
     "minSkyLightLevelForHeat": 13,
-    "heatFromSun": 1,
+    "heatFromSun": 0.8,
     "scorchingBiomeHeatIncrease": 1,
     "sunHatShadeTemperatureChange": -1,
     "onFireWarmRate": 24,

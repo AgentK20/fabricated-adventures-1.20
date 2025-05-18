@@ -1878,7 +1878,7 @@ hash = "3fd99e19617cb10dc79fa3258b63bf4b6e7a8a2560f5e97d99ef159fa3c170c8"
 
 [[files]]
 file = "config/scorchful.json"
-hash = "6ba4d3d5f6d5c8aff36084c71ba88c3f54cab4b1861eb419ac35fdbe4a45d41f"
+hash = "d4e8bf258321604818ad645076d0ea424158c2eeb80a771527696c8f5c08be35"
 
 [[files]]
 file = "config/seamless_loading_screen.json"
