@@ -2558,7 +2558,7 @@ hash = "78d907fd14de427c6058eb4b4ea8a6b2ffc08042502f105fad9e5f4c5a1d125d"
 
 [[files]]
 file = "kubejs/server_scripts/bmp/cooling.js"
-hash = "dfd4747219995925970c8b2fd8b73f389397093abac885e89e8e6906bbe3cc64"
+hash = "f8a5bdef2a967375d022f028c9ce9bd65ffadc96fdca192c5badfe07ef1abe35"
 
 [[files]]
 file = "kubejs/server_scripts/bmp/explorationToken.js"

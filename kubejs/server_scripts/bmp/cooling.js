@@ -5,4 +5,6 @@ ServerEvents.tags('item', event => {
   event.add('scorchful:is_cooling_food', 'ends_delight:chorus_fruit_popsicle')
   event.add('scorchful:is_cooling_food', 'farmersdelight:melon_popsicle')
   event.add('scorchful:is_cooling_food', 'moredelight:chocolate_popsicle')
+  event.add('scorchful:is_cooling_food', 'adastradelight:ice_cookie')
+  event.add('scorchful:is_cooling_food', 'adastradelight:ice_pie')
 })
