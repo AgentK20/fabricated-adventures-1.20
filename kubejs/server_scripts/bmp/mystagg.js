@@ -3,7 +3,6 @@ ServerEvents.recipes(event => {
 
   // Define a list of all known growth accelerator variants
   const growthAccelerators = [
-    'mysticalagriculture:basic_growth_accelerator',
     'mysticalagriculture:inferium_growth_accelerator',
     'mysticalagriculture:prudentium_growth_accelerator',
     'mysticalagriculture:tertium_growth_accelerator',
