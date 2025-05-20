@@ -2577,6 +2577,10 @@ file = "kubejs/server_scripts/bmp/immersiveAircraft.js"
 hash = "2d97c1460345f07da66108a3c820c36c77da9be7ddc523c081ab8074a54f1b88"
 
 [[files]]
+file = "kubejs/server_scripts/bmp/mystagg.js"
+hash = "6d26855db4f72f514b2b2db5d9e87dbbb8e3162982ac4a4416533a09ca3060a2"
+
+[[files]]
 file = "kubejs/server_scripts/bmp/paths.js"
 hash = "3b1308724999b5a4776aa435e11d9116ee72339dfaef02121525bcb80ab4be72"
 
