@@ -12,6 +12,7 @@
     "c:tungsten_ores": 3,
     "minecraft:diamond_ores": 4,
     "minecraft:emerald_ores": 4,
-    "c:ancient_debris_ores": 4
+    "c:ancient_debris_ores": 4,
+    "c:prosperity_ores": 4
   }
 }

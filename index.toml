@@ -1310,7 +1310,7 @@ hash = "6fbf00f4491111f1be29b4a6dbe172aa90df35cadd5d5ce2cf350bd10e11cbe7"
 
 [[files]]
 file = "config/indrev/mining_rig_config.json"
-hash = "c9a0a12c14e6d0b9c88d9ed8aa5586ee41435408d814dbf081ae207484b1dc5b"
+hash = "8c4dfd961c45c58e53b6cd519b02b49d6e9a9dfc099cab4a335f0c62265dc8cd"
 
 [[files]]
 file = "config/indrev/oregen.json"
