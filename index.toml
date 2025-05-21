@@ -4560,11 +4560,6 @@ hash = "69daf6ddd961b270e380f1635edd3feb3bf766dfc537455c25edb9edd8b3ab5a"
 metafile = true
 
 [[files]]
-file = "mods/scorchful.pw.toml"
-hash = "9505a21bbd78707188b82d77a61126ebc20e8e2cb2728f7ee7cdf19512c7328f"
-metafile = true
-
-[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "02ceb41d5f2fd4b2fb8299bb3615a94cd22e621a2ce42992b5227566ec22c6ce"
 metafile = true
