@@ -17,4 +17,16 @@ ServerEvents.recipes(event => {
       [block, block, block]
     ).id(`${id_prefix}${block.split(':')[1]}`)
   }
+  event.shaped(
+        Item.of("mysticalagriculture:soul_glass", 1),
+        [
+          ' A ',
+          'ABA',
+          ' A '
+        ],
+        {
+            A: "mysticalagriculture:soul_dust",
+            B: "#c:glass_blocks"
+        }
+      )
 })

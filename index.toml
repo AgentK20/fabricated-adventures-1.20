@@ -2578,7 +2578,7 @@ hash = "2d97c1460345f07da66108a3c820c36c77da9be7ddc523c081ab8074a54f1b88"
 
 [[files]]
 file = "kubejs/server_scripts/bmp/mystagg.js"
-hash = "9119eb87f1650abc63ef08a03da873d3b324fe51e45e824a5bb13956bd5fcfff"
+hash = "36f5f1ac81ce58368d04a9389b80fc2d2036492665f7db84a1b99349c94eb2c9"
 
 [[files]]
 file = "kubejs/server_scripts/bmp/paths.js"
