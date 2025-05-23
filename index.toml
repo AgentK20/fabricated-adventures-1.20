@@ -2757,6 +2757,11 @@ hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
 metafile = true
 
 [[files]]
+file = "mods/automated-crafting.pw.toml"
+hash = "edd68ece03ed782e79caa900fc1b40e18b9ec3dcd9e150ae920f8f051fc35b6e"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "94918d5613a4e0e8490b7e19b575f7b4843d8557889d71b6bfd54641dcbc0205"
 metafile = true
@@ -3209,6 +3214,16 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "c9297ce4f2d18b77e8ce81e94796f8b7e793f59f319cc574271e6e16980e23d1"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "210a2ac7359605a83b8601e29fb8a16ea15420db1b2f70ae068941d12daf9f50"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "88ae4d8007d44fead0f0844f1bfdf72622e8ca3c40de40d45f8532bbeb8c5d4d"
 metafile = true
 
 [[files]]
@@ -4627,6 +4642,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "194bcdfc276baead9bff868c35e1cfc070de74d2edccbe1b0a68711a170f3387"
 metafile = true
 
 [[files]]

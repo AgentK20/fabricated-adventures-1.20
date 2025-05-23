@@ -1,0 +1,13 @@
+name = "Automated Crafting"
+filename = "automated-crafting-1.4.15-1+MC1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ffc3bf2b9bbf7f6294b5ec82acca8ff60daa362"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5037442
+project-id = 389435
