@@ -6,7 +6,7 @@ hash = "0ccf7084062f696c9c2c8255dc74994327a71512cb290f9e2e2b7ff502850b5e"
 
 [[files]]
 file = "config/AdvancedBackups.properties"
-hash = "bb71cf5e1d8cd97972d23cc7c75d75757d5c7cbc0cd1e5c811dc6546dc455a74"
+hash = "fa03071e38be79ef69f3d7995e5fd2ed752e952787c9e099704dac87222f876c"
 
 [[files]]
 file = "config/AqMods/caracal.config"
