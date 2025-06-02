@@ -2110,7 +2110,7 @@ hash = "cf53c21bfcaf286da750ff5e344360c33ab058edeed11cb05d484978e5faebe9"
 
 [[files]]
 file = "config/spawnbalanceutility/BiomeMobWeight.txt"
-hash = "cbe923b7c83b9e748acc910975c7c0d27bd9020112e40c71511697a6ffdc3f46"
+hash = "83a8106bf57f5de777bb0a219d1d633de4731a2dff26251e304034d855041446"
 
 [[files]]
 file = "config/spawnbalanceutility/MassAdditionMobs.txt"
